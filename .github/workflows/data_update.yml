@@ -6,10 +6,13 @@ on:
       - main
 
 jobs:
-  run-akashi-schedule:
+  run:
     runs-on: ubuntu-latest
+    if: github.actor != 'github_actions'
 
     steps:
+      - run: echo "🎉 The job was automatically triggered by ${{ github.actor }}."
+
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
