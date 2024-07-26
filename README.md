@@ -3,4 +3,4 @@
 
 ## Data
 
-- [Akashi Schedule](https://andychucs.github.io/ooyodo/data/akashi_schedule.json)
+- [Akashi Schedule](https://conntower.github.io/ooyodo/data/akashi_schedule.json)
