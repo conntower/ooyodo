@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ooyodo"
 version = "0.1.0"
-description = ""
+description = "The Kancolle information data and API project."
 authors = ["andy"]
 readme = "README.md"
 
