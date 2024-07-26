@@ -1,0 +1,3 @@
+[submodule "repo/kcanotify-gamedata"]
+	path = repo/kcanotify-gamedata
+	url = git@github.com:andychucs/kcanotify-gamedata.git

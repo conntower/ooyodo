@@ -1,0 +1,37 @@
+name: Auto update
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-akashi-schedule:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+
+      - run: poetry install --no-interaction --no-root
+        if: steps.cache-deps.outputs.cache-hit != 'true'
+
+      - run: poetry install --no-interaction
+
+      - name: Run akashi_schedule
+        run: |
+          poetry run python -m script.akashi_schedule
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          add-paths: |
+            data/*
