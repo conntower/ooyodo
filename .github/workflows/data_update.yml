@@ -29,10 +29,6 @@ jobs:
         run: |
           poetry run python -m script.akashi_schedule
 
-      - name: Checkout a new branch
-        run: |
-          git checkout -b data_update_${{github.run_id}}
-
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
@@ -40,10 +36,11 @@ jobs:
           message: "GitHub Actions Update"
           add: "data/*"
           push: false
+          new_branch: data_update_${{github.run_id}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: create pull request
-        run: gh pr create -B main -H data_update_${{github.run_id}} --title 'Data Update' --body 'Created by Github action'
+        run: gh pr create --title 'Data Update' --body 'Created by Github action'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
