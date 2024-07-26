@@ -29,8 +29,20 @@ jobs:
         run: |
           poetry run python -m script.akashi_schedule
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+      - name: Checkout a new branch
+        run: |
+          git checkout -b data_update_${{github.run_id}}
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
         with:
-          add-paths: |
-            data/*
+          default_author: github_actions
+          message: "GitHub Actions Update"
+          add: "data/*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: create pull request
+        run: gh pr create -B base_branch -H branch_to_merge --title 'Merge branch_to_merge into base_branch' --body 'Created by Github action'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
