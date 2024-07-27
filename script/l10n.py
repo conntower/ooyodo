@@ -29,7 +29,7 @@ class Localization:
 
         print(f'{len(result)} translations, {len(items)} items')
 
-        with open(os.path.join(ROOT_PATH, 'data', 'item_l10n.json'), 'w') as f:
+        with open(os.path.join(ROOT_PATH, 'data', 'slotitem_l10n.json'), 'w') as f:
             data = {
                 "data_version": str(self.version),
                 "data": result
