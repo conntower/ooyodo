@@ -28,13 +28,9 @@ jobs:
 
       - run: poetry install --no-interaction
 
-      - name: Run akashi_schedule
+      - name: Run script
         run: |
-          poetry run python -m script.akashi_schedule
-
-      - name: Run l10n
-        run: |
-          poetry run python -m script.l10n
+          poetry run python -m script.run
 
       - name: Commit changes
         id: commit
