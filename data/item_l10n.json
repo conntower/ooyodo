@@ -1,0 +1,5377 @@
+{
+  "data_version": "2024072708",
+  "data": {
+    "1": {
+      "ja": "12cm単装砲",
+      "en": "12cm Single Gun Mount",
+      "ko": "12cm 단장포",
+      "sc": "12cm单装炮",
+      "tc": "12cm單裝砲"
+    },
+    "2": {
+      "ja": "12.7cm連装砲",
+      "en": "12.7cm Twin Gun Mount",
+      "ko": "12.7cm 연장포",
+      "sc": "12.7cm连装炮",
+      "tc": "12.7cm連裝砲"
+    },
+    "3": {
+      "ja": "10cm連装高角砲",
+      "en": "10cm Twin High-angle Gun Mount",
+      "ko": "10cm 연장고각포",
+      "sc": "10cm连装高角炮",
+      "tc": "10cm連裝高角砲"
+    },
+    "4": {
+      "ja": "14cm単装砲",
+      "en": "14cm Single Gun Mount",
+      "ko": "14cm 단장포",
+      "sc": "14cm单装炮",
+      "tc": "14cm單裝砲"
+    },
+    "5": {
+      "ja": "15.5cm三連装砲",
+      "en": "15.5cm Triple Gun Mount",
+      "ko": "15.5cm 삼연장포",
+      "sc": "15.5cm三连装炮(主炮)",
+      "tc": "15.5cm三連裝砲"
+    },
+    "6": {
+      "ja": "20.3cm連装砲",
+      "en": "20.3cm Twin Gun Mount",
+      "ko": "20.3cm 연장포",
+      "sc": "20.3cm连装炮",
+      "tc": "20.3cm連裝砲"
+    },
+    "7": {
+      "ja": "35.6cm連装砲",
+      "en": "35.6cm Twin Gun Mount",
+      "ko": "35.6cm 연장포",
+      "sc": "35.6cm连装炮",
+      "tc": "35.6cm連裝砲"
+    },
+    "8": {
+      "ja": "41cm連装砲",
+      "en": "41cm Twin Gun Mount",
+      "ko": "41cm 연장포",
+      "sc": "41cm连装炮",
+      "tc": "41cm連裝砲"
+    },
+    "9": {
+      "ja": "46cm三連装砲",
+      "en": "46cm Triple Gun Mount",
+      "ko": "46cm 삼연장포",
+      "sc": "46cm三连装炮",
+      "tc": "46cm三連裝砲"
+    },
+    "10": {
+      "ja": "12.7cm連装高角砲",
+      "en": "12.7cm Twin High-angle Gun Mount",
+      "ko": "12.7cm 연장고각포",
+      "sc": "12.7cm连装高角炮",
+      "tc": "12.7cm連裝高角砲"
+    },
+    "11": {
+      "ja": "15.2cm単装砲",
+      "en": "15.2cm Single Gun Mount",
+      "ko": "15.2cm 단장포",
+      "sc": "15.2cm单装炮",
+      "tc": "15.2cm單裝砲"
+    },
+    "12": {
+      "ja": "15.5cm三連装副砲",
+      "en": "15.5cm Triple Secondary Gun Mount",
+      "ko": "15.5cm 삼연장부포",
+      "sc": "15.5cm三连装炮(副炮)",
+      "tc": "15.5cm三連裝副砲"
+    },
+    "13": {
+      "ja": "61cm三連装魚雷",
+      "en": "61cm Triple Torpedo Mount",
+      "ko": "61cm 삼연장 어뢰",
+      "sc": "61cm三连装鱼雷",
+      "tc": "61cm三連裝魚雷"
+    },
+    "14": {
+      "ja": "61cm四連装魚雷",
+      "en": "61cm Quadruple Torpedo Mount",
+      "ko": "61cm 사연장 어뢰",
+      "sc": "61cm四连装鱼雷",
+      "tc": "61cm四連裝魚雷"
+    },
+    "15": {
+      "ja": "61cm四連装(酸素)魚雷",
+      "en": "61cm Quadruple (Oxygen) Torpedo Mount",
+      "ko": "61cm 사연장 (산소) 어뢰",
+      "sc": "61cm四连装(酸素)鱼雷",
+      "tc": "61cm四連裝(氧氣)魚雷"
+    },
+    "16": {
+      "ja": "九七式艦攻",
+      "en": "Type 97 Torpedo Bomber",
+      "ko": "97식 함상공격기",
+      "sc": "九七式舰攻",
+      "tc": "九七式艦攻"
+    },
+    "17": {
+      "ja": "天山",
+      "en": "Tenzan",
+      "ko": "텐잔",
+      "sc": "天山",
+      "tc": "天山"
+    },
+    "18": {
+      "ja": "流星",
+      "en": "Ryuusei",
+      "ko": "류세이",
+      "sc": "流星",
+      "tc": "流星"
+    },
+    "19": {
+      "ja": "九六式艦戦",
+      "en": "Type 96 Fighter",
+      "ko": "96식 함상전투기",
+      "sc": "九六式舰战",
+      "tc": "九六式艦戰"
+    },
+    "20": {
+      "ja": "零式艦戦21型",
+      "en": "Type 0 Fighter Model 21",
+      "ko": "영식 함상전투기 21형",
+      "sc": "零式舰战21型",
+      "tc": "零式艦戰21型"
+    },
+    "21": {
+      "ja": "零式艦戦52型",
+      "en": "Type 0 Fighter Model 52",
+      "ko": "영식 함상전투기 52형",
+      "sc": "零式舰战52型",
+      "tc": "零式艦戰52型"
+    },
+    "22": {
+      "ja": "試製烈風 後期型",
+      "en": "Prototype Reppuu Late Model",
+      "ko": "시제 렛푸 후기형",
+      "sc": "试制烈风 后期型",
+      "tc": "試製烈風 後期型"
+    },
+    "23": {
+      "ja": "九九式艦爆",
+      "en": "Type 99 Dive Bomber",
+      "ko": "99식 함상폭격기",
+      "sc": "九九式舰爆",
+      "tc": "九九式艦爆"
+    },
+    "24": {
+      "ja": "彗星",
+      "en": "Suisei",
+      "ko": "스이세이",
+      "sc": "彗星",
+      "tc": "彗星"
+    },
+    "25": {
+      "ja": "零式水上偵察機",
+      "en": "Type 0 Reconnaissance Seaplane",
+      "ko": "영식 수상정찰기",
+      "sc": "零式水上侦察机",
+      "tc": "零式水上偵察機"
+    },
+    "26": {
+      "ja": "瑞雲",
+      "en": "Zuiun",
+      "ko": "즈이운",
+      "sc": "瑞云",
+      "tc": "瑞雲"
+    },
+    "27": {
+      "ja": "13号対空電探",
+      "en": "Type 13 Air Radar",
+      "ko": "13호 대공전탐",
+      "sc": "13号对空电探",
+      "tc": "13號對空電探"
+    },
+    "28": {
+      "ja": "22号対水上電探",
+      "en": "Type 22 Surface Radar",
+      "ko": "22호 대수상전탐",
+      "sc": "22号对水上电探",
+      "tc": "22號對水上電探"
+    },
+    "29": {
+      "ja": "33号対水上電探",
+      "en": "Type 33 Surface Radar",
+      "ko": "33호 대수상전탐",
+      "sc": "33号对水上电探",
+      "tc": "33號對水上電探"
+    },
+    "30": {
+      "ja": "21号対空電探",
+      "en": "Type 21 Air Radar",
+      "ko": "21호 대공전탐",
+      "sc": "21号对空电探",
+      "tc": "21號對空電探"
+    },
+    "31": {
+      "ja": "32号対水上電探",
+      "en": "Type 32 Surface Radar",
+      "ko": "32호 대수상전탐",
+      "sc": "32号对水上电探",
+      "tc": "32號對水上電探"
+    },
+    "32": {
+      "ja": "42号対空電探",
+      "en": "Type 42 Air Radar",
+      "ko": "42호 대공전탐",
+      "sc": "42号对空电探",
+      "tc": "42號對空電探"
+    },
+    "33": {
+      "ja": "改良型艦本式タービン",
+      "en": "Improved Kanhon Type Turbine",
+      "ko": "개량형 함본식 터빈",
+      "sc": "改良型舰船涡轮机",
+      "tc": "改良型艦本式渦輪"
+    },
+    "34": {
+      "ja": "強化型艦本式缶",
+      "en": "Enhanced Kanhon Type Boiler",
+      "ko": "강화형 함본식 보일러",
+      "sc": "强化型舰船锅炉",
+      "tc": "強化型艦本式鍋爐"
+    },
+    "35": {
+      "ja": "三式弾",
+      "en": "Type 3 Shell",
+      "ko": "삼식탄",
+      "sc": "三式弹",
+      "tc": "三式彈"
+    },
+    "36": {
+      "ja": "九一式徹甲弾",
+      "en": "Type 91 Armor Piercing Shell",
+      "ko": "91식 철갑탄",
+      "sc": "九一式穿甲弹",
+      "tc": "九一式徹甲彈"
+    },
+    "37": {
+      "ja": "7.7mm機銃",
+      "en": "7.7mm Machine Gun",
+      "ko": "7.7mm 기총",
+      "sc": "7.7mm机枪",
+      "tc": "7.7mm機槍"
+    },
+    "38": {
+      "ja": "12.7mm単装機銃",
+      "en": "12.7mm Single Machine Gun Mount",
+      "ko": "12.7mm 단장기총",
+      "sc": "12.7mm机枪",
+      "tc": "12.7mm單裝機槍"
+    },
+    "39": {
+      "ja": "25mm連装機銃",
+      "en": "25mm Twin Autocannon Mount",
+      "ko": "25mm 연장기총",
+      "sc": "25mm连装机枪",
+      "tc": "25mm連裝機槍"
+    },
+    "40": {
+      "ja": "25mm三連装機銃",
+      "en": "25mm Triple Autocannon Mount",
+      "ko": "25mm 삼연장기총",
+      "sc": "25mm三连装机枪",
+      "tc": "25mm三連裝機槍"
+    },
+    "41": {
+      "ja": "甲標的 甲型",
+      "en": "Kouhyouteki Model A",
+      "ko": "갑표적 갑형",
+      "sc": "甲标的 甲型",
+      "tc": "甲標的 甲型"
+    },
+    "42": {
+      "ja": "応急修理要員",
+      "en": "Emergency Repair Personnel",
+      "ko": "응급수리요원",
+      "sc": "应急修理要员",
+      "tc": "應急修理要員"
+    },
+    "43": {
+      "ja": "応急修理女神",
+      "en": "Emergency Repair Goddess",
+      "ko": "응급수리여신",
+      "sc": "应急修理女神",
+      "tc": "應急修理女神"
+    },
+    "44": {
+      "ja": "九四式爆雷投射機",
+      "en": "Type 94 Depth Charge Projector",
+      "ko": "94식 폭뢰투사기",
+      "sc": "九四式爆雷投射机",
+      "tc": "九四式爆雷投射機"
+    },
+    "45": {
+      "ja": "三式爆雷投射機",
+      "en": "Type 3 Depth Charge Projector",
+      "ko": "3식 폭뢰투사기",
+      "sc": "三式爆雷投射机",
+      "tc": "三式爆雷投射機"
+    },
+    "46": {
+      "ja": "九三式水中聴音機",
+      "en": "Type 93 Passive Sonar",
+      "ko": "93식 수중청음기",
+      "sc": "九三式水中听音机",
+      "tc": "九三式水中聽音機"
+    },
+    "47": {
+      "ja": "三式水中探信儀",
+      "en": "Type 3 Active Sonar",
+      "ko": "3식 수중탐신기",
+      "sc": "三式水中探信仪",
+      "tc": "三式水中探信儀"
+    },
+    "48": {
+      "ja": "12cm単装高角砲",
+      "en": "12cm Single High-angle Gun Mount",
+      "ko": "12cm 단장고각포",
+      "sc": "12cm单装高角炮",
+      "tc": "12cm單裝高角砲"
+    },
+    "49": {
+      "ja": "25mm単装機銃",
+      "en": "25mm Single Autocannon Mount",
+      "ko": "25mm 단장기총",
+      "sc": "25mm单装机枪",
+      "tc": "25mm單裝機槍"
+    },
+    "50": {
+      "ja": "20.3cm(3号)連装砲",
+      "en": "20.3cm (No.3) Twin Gun Mount",
+      "ko": "20.3cm (3호) 연장포",
+      "sc": "20.3cm(3号)连装炮",
+      "tc": "20.3cm(3號)連裝砲"
+    },
+    "51": {
+      "ja": "12cm30連装噴進砲",
+      "en": "12cm 30-tube Rocket Launcher",
+      "ko": "12cm 30연장분진포",
+      "sc": "12cm30连装喷进炮",
+      "tc": "12cm30連裝噴進砲"
+    },
+    "52": {
+      "ja": "流星改",
+      "en": "Ryuusei Kai",
+      "ko": "류세이 개",
+      "sc": "流星改",
+      "tc": "流星改"
+    },
+    "53": {
+      "ja": "烈風 一一型",
+      "en": "Reppuu Model 11",
+      "ko": "렛푸 11형",
+      "sc": "烈风 一一型",
+      "tc": "烈風 一一型"
+    },
+    "54": {
+      "ja": "彩雲",
+      "en": "Saiun",
+      "ko": "사이운",
+      "sc": "彩云",
+      "tc": "彩雲"
+    },
+    "55": {
+      "ja": "紫電改二",
+      "en": "Shiden Kai 2",
+      "ko": "시덴 개2",
+      "sc": "紫电改二",
+      "tc": "紫電改二"
+    },
+    "56": {
+      "ja": "震電改",
+      "en": "Shinden Kai",
+      "ko": "신덴 개",
+      "sc": "震电改",
+      "tc": "震電改"
+    },
+    "57": {
+      "ja": "彗星一二型甲",
+      "en": "Suisei Model 12A",
+      "ko": "스이세이 12형 갑",
+      "sc": "彗星一二型甲",
+      "tc": "彗星一二型甲"
+    },
+    "58": {
+      "ja": "61cm五連装(酸素)魚雷",
+      "en": "61cm Quintuple (Oxygen) Torpedo Mount",
+      "ko": "61cm 오연장 (산소) 어뢰",
+      "sc": "61cm五连装(酸素)鱼雷",
+      "tc": "61cm五連裝(氧氣)魚雷"
+    },
+    "59": {
+      "ja": "零式水上観測機",
+      "en": "Type 0 Observation Seaplane",
+      "ko": "영식 수상관측기",
+      "sc": "零式水上观测机",
+      "tc": "零式水上觀測機"
+    },
+    "60": {
+      "ja": "零式艦戦62型(爆戦)",
+      "en": "Type 0 Fighter Model 62 (Fighter-bomber)",
+      "ko": "영식 함상전투기 62형 (폭전)",
+      "sc": "零式舰战62型(爆战)",
+      "tc": "零式艦戰62型(爆戰)"
+    },
+    "61": {
+      "ja": "二式艦上偵察機",
+      "en": "Type 2 Reconnaissance Aircraft",
+      "ko": "2식 함상정찰기",
+      "sc": "二式舰上侦察机",
+      "tc": "二式艦上偵察機"
+    },
+    "62": {
+      "ja": "試製晴嵐",
+      "en": "Prototype Seiran",
+      "ko": "시제 세이란",
+      "sc": "试制晴岚",
+      "tc": "試製晴嵐"
+    },
+    "63": {
+      "ja": "12.7cm連装砲B型改二",
+      "en": "12.7cm Twin Gun Mount Model B Kai 2",
+      "ko": "12.7cm 연장포 B형 개2",
+      "sc": "12.7cm连装炮B型改二",
+      "tc": "12.7cm連裝砲B型改二"
+    },
+    "64": {
+      "ja": "Ju87C改",
+      "en": "Ju 87C Kai",
+      "ko": "Ju 87C 개",
+      "sc": "Ju87C改",
+      "tc": "Ju87C改"
+    },
+    "65": {
+      "ja": "15.2cm連装砲",
+      "en": "15.2cm Twin Gun Mount",
+      "ko": "15.2cm 연장포",
+      "sc": "15.2cm连装炮",
+      "tc": "15.2cm連裝砲"
+    },
+    "66": {
+      "ja": "8cm高角砲",
+      "en": "8cm High-angle Gun",
+      "ko": "8cm 고각포",
+      "sc": "8cm连装高角炮",
+      "tc": "8cm高角砲"
+    },
+    "67": {
+      "ja": "53cm艦首(酸素)魚雷",
+      "en": "53cm Bow (Oxygen) Torpedo Mount",
+      "ko": "53cm 함수 (산소) 어뢰",
+      "sc": "53cm舰首(酸素)鱼雷",
+      "tc": "53cm艦首(氧氣)魚雷"
+    },
+    "68": {
+      "ja": "大発動艇",
+      "en": "Daihatsu Landing Craft",
+      "ko": "대발동정",
+      "sc": "大发动艇",
+      "tc": "大發動艇"
+    },
+    "69": {
+      "ja": "カ号観測機",
+      "en": "Ka Type Observation Autogyro",
+      "ko": "카호 관측기",
+      "sc": "KA号观测机",
+      "tc": "KA號觀測機"
+    },
+    "70": {
+      "ja": "三式指揮連絡機(対潜)",
+      "en": "Type 3 Command Liaison Aircraft (ASW)",
+      "ko": "3식 지휘연락기 (대잠)",
+      "sc": "三式指挥联络机(对潜)",
+      "tc": "三式指揮聯絡機(對潛)"
+    },
+    "71": {
+      "ja": "10cm連装高角砲(砲架)",
+      "en": "10cm Twin High-angle Gun Mount (Carriage)",
+      "ko": "10cm 연장고각포 (포가)",
+      "sc": "10cm连装高角炮(炮架)",
+      "tc": "10cm連裝高角砲(砲架)"
+    },
+    "72": {
+      "ja": "増設バルジ(中型艦)",
+      "en": "Anti-torpedo Bulge (Medium)",
+      "ko": "증설벌지 (중형함)",
+      "sc": "增设装甲板(中型舰)",
+      "tc": "增設防雷鼓包(中型艦)"
+    },
+    "73": {
+      "ja": "増設バルジ(大型艦)",
+      "en": "Anti-Torpedo Bulge (Large)",
+      "ko": "증설벌지 (대형함)",
+      "sc": "增设装甲板(大型舰)",
+      "tc": "增設防雷鼓包(大型艦)"
+    },
+    "74": {
+      "ja": "探照灯",
+      "en": "Searchlight",
+      "ko": "탐조등",
+      "sc": "探照灯",
+      "tc": "探照燈"
+    },
+    "75": {
+      "ja": "ドラム缶(輸送用)",
+      "en": "Drum Canister",
+      "ko": "드럼통 (수송용)",
+      "sc": "桶(运输用)",
+      "tc": "運輸桶"
+    },
+    "76": {
+      "ja": "38cm連装砲",
+      "en": "38cm Twin Gun Mount",
+      "ko": "38cm 연장포",
+      "sc": "38cm连装炮",
+      "tc": "38cm連裝砲"
+    },
+    "77": {
+      "ja": "15cm連装副砲",
+      "en": "15cm Twin Secondary Gun Mount",
+      "ko": "15cm 연장부포",
+      "sc": "15cm连装炮",
+      "tc": "15cm連裝副砲"
+    },
+    "78": {
+      "ja": "12.7cm単装砲",
+      "en": "12.7cm Single Gun Mount",
+      "ko": "12.7cm 단장포",
+      "sc": "12.7cm单装炮",
+      "tc": "12.7cm單裝砲"
+    },
+    "79": {
+      "ja": "瑞雲(六三四空)",
+      "en": "Zuiun (634 Air Group)",
+      "ko": "즈이운 (634공)",
+      "sc": "瑞云(六三四空)",
+      "tc": "瑞雲(六三四空)"
+    },
+    "80": {
+      "ja": "瑞雲12型",
+      "en": "Zuiun Model 12",
+      "ko": "즈이운 12형",
+      "sc": "瑞云12型",
+      "tc": "瑞雲12型"
+    },
+    "81": {
+      "ja": "瑞雲12型(六三四空)",
+      "en": "Zuiun Model 12 (634 Air Group)",
+      "ko": "즈이운 12형 (634공)",
+      "sc": "瑞云12型(六三四空)",
+      "tc": "瑞雲12型(六三四空)"
+    },
+    "82": {
+      "ja": "九七式艦攻(九三一空)",
+      "en": "Type 97 Torpedo Bomber (931 Air Group)",
+      "ko": "97식 함상공격기 (931공)",
+      "sc": "九七式舰攻(九三一空)",
+      "tc": "九七式艦攻(九三一空)"
+    },
+    "83": {
+      "ja": "天山(九三一空)",
+      "en": "Tenzan (931 Air Group)",
+      "ko": "텐잔 (931공)",
+      "sc": "天山(九三一空)",
+      "tc": "天山(九三一空)"
+    },
+    "84": {
+      "ja": "2cm 四連装FlaK 38",
+      "en": "2cm Flakvierling 38",
+      "ko": "2cm 사연장 FlaK 38",
+      "sc": "2cm四连装FlaK 38",
+      "tc": "2cm 四連裝FlaK38"
+    },
+    "85": {
+      "ja": "3.7cm FlaK M42",
+      "en": "3.7cm FlaK M42",
+      "ko": "3.7cm FlaK M42",
+      "sc": "3.7cm FlaK M42",
+      "tc": "3.7cm FlaK M42"
+    },
+    "86": {
+      "ja": "艦艇修理施設",
+      "en": "Ship Repair Facility",
+      "ko": "함정수리시설",
+      "sc": "舰艇修理设施",
+      "tc": "艦艇修理設施"
+    },
+    "87": {
+      "ja": "新型高温高圧缶",
+      "en": "New Model High Temperature High Pressure Boiler",
+      "ko": "신형 고온고압 보일러",
+      "sc": "新型高温高压锅炉",
+      "tc": "新型高溫高壓鍋爐"
+    },
+    "88": {
+      "ja": "22号対水上電探改四",
+      "en": "Type 22 Surface Radar Kai 4",
+      "ko": "22호 대수상전탐 개4",
+      "sc": "22号对水上电探改四",
+      "tc": "22號對水上電探改四"
+    },
+    "89": {
+      "ja": "21号対空電探改",
+      "en": "Type 21 Air Radar Kai",
+      "ko": "21호 대공전탐 개",
+      "sc": "21号对空电探改",
+      "tc": "21號對空電探改"
+    },
+    "90": {
+      "ja": "20.3cm(2号)連装砲",
+      "en": "20.3cm (No.2) Twin Gun Mount",
+      "ko": "20.3cm (2호) 연장포",
+      "sc": "20.3cm(2号)连装炮",
+      "tc": "20.3cm(2號)連裝砲"
+    },
+    "91": {
+      "ja": "12.7cm連装高角砲(後期型)",
+      "en": "12.7cm Twin High-angle Gun Mount (Late Model)",
+      "ko": "12.7cm 연장고각포 (후기형)",
+      "sc": "12.7cm连装高角炮(后期型)",
+      "tc": "12.7cm連裝高角砲(後期型)"
+    },
+    "92": {
+      "ja": "毘式40mm連装機銃",
+      "en": "Bi Type 40mm Twin Autocannon Mount",
+      "ko": "비식 40mm 연장기총",
+      "sc": "毘式40mm连装机枪",
+      "tc": "毘式40mm連裝機槍"
+    },
+    "93": {
+      "ja": "九七式艦攻(友永隊)",
+      "en": "Type 97 Torpedo Bomber (Tomonaga Squadron)",
+      "ko": "97식 함상공격기 (토모나가대)",
+      "sc": "九七式舰攻(友永队)",
+      "tc": "九七式艦攻(友永隊)"
+    },
+    "94": {
+      "ja": "天山一二型(友永隊)",
+      "en": "Tenzan Model 12 (Tomonaga Squadron)",
+      "ko": "텐잔 12형 (토모나가대)",
+      "sc": "天山一二型(友永队)",
+      "tc": "天山一二型(友永隊)"
+    },
+    "95": {
+      "ja": "潜水艦53cm艦首魚雷(8門)",
+      "en": "Submarine 53cm Bow Torpedo Mount (8 tubes)",
+      "ko": "잠수함 53cm 함수어뢰 (8문)",
+      "sc": "潜艇53cm舰首鱼雷(8门)",
+      "tc": "艦水艇53cm艦首魚雷(8門)"
+    },
+    "96": {
+      "ja": "零式艦戦21型(熟練)",
+      "en": "Type 21 Zero Fighter (Skilled)",
+      "ko": "영식 함상전투기 21형 (숙련)",
+      "sc": "零式舰战21型(熟练)",
+      "tc": "零式艦戰21型(熟練)"
+    },
+    "97": {
+      "ja": "九九式艦爆(熟練)",
+      "en": "Type 99 Dive Bomber (Skilled)",
+      "ko": "99식 함상폭격기 (숙련)",
+      "sc": "九九式舰爆(熟练)",
+      "tc": "九九式艦爆(熟練)"
+    },
+    "98": {
+      "ja": "九七式艦攻(熟練)",
+      "en": "Type 97 Torpedo Bomber (Skilled)",
+      "ko": "97식 함상공격기 (숙련)",
+      "sc": "九七式舰攻(熟练)",
+      "tc": "九七式艦攻(熟練)"
+    },
+    "99": {
+      "ja": "九九式艦爆(江草隊)",
+      "en": "Type 99 Dive Bomber (Egusa Squadron)",
+      "ko": "99식 함상폭격기 (에구사대)",
+      "sc": "九九式舰爆(江草队)",
+      "tc": "九九式艦爆(江草隊)"
+    },
+    "100": {
+      "ja": "彗星(江草隊)",
+      "en": "Suisei (Egusa Squadron)",
+      "ko": "스이세이 (에구사대)",
+      "sc": "彗星(江草队)",
+      "tc": "彗星(江草隊)"
+    },
+    "101": {
+      "ja": "照明弾",
+      "en": "Star Shell",
+      "ko": "조명탄",
+      "sc": "照明弹",
+      "tc": "照明彈"
+    },
+    "102": {
+      "ja": "九八式水上偵察機(夜偵)",
+      "en": "Type 98 Reconnaissance Seaplane (Night Recon)",
+      "ko": "98식 수상정찰기 (야정)",
+      "sc": "九八式水上侦察机(夜侦)",
+      "tc": "九八式水上偵察機(夜偵)"
+    },
+    "103": {
+      "ja": "試製35.6cm三連装砲",
+      "en": "Prototype 35.6cm Triple Gun Mount",
+      "ko": "시제 35.6cm 삼연장포",
+      "sc": "试制35.6cm三连装炮",
+      "tc": "試製35.6cm三連裝砲"
+    },
+    "104": {
+      "ja": "35.6cm連装砲(ダズル迷彩)",
+      "en": "35.6cm Twin Gun Mount (Dazzle Camouflage)",
+      "ko": "35.6cm 연장포 (대즐 미채)",
+      "sc": "35.6cm连装炮(炫光迷彩)",
+      "tc": "35.6cm連裝砲(炫光迷彩)"
+    },
+    "105": {
+      "ja": "試製41cm三連装砲",
+      "en": "Prototype 41cm Triple Gun Mount",
+      "ko": "시제 41cm 삼연장포",
+      "sc": "试制41cm三连装炮",
+      "tc": "試製41cm三連裝砲"
+    },
+    "106": {
+      "ja": "13号対空電探改",
+      "en": "Type 13 Air Radar Kai",
+      "ko": "13호 대공전탐 개",
+      "sc": "13号对空电探改",
+      "tc": "13號對空電探改"
+    },
+    "107": {
+      "ja": "艦隊司令部施設",
+      "en": "Fleet Command Facility",
+      "ko": "함대사령부 시설",
+      "sc": "舰队司令部设施",
+      "tc": "艦隊司令部設施"
+    },
+    "108": {
+      "ja": "熟練艦載機整備員",
+      "en": "Skilled Carrier-based Aircraft Maintenance Personnel",
+      "ko": "숙련함재기정비원",
+      "sc": "熟练舰载机整备员",
+      "tc": "熟練艦載機整備員"
+    },
+    "109": {
+      "ja": "零戦52型丙(六〇一空)",
+      "en": "Zero Fighter Model 52C (601 Air Group)",
+      "ko": "영식 함상전투기 52형병 (601공)",
+      "sc": "零式舰战52型丙(六〇一空)",
+      "tc": "零戰52型丙(六〇一空)"
+    },
+    "110": {
+      "ja": "烈風(六〇一空)",
+      "en": "Reppuu (601 Air Group)",
+      "ko": "렛푸 (601공)",
+      "sc": "烈风(六〇一空)",
+      "tc": "烈風(六〇一空)"
+    },
+    "111": {
+      "ja": "彗星(六〇一空)",
+      "en": "Suisei (601 Air Group)",
+      "ko": "스이세이 (601공)",
+      "sc": "彗星(六〇一空)",
+      "tc": "彗星(六〇一空)"
+    },
+    "112": {
+      "ja": "天山(六〇一空)",
+      "en": "Tenzan (601 Air Group)",
+      "ko": "텐잔 (601공)",
+      "sc": "天山(六〇一空)",
+      "tc": "天山(六〇一空)"
+    },
+    "113": {
+      "ja": "流星(六〇一空)",
+      "en": "Ryuusei (601 Air Group)",
+      "ko": "류세이 (601공)",
+      "sc": "流星(六〇一空)",
+      "tc": "流星(六〇一空)"
+    },
+    "114": {
+      "ja": "38cm連装砲改",
+      "en": "38cm Twin Gun Mount Kai",
+      "ko": "38cm 연장포 개",
+      "sc": "38cm连装炮改",
+      "tc": "38cm連裝砲改"
+    },
+    "115": {
+      "ja": "Ar196改",
+      "en": "Ar196 Kai",
+      "ko": "Ar196개",
+      "sc": "Ar196改",
+      "tc": "Ar196改"
+    },
+    "116": {
+      "ja": "一式徹甲弾",
+      "en": "Type 1 AP Shell",
+      "ko": "1식 철갑탄",
+      "sc": "一式穿甲弹",
+      "tc": "一式徹甲彈"
+    },
+    "117": {
+      "ja": "試製46cm連装砲",
+      "en": "Prototype 46cm Twin Gun Mount",
+      "ko": "시제 46cm 연장포",
+      "sc": "试制46cm连装炮",
+      "tc": "試製46cm連裝砲"
+    },
+    "118": {
+      "ja": "紫雲",
+      "en": "Shiun",
+      "ko": "시운",
+      "sc": "紫云",
+      "tc": "紫雲"
+    },
+    "119": {
+      "ja": "14cm連装砲",
+      "en": "14cm Twin Gun Mount",
+      "ko": "14cm 연장포",
+      "sc": "14cm连装炮",
+      "tc": "14cm連裝砲"
+    },
+    "120": {
+      "ja": "91式高射装置",
+      "en": "Type 91 Anti-Aircraft Fire Director",
+      "ko": "91식 고사장치",
+      "sc": "91式高射装置",
+      "tc": "91式高射裝置"
+    },
+    "121": {
+      "ja": "94式高射装置",
+      "en": "Type 94 Anti-Aircraft Fire Director",
+      "ko": "94식 고사장치",
+      "sc": "94式高射装置",
+      "tc": "94式高射裝置"
+    },
+    "122": {
+      "ja": "10cm連装高角砲+高射装置",
+      "en": "10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director",
+      "ko": "10cm 연장고각포 + 고사장치",
+      "sc": "10cm连装高角炮+高射装置",
+      "tc": "10cm連裝高角砲+高射裝置"
+    },
+    "123": {
+      "ja": "SKC34 20.3cm連装砲",
+      "en": "SKC34 20.3cm Twin Gun Mount",
+      "ko": "SKC34 20.3cm 연장포",
+      "sc": "SKC34 20.3cm连装炮",
+      "tc": "SKC34 20.3cm連裝砲"
+    },
+    "124": {
+      "ja": "FuMO25 レーダー",
+      "en": "FuMO25 Radar",
+      "ko": "FuMO25 레이더",
+      "sc": "FuMO25雷达",
+      "tc": "FuMO25雷達"
+    },
+    "125": {
+      "ja": "61cm三連装(酸素)魚雷",
+      "en": "61cm Triple (Oxygen) Torpedo Mount",
+      "ko": "61cm 삼연장 (산소) 어뢰",
+      "sc": "61cm三连装(酸素)鱼雷",
+      "tc": "61cm三連裝(氧氣)魚雷"
+    },
+    "126": {
+      "ja": "WG42 (Wurfgerät 42)",
+      "en": "WG42 (Wurfgerät 42)",
+      "ko": "WG42 (Wurfgerät 42)",
+      "sc": "WG42 (Wurfgerät 42)",
+      "tc": "WG42 (Wurfgerät 42) 多管火箭砲"
+    },
+    "127": {
+      "ja": "試製FaT仕様九五式酸素魚雷改",
+      "en": "Prototype FaT Type 95 Oxygen Torpedo Kai",
+      "ko": "시제 FaT 95식 산소 어뢰 개",
+      "sc": "试制FaT规格九五式酸素鱼雷改",
+      "tc": "試製FaT樣式九五式氧氣魚雷改"
+    },
+    "128": {
+      "ja": "試製51cm連装砲",
+      "en": "Prototype 51cm Twin Gun Mount",
+      "ko": "시제 51cm 연장포",
+      "sc": "试制51cm连装炮",
+      "tc": "試製51cm連裝砲"
+    },
+    "129": {
+      "ja": "熟練見張員",
+      "en": "Skilled Lookouts",
+      "ko": "숙련견시원",
+      "sc": "熟练瞭望员",
+      "tc": "熟練見張員"
+    },
+    "130": {
+      "ja": "12.7cm高角砲+高射装置",
+      "en": "12.7cm High-angle Gun + Anti-Aircraft Fire Director",
+      "ko": "12.7cm 고각포 + 고사장치",
+      "sc": "12.7cm连装高角炮+高射装置",
+      "tc": "12.7cm高角砲+高射裝置"
+    },
+    "131": {
+      "ja": "25mm三連装機銃 集中配備",
+      "en": "25mm Triple Autocannon Mount (Concentrated Deployment)",
+      "ko": "25mm 삼연장기총 (집중배치)",
+      "sc": "25mm三连装机枪 集中配备",
+      "tc": "25mm三連裝機槍 集中配備"
+    },
+    "132": {
+      "ja": "零式水中聴音機",
+      "en": "Type 0 Passive Sonar",
+      "ko": "영식 수중청음기",
+      "sc": "零式水中听音机",
+      "tc": "零式水中聽音機"
+    },
+    "133": {
+      "ja": "381mm/50 三連装砲",
+      "en": "381mm/50 Triple Gun Mount",
+      "ko": "381mm/50 삼연장포",
+      "sc": "381mm/50三连装炮",
+      "tc": "381mm/50三連裝砲"
+    },
+    "134": {
+      "ja": "OTO 152mm三連装速射砲",
+      "en": "OTO 152mm Triple Rapid Fire Gun Mount",
+      "ko": "OTO 152mm 삼연장속사포",
+      "sc": "OTO 152mm三连装速射炮",
+      "tc": "OTO 152mm連裝速射砲"
+    },
+    "135": {
+      "ja": "90mm単装高角砲",
+      "en": "90mm Single High-angle Gun Mount",
+      "ko": "90mm 단장고각포",
+      "sc": "90mm单装高角炮",
+      "tc": "90mm單裝高角砲"
+    },
+    "136": {
+      "ja": "プリエーゼ式水中防御隔壁",
+      "en": "Pugliese Underwater Protection Bulkhead",
+      "ko": "풀리에제식 수중방어격벽",
+      "sc": "Pugliese水下防御舱壁",
+      "tc": "普列賽式水中防禦隔板"
+    },
+    "137": {
+      "ja": "381mm/50 三連装砲改",
+      "en": "381mm/50 Triple Gun Mount Kai",
+      "ko": "381mm/50 삼연장포 개",
+      "sc": "381mm/50三连装炮改",
+      "tc": "381mm/50三連裝砲改"
+    },
+    "138": {
+      "ja": "二式大艇",
+      "en": "Type 2 Large-sized Flying Boat",
+      "ko": "2식 대정",
+      "sc": "二式大艇",
+      "tc": "二式大艇"
+    },
+    "139": {
+      "ja": "15.2cm連装砲改",
+      "en": "15.2cm Twin Gun Mount Kai",
+      "ko": "15.2cm 연장포 개",
+      "sc": "15.2cm连装炮改",
+      "tc": "15.2cm連裝砲改"
+    },
+    "140": {
+      "ja": "96式150cm探照灯",
+      "en": "Type 96 150cm Searchlight",
+      "ko": "96식 150cm 탐조등",
+      "sc": "96式150cm探照灯",
+      "tc": "96式150cm探照燈"
+    },
+    "141": {
+      "ja": "32号対水上電探改",
+      "en": "Type 32 Surface Radar Kai",
+      "ko": "32호 대수상전탐 개",
+      "sc": "32号对水上电探改",
+      "tc": "32號對水上電探改"
+    },
+    "142": {
+      "ja": "15m二重測距儀+21号電探改二",
+      "en": "15m Duplex Rangefinder + Type 21 Air Radar Kai Ni",
+      "ko": "15m 이중측거의 + 21호 전탐 개2",
+      "sc": "15m二重测距仪+21号电探改二",
+      "tc": "15m二重測距儀+21號電探改二"
+    },
+    "143": {
+      "ja": "九七式艦攻(村田隊)",
+      "en": "Type 97 Torpedo Bomber (Murata Squadron)",
+      "ko": "97식 함상공격기 (무라타대)",
+      "sc": "九七式舰攻(村田队)",
+      "tc": "九七式艦攻(村田隊)"
+    },
+    "144": {
+      "ja": "天山一二型(村田隊)",
+      "en": "Tenzan Model 12 (Murata Squadron)",
+      "ko": "텐잔 12형 (무라타대)",
+      "sc": "天山一二型(村田队)",
+      "tc": "天山一二型(村田隊)"
+    },
+    "145": {
+      "ja": "戦闘糧食",
+      "en": "Combat Ration",
+      "ko": "전투식량",
+      "sc": "战斗粮食",
+      "tc": "戰鬥糧食"
+    },
+    "146": {
+      "ja": "洋上補給",
+      "en": "Underway Replenishment",
+      "ko": "해상보급",
+      "sc": "洋上补给",
+      "tc": "洋上補給"
+    },
+    "147": {
+      "ja": "120mm/50 連装砲",
+      "en": "120mm/50 Twin Gun Mount",
+      "ko": "120mm/50 연장포",
+      "sc": "120mm/50 连装炮",
+      "tc": "120mm/50 連裝砲"
+    },
+    "148": {
+      "ja": "試製南山",
+      "en": "Prototype Nanzan",
+      "ko": "시제 난잔",
+      "sc": "试制南山",
+      "tc": "試製南山"
+    },
+    "149": {
+      "ja": "四式水中聴音機",
+      "en": "Type 4 Passive Sonar",
+      "ko": "4식 수중청음기",
+      "sc": "四式水中听音机",
+      "tc": "四式水中聴音機"
+    },
+    "150": {
+      "ja": "秋刀魚の缶詰",
+      "en": "Canned Mackerel",
+      "ko": "꽁치 통조림",
+      "sc": "秋刀鱼罐头",
+      "tc": "秋刀魚罐頭"
+    },
+    "151": {
+      "ja": "試製景雲(艦偵型)",
+      "en": "Prototype Keiun (Carrier-based Reconnaissance Model)",
+      "ko": "시제 케이운 (함상정찰형)",
+      "sc": "试制景云(舰侦型)",
+      "tc": "試製景雲(艦偵型)"
+    },
+    "152": {
+      "ja": "零式艦戦52型(熟練)",
+      "en": "Type 0 Fighter Model 52 (Skilled)",
+      "ko": "영식 함상전투기 52형 (숙련)",
+      "sc": "零式舰战52型(熟练)",
+      "tc": "零式艦戰52型(熟練)"
+    },
+    "153": {
+      "ja": "零戦52型丙(付岩井小隊)",
+      "en": "Zero Fighter Model 52C (w/ Iwai Flight)",
+      "ko": "영식 함상전투기 52형 병 (이와이소대)",
+      "sc": "零战52型丙(付岩井小队)",
+      "tc": "零戰52型丙(附岩井小隊)"
+    },
+    "154": {
+      "ja": "零戦62型(爆戦/岩井隊)",
+      "en": "Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron)",
+      "ko": "영식 함상전투기 62형 (전폭기/이와이대)",
+      "sc": "零战62型(爆战/岩井队)",
+      "tc": "零戰62型(爆戰/岩井隊)"
+    },
+    "155": {
+      "ja": "零戦21型(付岩本小隊)",
+      "en": "Zero Fighter Model 21 (w/ Iwamoto Flight)",
+      "ko": "영식 함상전투기 21형 (이와모토 소대)",
+      "sc": "零战21型(付岩本小队)",
+      "tc": "零戰21型(附岩本小隊)"
+    },
+    "156": {
+      "ja": "零戦52型甲(付岩本小隊)",
+      "en": "Zero Fighter Model 52A (w/ Iwamoto Flight)",
+      "ko": "영식 함상전투기 52형 갑 (이와모토소대)",
+      "sc": "零战52型甲(付岩本小队)",
+      "tc": "零戰52型甲(附岩本小隊)"
+    },
+    "157": {
+      "ja": "零式艦戦53型(岩本隊)",
+      "en": "Type 0 Fighter Model 53 (Iwamoto Squadron)",
+      "ko": "영식 함상전투기 53형 (이와모토대)",
+      "sc": "零式舰战53型(岩本队)",
+      "tc": "零式艦戰53型(岩本隊)"
+    },
+    "158": {
+      "ja": "Bf109T改",
+      "en": "Bf 109T Kai",
+      "ko": "Bf 109T 개",
+      "sc": "Bf109T改",
+      "tc": "Bf109T改"
+    },
+    "159": {
+      "ja": "Fw190T改",
+      "en": "Fw 190T Kai",
+      "ko": "Fw 190T 개",
+      "sc": "Fw190T改",
+      "tc": "Fw190T改"
+    },
+    "160": {
+      "ja": "10.5cm連装砲",
+      "en": "10.5cm Twin Gun Mount",
+      "ko": "10.5cm 연장포",
+      "sc": "10.5cm连装炮",
+      "tc": "10.5cm連裝砲"
+    },
+    "161": {
+      "ja": "16inch三連装砲 Mk.7",
+      "en": "16inch Triple Gun Mount Mk.7",
+      "ko": "16inch 삼연장포 Mk.7",
+      "sc": "16inch三连装炮 Mk.7",
+      "tc": "16ich三連裝砲 Mk.7"
+    },
+    "162": {
+      "ja": "203mm/53 連装砲",
+      "en": "203mm/53 Twin Gun Mount",
+      "ko": "203mm/53 연장포",
+      "sc": "203mm/53连装炮",
+      "tc": "203mm/53 連裝砲"
+    },
+    "163": {
+      "ja": "Ro.43水偵",
+      "en": "Ro.43 Reconnaissance Seaplane",
+      "ko": "Ro.43 수상정찰기",
+      "sc": "Ro.43水侦",
+      "tc": "Ro.43水偵"
+    },
+    "164": {
+      "ja": "Ro.44水上戦闘機",
+      "en": "Ro.44 Seaplane Fighter",
+      "ko": "Ro.44 수상전투기",
+      "sc": "Ro.44水上战斗机",
+      "tc": "Ro.44水上戰鬥機"
+    },
+    "165": {
+      "ja": "二式水戦改",
+      "en": "Type 2 Seaplane Fighter Kai",
+      "ko": "2식 수상전투기 개",
+      "sc": "二式水战改",
+      "tc": "二式水戰改"
+    },
+    "166": {
+      "ja": "大発動艇(八九式中戦車&陸戦隊)",
+      "en": "Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force)",
+      "ko": "대발동정(89식 중형전차&육전대)",
+      "sc": "大发动艇(八九式中战车&陆战队)",
+      "tc": "大發動艇(八九式中戰車&陸戰隊)"
+    },
+    "167": {
+      "ja": "特二式内火艇",
+      "en": "Special Type 2 Amphibious Landing Craft",
+      "ko": "특2식 내화정",
+      "sc": "特二式内火艇",
+      "tc": "特二式內火艇"
+    },
+    "168": {
+      "ja": "九六式陸攻",
+      "en": "Type 96 Land-based Attack Aircraft",
+      "ko": "96식 육상공격기",
+      "sc": "九六式陆攻",
+      "tc": "九六式陸攻"
+    },
+    "169": {
+      "ja": "一式陸攻",
+      "en": "Type 1 Land-based Attack Aircraft",
+      "ko": "1식 육상공격기",
+      "sc": "一式陆攻",
+      "tc": "一式陸攻"
+    },
+    "170": {
+      "ja": "一式陸攻(野中隊)",
+      "en": "Type 1 Land-based Attack Aircraft (Nonaka Squadron)",
+      "ko": "1식 육상공격기 (노나카대)",
+      "sc": "一式陆攻(野中队)",
+      "tc": "一式陸攻(野中隊)"
+    },
+    "171": {
+      "ja": "OS2U",
+      "en": "OS2U",
+      "ko": "OS2U",
+      "sc": "OS2U",
+      "tc": "OS2U"
+    },
+    "172": {
+      "ja": "5inch連装砲 Mk.28 mod.2",
+      "en": "5inch Twin Gun Mount Mk.28 mod.2",
+      "ko": "5inch 연장포 Mk.28 mod.2",
+      "sc": "5inch连装炮 Mk.28 mod.2",
+      "tc": "5inch連裝砲 Mk.28 mod.2"
+    },
+    "173": {
+      "ja": "Bofors 40mm四連装機関砲",
+      "en": "Bofors 40mm Quadruple Autocannon Mount",
+      "ko": "Bofors 40mm 사연장기관포",
+      "sc": "Bofors 40mm四连装机关炮",
+      "tc": "Bofors 40mm四連裝機砲"
+    },
+    "174": {
+      "ja": "53cm連装魚雷",
+      "en": "53cm Twin Torpedo Mount",
+      "ko": "53cm 연장어뢰",
+      "sc": "53cm连装鱼雷",
+      "tc": "53cm連裝魚雷"
+    },
+    "175": {
+      "ja": "雷電",
+      "en": "Raiden",
+      "ko": "라이덴",
+      "sc": "雷电",
+      "tc": "雷電"
+    },
+    "176": {
+      "ja": "三式戦 飛燕",
+      "en": "Type 3 Fighter Hien",
+      "ko": "3식 전투기 히엔",
+      "sc": "三式战 飞燕",
+      "tc": "三式戰 飛燕"
+    },
+    "177": {
+      "ja": "三式戦 飛燕(飛行第244戦隊)",
+      "en": "Type 3 Fighter Hien (244th Air Combat Group)",
+      "ko": "3식 전투기 히엔 (비행제244전대)",
+      "sc": "三式战 飞燕(飞行第244战队)",
+      "tc": "三式戰 飛燕(飛行第244戰隊)"
+    },
+    "178": {
+      "ja": "PBY-5A Catalina",
+      "en": "PBY-5A Catalina",
+      "ko": "PBY-5A Catalina",
+      "sc": "PBY-5A Catalina",
+      "tc": "PBY-5A 卡特琳娜"
+    },
+    "179": {
+      "ja": "試製61cm六連装(酸素)魚雷",
+      "en": "Prototype 61cm Sextuple (Oxygen) Torpedo Mount",
+      "ko": "시제 61cm 육연장 (산소) 어뢰",
+      "sc": "试制61cm六连装(酸素)鱼雷",
+      "tc": "試製61cm六連裝(氧氣)魚雷"
+    },
+    "180": {
+      "ja": "一式陸攻 二二型甲",
+      "en": "Type 1 Land-based Attack Aircraft Model 22A",
+      "ko": "1식 육상공격기 22형 갑",
+      "sc": "一式陆攻 二二型甲",
+      "tc": "一式陸攻 二二型甲"
+    },
+    "181": {
+      "ja": "零式艦戦32型",
+      "en": "Type 0 Fighter Model 32",
+      "ko": "영식 함상전투기 32형",
+      "sc": "零式舰战32型",
+      "tc": "零式艦戰32型"
+    },
+    "182": {
+      "ja": "零式艦戦32型(熟練)",
+      "en": "Type 0 Fighter Model 32 (Skilled)",
+      "ko": "영식 함상전투기 32형 (숙련)",
+      "sc": "零式舰战32型(熟练)",
+      "tc": "零式艦戰32型(熟練)"
+    },
+    "183": {
+      "ja": "16inch三連装砲 Mk.7+GFCS",
+      "en": "16inch Triple Gun Mount Mk.7 + GFCS",
+      "ko": "16inch 삼연장포 Mk.7+GFCS",
+      "sc": "16inch三连装炮 Mk.7+GFCS",
+      "tc": "16inch三連裝砲 Mk.7+GFCS"
+    },
+    "184": {
+      "ja": "Re.2001 OR改",
+      "en": "Re.2001 OR Kai",
+      "ko": "Re.2001 OR 개",
+      "sc": "Re.2001 OR改",
+      "tc": "Re.2001 OR改"
+    },
+    "185": {
+      "ja": "三式戦 飛燕一型丁",
+      "en": "Type 3 Fighter Hien Model 1D",
+      "ko": "3식 전투기 히엔 1형 정",
+      "sc": "三式战 飞燕一型丁",
+      "tc": "飛燕一型丁"
+    },
+    "186": {
+      "ja": "一式陸攻 三四型",
+      "en": "Type 1 Land-based Attack Aircraft Model 34",
+      "ko": "1식 육상공격기 34형",
+      "sc": "一式陆攻 三四型",
+      "tc": "一式陸攻 三四型"
+    },
+    "187": {
+      "ja": "銀河",
+      "en": "Ginga",
+      "ko": "긴가",
+      "sc": "银河",
+      "tc": "銀河"
+    },
+    "188": {
+      "ja": "Re.2001 G改",
+      "en": "Re.2001 G Kai",
+      "ko": "Re.2001 G개",
+      "sc": "Re.2001 G改",
+      "tc": "Re.2001 G改"
+    },
+    "189": {
+      "ja": "Re.2005 改",
+      "en": "Re.2005 Kai",
+      "ko": "Re.2005 개",
+      "sc": "Re.2005 改",
+      "tc": "Re.2005 改"
+    },
+    "190": {
+      "ja": "38.1cm Mk.I連装砲",
+      "en": "38.1cm Mk.I Twin Gun Mount",
+      "ko": "38.1cm Mk.I 연장포",
+      "sc": "38.1cm Mk.I连装炮",
+      "tc": "38.1cm Mk.I連裝砲"
+    },
+    "191": {
+      "ja": "QF 2ポンド8連装ポンポン砲",
+      "en": "QF 2-pounder Octuple Pom-pom Gun Mount",
+      "ko": "QF 2파운드 8연장 폼폼포",
+      "sc": "QF 2镑8连装砰砰炮",
+      "tc": "QF 2磅8連裝砰砰砲"
+    },
+    "192": {
+      "ja": "38.1cm Mk.I/N連装砲改",
+      "en": "38.1cm Mk.I/N Twin Gun Mount Kai",
+      "ko": "38.1cm Mk.I/N 연장포 개",
+      "sc": "38.1cm Mk.I/N连装炮改",
+      "tc": "38.1cm Mk.I/N連裝砲改"
+    },
+    "193": {
+      "ja": "特大発動艇",
+      "en": "Toku Daihatsu Landing Craft",
+      "ko": "특대발동정",
+      "sc": "特大发动艇",
+      "tc": "特大發動艇"
+    },
+    "194": {
+      "ja": "Laté 298B",
+      "en": "Laté 298B",
+      "ko": "Laté 298B",
+      "sc": "Laté 298B",
+      "tc": "Laté 298B"
+    },
+    "195": {
+      "ja": "SBD",
+      "en": "SBD",
+      "ko": "SBD",
+      "sc": "SBD",
+      "tc": "SBD"
+    },
+    "196": {
+      "ja": "TBD",
+      "en": "TBD",
+      "ko": "TBD",
+      "sc": "TBD",
+      "tc": "TBD"
+    },
+    "197": {
+      "ja": "F4F-3",
+      "en": "F4F-3",
+      "ko": "F4F-3",
+      "sc": "F4F-3",
+      "tc": "F4F-3"
+    },
+    "198": {
+      "ja": "F4F-4",
+      "en": "F4F-4",
+      "ko": "F4F-4",
+      "sc": "F4F-4",
+      "tc": "F4F-4"
+    },
+    "199": {
+      "ja": "噴式景雲改",
+      "en": "Jet Keiun Kai",
+      "ko": "제트식 케이운 개",
+      "sc": "喷式景云改",
+      "tc": "噴射景雲改"
+    },
+    "200": {
+      "ja": "橘花改",
+      "en": "Kikka Kai",
+      "ko": "킷카 개",
+      "sc": "橘花改",
+      "tc": "橘花改"
+    },
+    "201": {
+      "ja": "紫電一一型",
+      "en": "Shiden Model 11",
+      "ko": "시덴 11형",
+      "sc": "紫电一一型",
+      "tc": "紫電一一型"
+    },
+    "202": {
+      "ja": "紫電二一型 紫電改",
+      "en": "Shiden Model 21 Shiden Kai",
+      "ko": "시덴 21형 시덴 개",
+      "sc": "紫电二一型 紫电改",
+      "tc": "紫電二一型 紫電改"
+    },
+    "203": {
+      "ja": "艦本新設計 増設バルジ(中型艦)",
+      "en": "New Kanhon Design Anti-torpedo Bulge (Medium)",
+      "ko": "함본 신설계 증설 벌지 (중형함)",
+      "sc": "舰本新设计 增设装甲板(中型舰)",
+      "tc": "艦本新設計 增設裝甲板(中型艦)"
+    },
+    "204": {
+      "ja": "艦本新設計 増設バルジ(大型艦)",
+      "en": "New Kanhon Design Anti-torpedo Bulge (Large)",
+      "ko": "함본 신설계 증설 벌지 (대형함)",
+      "sc": "舰本新设计 增设装甲板(大型舰)",
+      "tc": "艦本新設計 增設防雷鼓包(大型艦)"
+    },
+    "205": {
+      "ja": "F6F-3",
+      "en": "F6F-3",
+      "ko": "F6F-3",
+      "sc": "F6F-3",
+      "tc": "F6F-3"
+    },
+    "206": {
+      "ja": "F6F-5",
+      "en": "F6F-5",
+      "ko": "F6F-5",
+      "sc": "F6F-5",
+      "tc": "F6F-5"
+    },
+    "207": {
+      "ja": "瑞雲(六三一空)",
+      "en": "Zuiun (631 Air Group)",
+      "ko": "즈이운 (631공)",
+      "sc": "瑞云(六三一空)",
+      "tc": "瑞雲(六三一空)"
+    },
+    "208": {
+      "ja": "晴嵐(六三一空)",
+      "en": "Seiran (631 Air Group)",
+      "ko": "세이란 (631공)",
+      "sc": "晴岚(六三一空)",
+      "tc": "晴嵐(六三一空)"
+    },
+    "209": {
+      "ja": "彩雲(輸送用分解済)",
+      "en": "Saiun (Disassembled for Transport)",
+      "ko": "사이운 (수송용분해됨)",
+      "sc": "彩云(运输用拆卸版)",
+      "tc": "彩雲(運輸用拆解版)"
+    },
+    "210": {
+      "ja": "潜水艦搭載電探&水防式望遠鏡",
+      "en": "Submarine Radar & Waterproof Periscope",
+      "ko": "잠수함탑재전탐&수방식 망원경",
+      "sc": "潜艇搭载电探&水防式望远镜",
+      "tc": "潛水艦搭載電探&水防式望遠鏡"
+    },
+    "211": {
+      "ja": "潜水艦搭載電探&逆探(E27)",
+      "en": "Submarine Radar & Passive Radiolocator (E27)",
+      "ko": "잠수함탑재전탐&역탐(E27)",
+      "sc": "潜艇搭载电探&逆探(E27)",
+      "tc": "潛水艦搭載電探&逆探(E27)"
+    },
+    "212": {
+      "ja": "彩雲(東カロリン空)",
+      "en": "Saiun (Eastern Caroline Air Group)",
+      "ko": "사이운 (동부캐롤라인공)",
+      "sc": "彩云(东卡罗琳空)",
+      "tc": "彩雲(東加羅林空)"
+    },
+    "213": {
+      "ja": "後期型艦首魚雷(6門)",
+      "en": "Late Model Bow Torpedo Mount (6 tubes)",
+      "ko": "후기형 함수어뢰 (6문)",
+      "sc": "后期型舰首鱼雷(6门)",
+      "tc": "後期型艦首魚雷(6門)"
+    },
+    "214": {
+      "ja": "熟練聴音員+後期型艦首魚雷(6門)",
+      "en": "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (6 tubes)",
+      "ko": "숙련청음원+후기형 함수어뢰 (6문)",
+      "sc": "熟练聴音员+后期型舰首鱼雷(6门)",
+      "tc": "熟練聴音員+後期型艦首魚雷(6門)"
+    },
+    "215": {
+      "ja": "Ro.44水上戦闘機bis",
+      "en": "Ro.44 Seaplane Fighter bis",
+      "ko": "Ro.44 수상전투기 bis",
+      "sc": "Ro.44水上战斗机bis",
+      "tc": "Ro.44水上戰鬥機bis"
+    },
+    "216": {
+      "ja": "二式水戦改(熟練)",
+      "en": "Type 2 Seaplane Fighter Kai (Skilled)",
+      "ko": "2식 수상전투기 개 (숙련)",
+      "sc": "二式水战改(熟练)",
+      "tc": "二式水戰改(熟練)"
+    },
+    "217": {
+      "ja": "強風改",
+      "en": "Kyoufuu Kai",
+      "ko": "쿄후 개",
+      "sc": "強风改",
+      "tc": "強風改"
+    },
+    "218": {
+      "ja": "四式戦 疾風",
+      "en": "Type 4 Fighter Hayate",
+      "ko": "4식전 하야테",
+      "sc": "四式战 疾风",
+      "tc": "四式戰 疾風"
+    },
+    "219": {
+      "ja": "零式艦戦63型(爆戦)",
+      "en": "Type 0 Fighter Model 63 (Fighter-bomber)",
+      "ko": "영식 함상전투기 63형 (폭전)",
+      "sc": "零式舰战63型(爆战)",
+      "tc": "零式艦戰63型(爆戰)"
+    },
+    "220": {
+      "ja": "8cm高角砲改+増設機銃",
+      "en": "8cm High-angle Gun Kai + Extra Machine Gun",
+      "ko": "8cm 고각포 개 + 증설기총",
+      "sc": "8cm连装高角炮改+增设机枪",
+      "tc": "8cm連裝高角砲改+增設機槍"
+    },
+    "221": {
+      "ja": "一式戦 隼II型",
+      "en": "Type 1 Fighter Hayabusa Model II",
+      "ko": "1식전 하야부사 2형",
+      "sc": "一式战 隼II型",
+      "tc": "一式戰 隼II型"
+    },
+    "222": {
+      "ja": "一式戦 隼III型甲",
+      "en": "Type 1 Fighter Hayabusa Model III A",
+      "ko": "1식전 하야부사 3형 갑",
+      "sc": "一式战 隼III型甲",
+      "tc": "一式戰 隼III型甲"
+    },
+    "223": {
+      "ja": "一式戦 隼III型甲(54戦隊)",
+      "en": "Type 1 Fighter Hayabusa Model III A (54th Squadron)",
+      "ko": "1식전 하야부사 3형 갑 (54전대)",
+      "sc": "一式战 隼III型甲(54战队)",
+      "tc": "一式戰 隼III型甲(54戰隊)"
+    },
+    "224": {
+      "ja": "爆装一式戦 隼III型改(65戦隊)",
+      "en": "Bombing Type 1 Fighter Hayabusa Model III Kai (65th Squardron)",
+      "ko": "폭장1식전 하야부사 3형 개 (65전대)",
+      "sc": "爆装一式战 隼III型改(65战队)",
+      "tc": "爆裝一式戰 隼III型改(65戰隊)"
+    },
+    "225": {
+      "ja": "一式戦 隼II型(64戦隊)",
+      "en": "Type 1 Fighter Hayabusa Model II (64th Squadron)",
+      "ko": "1식전 하야부사 2형 (64전대)",
+      "sc": "一式战 隼II型(64战队)",
+      "tc": "一式戰 隼II型(64戰隊)"
+    },
+    "226": {
+      "ja": "九五式爆雷",
+      "en": "Type 95 Depth Charge",
+      "ko": "95식 폭뢰",
+      "sc": "九五式暴雷",
+      "tc": "九五式爆雷"
+    },
+    "227": {
+      "ja": "二式爆雷",
+      "en": "Type 2 Depth Charge",
+      "ko": "2식 폭뢰",
+      "sc": "二式爆雷",
+      "tc": "二式爆雷"
+    },
+    "228": {
+      "ja": "九六式艦戦改",
+      "en": "Type 96 Fighter Kai",
+      "ko": "96식함전 개",
+      "sc": "九六式舰战改",
+      "tc": "九六式艦戰改"
+    },
+    "229": {
+      "ja": "12.7cm単装高角砲(後期型)",
+      "en": "12.7cm Single High-angle Gun Mount (Late Model)",
+      "ko": "12.7cm 단장고각포 (후기형)",
+      "sc": "12.7cm单装高角炮(后期型)",
+      "tc": "12.7cm單裝高角砲(後期型)"
+    },
+    "230": {
+      "ja": "特大発動艇+戦車第11連隊",
+      "en": "Toku Daihatsu Landing Craft + 11th Tank Regiment",
+      "ko": "특대발동정+전차 제11연대",
+      "sc": "特大发动艇+战车第11连队",
+      "tc": "特大發動艇+戰車第11連隊"
+    },
+    "231": {
+      "ja": "30.5cm三連装砲",
+      "en": "30.5cm Triple Gun Mount",
+      "ko": "30.5cm 삼연장포",
+      "sc": "30.5cm三连装炮",
+      "tc": "30.5cm三連裝砲"
+    },
+    "232": {
+      "ja": "30.5cm三連装砲改",
+      "en": "30.5cm Triple Gun Mount Kai",
+      "ko": "30.5cm 삼연장포 개",
+      "sc": "30.5cm三连装炮改",
+      "tc": "30.5cm三連裝砲改"
+    },
+    "233": {
+      "ja": "F4U-1D",
+      "en": "F4U-1D",
+      "ko": "F4U-1D",
+      "sc": "F4U-1D",
+      "tc": "F4U-1D"
+    },
+    "234": {
+      "ja": "15.5cm三連装副砲改",
+      "en": "15.5cm Triple Secondary Gun Mount Kai",
+      "ko": "15.5cm 삼연장부포 개",
+      "sc": "15.5cm三连装副炮改",
+      "tc": "15.5cm三连装副砲改"
+    },
+    "235": {
+      "ja": "15.5cm三連装砲改",
+      "en": "15.5cm Triple Gun Mount Kai",
+      "ko": "15.5cm 삼연장포 개",
+      "sc": "15.5cm三连装炮改",
+      "tc": "15.5cm三连装砲改"
+    },
+    "236": {
+      "ja": "41cm三連装砲改",
+      "en": "41cm Triple Gun Mount Kai",
+      "ko": "41cm 삼연장포 개",
+      "sc": "41cm三连装炮改",
+      "tc": "41cm三連裝砲改"
+    },
+    "237": {
+      "ja": "瑞雲(六三四空/熟練)",
+      "en": "Zuiun (634 Air Group/Skilled)",
+      "ko": "즈이운 (634공/숙련)",
+      "sc": "瑞云(六三四空/熟练)",
+      "tc": "瑞雲(六三四空/熟練)"
+    },
+    "238": {
+      "ja": "零式水上偵察機11型乙",
+      "en": "Type 0 Reconnaissance Seaplane Model 11B",
+      "ko": "영식 수상정찰기 11형 을",
+      "sc": "零式水上侦察机11型乙",
+      "tc": "零式水上偵察機11型乙"
+    },
+    "239": {
+      "ja": "零式水上偵察機11型乙(熟練)",
+      "en": "Type 0 Reconnaissance Seaplane Model 11B (Skilled)",
+      "ko": "영식 수상정찰기 11형 을 (숙련)",
+      "sc": "零式水上侦察机11型乙(熟练)",
+      "tc": "零式水上偵察機11型乙(熟練)"
+    },
+    "240": {
+      "ja": "22号対水上電探改四(後期調整型)",
+      "en": "Type 22 Surface Radar Kai 4 (Late Adjustment Model)",
+      "ko": "22호 대수상전탐 개4 (후기조정형)",
+      "sc": "22号对水上电探改四(后期调整型)",
+      "tc": "22號對水上電探改四(後期調整型)"
+    },
+    "241": {
+      "ja": "戦闘糧食(特別なおにぎり)",
+      "en": "Combat Ration (Special Onigiri)",
+      "ko": "전투식량 (특별한 주먹밥)",
+      "sc": "战斗粮食(特别饭团)",
+      "tc": "戰鬥糧食(特別飯糰)"
+    },
+    "242": {
+      "ja": "Swordfish",
+      "en": "Swordfish",
+      "ko": "소드피시",
+      "sc": "Swordfish",
+      "tc": "Swordfish"
+    },
+    "243": {
+      "ja": "Swordfish Mk.II(熟練)",
+      "en": "Swordfish Mk.II (Skilled)",
+      "ko": "소드피시 Mk.II (숙련)",
+      "sc": "Swordfish Mk.II(熟练)",
+      "tc": "Swordfish Mk.II (熟練)"
+    },
+    "244": {
+      "ja": "Swordfish Mk.III(熟練)",
+      "en": "Swordfish Mk.III (Skilled)",
+      "ko": "소드피시 Mk.III (숙련)",
+      "sc": "Swordfish Mk.III(熟练)",
+      "tc": "Swordfish Mk.III(熟練)"
+    },
+    "245": {
+      "ja": "38cm四連装砲",
+      "en": "38cm Quadruple Gun Mount",
+      "ko": "38cm 사연장포",
+      "sc": "38cm四连装炮",
+      "tc": "38cm四連裝砲"
+    },
+    "246": {
+      "ja": "38cm四連装砲改",
+      "en": "38cm Quadruple Gun Mount Kai",
+      "ko": "38cm 사연장포 개",
+      "sc": "38cm四连装炮改",
+      "tc": "38cm四連裝砲改"
+    },
+    "247": {
+      "ja": "15.2cm三連装砲",
+      "en": "15.2cm Triple Gun Mount",
+      "ko": "15.2cm 삼연장포",
+      "sc": "15.2cm三连装炮",
+      "tc": "15.2cm三連裝砲"
+    },
+    "248": {
+      "ja": "Skua",
+      "en": "Skua",
+      "ko": "스쿠아",
+      "sc": "Skua",
+      "tc": "Skua"
+    },
+    "249": {
+      "ja": "Fulmar",
+      "en": "Fulmar",
+      "ko": "풀머",
+      "sc": "Fulmar",
+      "tc": "Fulmar"
+    },
+    "250": {
+      "ja": "Spitfire Mk.I",
+      "en": "Spitfire Mk.I",
+      "ko": "스핏파이어 Mk.I",
+      "sc": "Spitfire Mk.I",
+      "tc": "Spitfire Mk.I"
+    },
+    "251": {
+      "ja": "Spitfire Mk.V",
+      "en": "Spitfire Mk.V",
+      "ko": "스핏파이어 Mk.V",
+      "sc": "Spitfire Mk.V",
+      "tc": "Spitfire Mk.V"
+    },
+    "252": {
+      "ja": "Seafire Mk.III改",
+      "en": "Seafire Mk.III Kai",
+      "ko": "시파이어 Mk.III 개",
+      "sc": "Seafire Mk.III改",
+      "tc": "Seafire Mk.III改"
+    },
+    "253": {
+      "ja": "Spitfire Mk.IX(熟練)",
+      "en": "Spitfire Mk.IX (Skilled)",
+      "ko": "스핏파이어 Mk.IX (숙련)",
+      "sc": "Spitfire Mk.IX(熟练)",
+      "tc": "Spitfire Mk.IX(熟練)"
+    },
+    "254": {
+      "ja": "F6F-3N",
+      "en": "F6F-3N",
+      "ko": "F6F-3N",
+      "sc": "F6F-3N",
+      "tc": "F6F-3N"
+    },
+    "255": {
+      "ja": "F6F-5N",
+      "en": "F6F-5N",
+      "ko": "F6F-5N",
+      "sc": "F6F-5N",
+      "tc": "F6F-5N"
+    },
+    "256": {
+      "ja": "TBF",
+      "en": "TBF",
+      "ko": "TBF",
+      "sc": "TBF",
+      "tc": "TBF"
+    },
+    "257": {
+      "ja": "TBM-3D",
+      "en": "TBM-3D",
+      "ko": "TBM-3D",
+      "sc": "TBM-3D",
+      "tc": "TBM-3D"
+    },
+    "258": {
+      "ja": "夜間作戦航空要員",
+      "en": "Night Battle Operation Aviation Personnel",
+      "ko": "야간작전항공요원",
+      "sc": "夜间作战航空要员",
+      "tc": "夜間作戰航空要員"
+    },
+    "259": {
+      "ja": "夜間作戦航空要員+熟練甲板員",
+      "en": "Night Battle Operation Aviation Personnel + Skilled Deck Hands",
+      "ko": "야간작전항공요원+숙련갑판원",
+      "sc": "夜间作战航空要员+熟练甲板员",
+      "tc": "夜間作戰航空要員+熟練甲板員"
+    },
+    "260": {
+      "ja": "Type124 ASDIC",
+      "en": "Type124 ASDIC",
+      "ko": "Type124 ASDIC",
+      "sc": "Type124 ASDIC",
+      "tc": "Type124 ASDIC"
+    },
+    "261": {
+      "ja": "Type144/147 ASDIC",
+      "en": "Type144/147 ASDIC",
+      "ko": "Type144/147 ASDIC",
+      "sc": "Type144/147 ASDIC",
+      "tc": "Type144/147 ASDIC"
+    },
+    "262": {
+      "ja": "HF/DF + Type144/147 ASDIC",
+      "en": "HF/DF + Type144/147 ASDIC",
+      "ko": "HF/DF + Type144/147 ASDIC",
+      "sc": "HF/DF + Type144/147 ASDIC",
+      "tc": "HF/DF + Type144/147 ASDIC"
+    },
+    "263": {
+      "ja": "紫電改(三四三空) 戦闘301",
+      "en": "Shiden Kai (343rd Air Group) 301st Fighter Squadron",
+      "ko": "시덴 개 (343공) 전투301",
+      "sc": "紫电改(三四三空) 战斗301",
+      "tc": "紫電改(三四三空) 戰鬥301"
+    },
+    "264": {
+      "ja": "紫電改(三四三空) 戦闘701",
+      "en": "Shiden Kai (343 Air Group) 701st Fighter Squadron",
+      "ko": "시덴 개 (343공) 전투701",
+      "sc": "紫电改(三四三空) 战斗701",
+      "tc": "紫電改(三四三空) 戰鬥701"
+    },
+    "265": {
+      "ja": "紫電改(三四三空) 戦闘407",
+      "en": "Shiden Kai (343 Air Group) 407th Fighter Squadron",
+      "ko": "시덴 개 (343공) 전투407",
+      "sc": "紫电改(三四三空) 战斗407",
+      "tc": "紫電改(三四三空) 戰鬥407"
+    },
+    "266": {
+      "ja": "12.7cm連装砲C型改二",
+      "en": "12.7cm Twin Gun Mount Model C Kai 2",
+      "ko": "12.7cm 연장포 C형 개2",
+      "sc": "12.7cm连装炮C型改二",
+      "tc": "12.7cm連裝砲C型改二"
+    },
+    "267": {
+      "ja": "12.7cm連装砲D型改二",
+      "en": "12.7cm Twin Gun Mount Model D Kai 2",
+      "ko": "12.7cm 연장포 D형 개2",
+      "sc": "12.7cm连装炮D型改二",
+      "tc": "12.7cm連裝砲D型改二"
+    },
+    "268": {
+      "ja": "北方迷彩(+北方装備)",
+      "en": "Northern Camouflage (+Northern Equipment)",
+      "ko": "북방미채 (+북방장비)",
+      "sc": "北方迷彩(+北方装备)",
+      "tc": "北方迷彩(+北方裝備)"
+    },
+    "269": {
+      "ja": "試製東海",
+      "en": "Prototype Toukai",
+      "ko": "시제 토카이",
+      "sc": "试制东海",
+      "tc": "試製東海"
+    },
+    "270": {
+      "ja": "東海(九〇一空)",
+      "en": "Toukai (901 Air Group)",
+      "ko": "토카이 (901공)",
+      "sc": "东海(九〇一空)",
+      "tc": "東海(九〇一空)"
+    },
+    "271": {
+      "ja": "紫電改四",
+      "en": "Shiden Kai 4",
+      "ko": "시덴 개4",
+      "sc": "紫电改四",
+      "tc": "紫電改四"
+    },
+    "272": {
+      "ja": "遊撃部隊 艦隊司令部",
+      "en": "Striking Force Fleet Command Facility",
+      "ko": "유격부대 함대사령부",
+      "sc": "游撃部队 舰队司令部",
+      "tc": "游撃部隊 艦隊司令部"
+    },
+    "273": {
+      "ja": "彩雲(偵四)",
+      "en": "Saiun (4th Recon)",
+      "ko": "사이운 (정4)",
+      "sc": "彩云(侦四)",
+      "tc": "彩雲(偵四)"
+    },
+    "274": {
+      "ja": "12cm30連装噴進砲改二",
+      "en": "12cm 30-tube Rocket Launcher Kai Ni",
+      "ko": "12cm 30연장분진포 개2",
+      "sc": "12cm30连装喷进炮改二",
+      "tc": "12cm30連裝噴進砲改二"
+    },
+    "275": {
+      "ja": "10cm連装高角砲改+増設機銃",
+      "en": "10cm Twin High-angle Gun Mount Kai + Additional Machine Guns",
+      "ko": "10cm 연장고각포 개 + 증설기총",
+      "sc": "10cm连装高角炮改+增设机枪",
+      "tc": "10cm連裝高角砲改+增設機槍"
+    },
+    "276": {
+      "ja": "46cm三連装砲改",
+      "en": "46cm Triple Gun Mount Kai",
+      "ko": "46cm 삼연장포 개",
+      "sc": "46cm三连装炮改",
+      "tc": "46cm三連裝砲改"
+    },
+    "277": {
+      "ja": "FM-2",
+      "en": "FM-2",
+      "ko": "FM-2",
+      "sc": "FM-2",
+      "tc": "FM-2"
+    },
+    "278": {
+      "ja": "SK レーダー",
+      "en": "SK Radar",
+      "ko": "SK 레이더",
+      "sc": "SK 雷达",
+      "tc": "SK 雷達"
+    },
+    "279": {
+      "ja": "SK+SG レーダー",
+      "en": "SK+SG Radar",
+      "ko": "SK+SG 레이더",
+      "sc": "SK+SG 雷达",
+      "tc": "SK+SG 雷達"
+    },
+    "280": {
+      "ja": "QF 4.7inch砲 Mk.XII改",
+      "en": "QF 4.7inch Gun Mk.XII Kai",
+      "ko": "QF 4.7inch포 Mk.XII 개",
+      "sc": "QF 4.7inch炮 Mk.XII改",
+      "tc": "QF 4.7inch砲 Mk.XII改"
+    },
+    "281": {
+      "ja": "51cm連装砲",
+      "en": "51cm Twin Gun Mount",
+      "ko": "51cm 연장포",
+      "sc": "51cm连装炮",
+      "tc": "51cm連裝砲"
+    },
+    "282": {
+      "ja": "130mm B-13連装砲",
+      "en": "130mm B-13 Twin Gun Mount",
+      "ko": "130mm B-13 연장포",
+      "sc": "130mm B-13连装炮",
+      "tc": "130mm B-13連裝砲"
+    },
+    "283": {
+      "ja": "533mm 三連装魚雷",
+      "en": "533mm Triple Torpedo Mount",
+      "ko": "533mm 3연장어뢰",
+      "sc": "533mm 三连装鱼雷",
+      "tc": "533mm 三連裝魚雷"
+    },
+    "284": {
+      "ja": "5inch単装砲 Mk.30",
+      "en": "5inch Single Gun Mount Mk.30",
+      "ko": "5inch 단장포 Mk.30",
+      "sc": "5inch单装炮 Mk.30",
+      "tc": "5inch單裝砲 Mk.30"
+    },
+    "285": {
+      "ja": "61cm三連装(酸素)魚雷後期型",
+      "en": "61cm Triple (Oxygen) Torpedo Mount Late Model",
+      "ko": "61cm 삼연장 (산소) 어뢰 후기형",
+      "sc": "61cm三连装(酸素)鱼雷后期型",
+      "tc": "61cm三連裝(氧氣)魚雷後期型"
+    },
+    "286": {
+      "ja": "61cm四連装(酸素)魚雷後期型",
+      "en": "61cm Quadruple (Oxygen) Torpedo Mount Late Model",
+      "ko": "61cm 사연장 (산소) 어뢰 후기형",
+      "sc": "61cm四连装(酸素)鱼雷后期型",
+      "tc": "61cm四連裝(氧氣)魚雷後期型"
+    },
+    "287": {
+      "ja": "三式爆雷投射機 集中配備",
+      "en": "Type 3 Depth Charge Projector (Concentrated Deployment)",
+      "ko": "3식 폭뢰투사기 (집중배치)",
+      "sc": "三式爆雷投射机 集中配备",
+      "tc": "三式爆雷投射機 集中配備"
+    },
+    "288": {
+      "ja": "試製15cm9連装対潜噴進砲",
+      "en": "Prototype 15cm Nonuple ASW Rocket Launcher",
+      "ko": "시제 15cm 9연장 대잠분진포",
+      "sc": "试制15cm9连装对潜喷进炮",
+      "tc": "試製15cm9連裝對潛噴進砲"
+    },
+    "289": {
+      "ja": "35.6cm三連装砲改(ダズル迷彩仕様)",
+      "en": "35.6cm Triple Gun Mount Kai (Dazzle Camouflage Type)",
+      "ko": "35.6cm 삼연장포 개 (대즐미채 사양)",
+      "sc": "35.6cm三连装炮改(炫光迷彩规格)",
+      "tc": "35.6cm三連裝砲改(炫光迷彩樣式)"
+    },
+    "290": {
+      "ja": "41cm三連装砲改二",
+      "en": "41cm Triple Gun Mount Kai Ni",
+      "ko": "41cm 삼연장포 개2",
+      "sc": "41cm三连装炮改二",
+      "tc": "41cm三連裝砲改二"
+    },
+    "291": {
+      "ja": "彗星二二型(六三四空)",
+      "en": "Suisei Model 22 (634 Air Group)",
+      "ko": "스이세이 22형 (634공)",
+      "sc": "彗星二二型(六三四空)",
+      "tc": "彗星二二型(六三四空)"
+    },
+    "292": {
+      "ja": "彗星二二型(六三四空/熟練)",
+      "en": "Suisei Model 22 (634 Air Group/Skilled)",
+      "ko": "스이세이 22형 (634공/숙련)",
+      "sc": "彗星二二型(六三四空/熟练)",
+      "tc": "彗星二二型(六三四空/熟練)"
+    },
+    "293": {
+      "ja": "12cm単装砲改二",
+      "en": "12cm Single Gun Mount Kai 2",
+      "ko": "12cm 단장포 개2",
+      "sc": "12cm单装炮改二",
+      "tc": "12cm單裝砲改二"
+    },
+    "294": {
+      "ja": "12.7cm連装砲A型改二",
+      "en": "12.7cm Twin Gun Mount Model A Kai 2",
+      "ko": "12.7cm 연장포 A형 개2",
+      "sc": "12.7cm连装炮A型改二",
+      "tc": "12.7cm連裝砲A型改二"
+    },
+    "295": {
+      "ja": "12.7cm連装砲A型改三(戦時改修)+高射装置",
+      "en": "12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director",
+      "ko": "12.7cm 연장포 A형 개3 (전시개수) + 고사장치",
+      "sc": "12.7cm连装炮A型改三(战时改修)+高射装置",
+      "tc": "12.7cm連裝砲A型改三(戰時改修)+高射裝置"
+    },
+    "296": {
+      "ja": "12.7cm連装砲B型改四(戦時改修)+高射装置",
+      "en": "12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director",
+      "ko": "12.7cm 연장포 B형 개4 (전시개수) + 고사장치",
+      "sc": "12.7cm连装炮B型改四(战时改修)+高射装置",
+      "tc": "12.7cm連裝砲B型改四(戰時改修)+高射裝置"
+    },
+    "297": {
+      "ja": "12.7cm連装砲A型",
+      "en": "12.7cm Twin Gun Mount Model A",
+      "ko": "12.7cm 연장포 A형",
+      "sc": "12.7cm连装炮A型",
+      "tc": "12.7cm連裝砲A型"
+    },
+    "298": {
+      "ja": "16inch Mk.I三連装砲",
+      "en": "16inch Mk.I Triple Gun Mount",
+      "ko": "16inch Mk.I 삼연장포",
+      "sc": "16inch MK.I 三连装炮",
+      "tc": "16inch MK.I 三連裝砲"
+    },
+    "299": {
+      "ja": "16inch Mk.I三連装砲+AFCT改",
+      "en": "16inch Mk.I Triple Gun Mount + AFCT Kai",
+      "ko": "16inch Mk.I 삼연장포 + AFCT 개",
+      "sc": "16inch MK.I 三连装炮+AFCT改",
+      "tc": "16inch MK.I 三連裝砲+AFCT改"
+    },
+    "300": {
+      "ja": "16inch Mk.I三連装砲改+FCR type284",
+      "en": "16inch Mk.I Triple Gun Mount Kai + FCR Type 284",
+      "ko": "16inch Mk.I 삼연장포 + FCR Type 284",
+      "sc": "16inch MK.I 三连装炮改+FCR type284",
+      "tc": "16inch MK.I 三連裝砲改+FCR type284"
+    },
+    "301": {
+      "ja": "20連装7inch UP Rocket Launchers",
+      "en": "20-tube 7inch UP Rocket Launchers",
+      "ko": "20연장 7inch UP 로켓 런처",
+      "sc": "20连装7inch UP火箭发射器",
+      "tc": "20連裝7inch UP火箭發射器"
+    },
+    "302": {
+      "ja": "九七式艦攻(九三一空/熟練)",
+      "en": "Type 97 Torpedo Bomber (931 Air Group/Skilled)",
+      "ko": "97식 함상공격기 (931공/숙련)",
+      "sc": "九七式艦攻(九三一空/熟练)",
+      "tc": "九七式艦攻(九三一空/熟練)"
+    },
+    "303": {
+      "ja": "Bofors 15.2cm連装砲 Model 1930",
+      "en": "Bofors 15.2cm Twin Gun Mount Model 1930",
+      "ko": "Bofors 15.2cm 연장포 Model 1930",
+      "sc": "Bofors 15.2cm连装炮 Model 1930",
+      "tc": "Bofors 15.2cm連裝砲 Model 1930"
+    },
+    "304": {
+      "ja": "S9 Osprey",
+      "en": "S9 Osprey",
+      "ko": "S9 오스프리",
+      "sc": "S9 Osprey",
+      "tc": "S9 Osprey"
+    },
+    "305": {
+      "ja": "Ju87C改二(KMX搭載機)",
+      "en": "Ju 87C Kai Ni (w/ KMX)",
+      "ko": "Ju 87C 개2 (KMX탑재기)",
+      "sc": "Ju87C改二(KMX搭载机)",
+      "tc": "Ju87C改二(KMX搭載機)"
+    },
+    "306": {
+      "ja": "Ju87C改二(KMX搭載機/熟練)",
+      "en": "Ju 87C Kai Ni (w/ KMX, Skilled)",
+      "ko": "Ju 87C 개2 (KMX탑재기/숙련)",
+      "sc": "Ju87C改二(KMX搭载机/熟练)",
+      "tc": "Ju87C改二(KMX搭載機/熟練)"
+    },
+    "307": {
+      "ja": "GFCS Mk.37",
+      "en": "GFCS Mk.37",
+      "ko": "GFCS Mk.37",
+      "sc": "GFCS Mk.37",
+      "tc": "GFCS Mk.37"
+    },
+    "308": {
+      "ja": "5inch単装砲 Mk.30改+GFCS Mk.37",
+      "en": "5inch Single Gun Mount Mk.30 Kai + GFCS Mk.37",
+      "ko": "5inch 단장포 Mk.30 개 + GFCS Mk.37",
+      "sc": "5inch单装炮 Mk.30改+GFCS Mk.37",
+      "tc": "5inch單裝砲 Mk.30改+GFCS Mk.37"
+    },
+    "309": {
+      "ja": "甲標的 丙型",
+      "en": "Kouhyouteki Model C",
+      "ko": "갑표적 병형",
+      "sc": "甲标的 丙型",
+      "tc": "甲標的 丙型"
+    },
+    "310": {
+      "ja": "14cm連装砲改",
+      "en": "14cm Twin Gun Mount Kai",
+      "ko": "14cm 연장포 개",
+      "sc": "14cm连装炮改",
+      "tc": "14cm連裝砲改"
+    },
+    "311": {
+      "ja": "二式陸上偵察機",
+      "en": "Type 2 Land-based Reconnaissance Aircraft",
+      "ko": "2식 육상정찰기",
+      "sc": "二式陆上侦察机",
+      "tc": "二式陸上偵察機"
+    },
+    "312": {
+      "ja": "二式陸上偵察機(熟練)",
+      "en": "Type 2 Land-based Reconnaissance Aircraft (Skilled)",
+      "ko": "2식 육상정찰기 (숙련)",
+      "sc": "二式陆上侦察机(熟练)",
+      "tc": "二式陸上偵察機(熟練)"
+    },
+    "313": {
+      "ja": "5inch単装砲 Mk.30改",
+      "en": "5inch Single Gun Mount Mk.30 Kai",
+      "ko": "5inch 단장포 Mk.30 개",
+      "sc": "5inch单装炮 Mk.30改",
+      "tc": "5inch單裝砲 Mk.30改"
+    },
+    "314": {
+      "ja": "533mm五連装魚雷(初期型)",
+      "en": "533mm Quintuple Torpedo Mount (Initial Model)",
+      "ko": "533mm 5연장 어뢰 (초기형)",
+      "sc": "533mm 五连装鱼雷(初期型)",
+      "tc": "533mm 五連裝魚雷(初期型)"
+    },
+    "315": {
+      "ja": "SG レーダー(初期型)",
+      "en": "SG Radar (Initial Model)",
+      "ko": "SG 레이더 (초기형)",
+      "sc": "SG 雷达(初期型)",
+      "tc": "SG 雷達(初期型)"
+    },
+    "316": {
+      "ja": "Re.2001 CB改",
+      "en": "Re.2001 CB Kai",
+      "ko": "Re.2001 CB 개",
+      "sc": "Re.2001 CB改",
+      "tc": "Re.2001 CB改"
+    },
+    "317": {
+      "ja": "三式弾改",
+      "en": "Type 3 Shell Kai",
+      "ko": "삼식탄 개",
+      "sc": "三式弹改",
+      "tc": "三式彈改"
+    },
+    "318": {
+      "ja": "41cm連装砲改二",
+      "en": "41cm Twin Gun Mount Kai Ni",
+      "ko": "41cm 연장포 개2",
+      "sc": "41cm连装炮改二",
+      "tc": "41cm連裝砲改二"
+    },
+    "319": {
+      "ja": "彗星一二型(六三四空/三号爆弾搭載機)",
+      "en": "Suisei Model 12 (634 Air Group w/Type 3 Cluster Bombs)",
+      "ko": "스이세이 12형 (634공/3호 폭탄 탑재기)",
+      "sc": "彗星一二型(六三四空/三号爆弹搭载机)",
+      "tc": "彗星一二型(六三四空/三號爆彈搭載機)"
+    },
+    "320": {
+      "ja": "彗星一二型(三一号光電管爆弾搭載機)",
+      "en": "Suisei Model 12 (w/Type 31 Photoelectric Fuze Bombs)",
+      "ko": "스이세이 12형 (31호 광전관폭탄 탑재기)",
+      "sc": "彗星一二型(三一号光电管爆弹搭载机)",
+      "tc": "彗星一二型(三一號光電管爆彈搭載機)"
+    },
+    "322": {
+      "ja": "瑞雲改二(六三四空)",
+      "en": "Zuiun Kai Ni (634 Air Group)",
+      "ko": "즈이운 개2 (634공)",
+      "sc": "瑞云改二(六三四空)",
+      "tc": "瑞雲改二(六三四空)"
+    },
+    "323": {
+      "ja": "瑞雲改二(六三四空/熟練)",
+      "en": "Zuiun Kai Ni (634 Air Group / Skilled)",
+      "ko": "즈이운 개2 (634공/숙련)",
+      "sc": "瑞云改二(六三四空/熟练)",
+      "tc": "瑞雲改二(六三四空/熟練)"
+    },
+    "324": {
+      "ja": "オ号観測機改",
+      "en": "O Type Observation Autogyro Kai",
+      "ko": "오호 관측기 개",
+      "sc": "O号观测机改",
+      "tc": "O號觀測機改"
+    },
+    "325": {
+      "ja": "オ号観測機改二",
+      "en": "O Type Observation Autogyro Kai Ni",
+      "ko": "오호 관측기 개2",
+      "sc": "O号观测机改二",
+      "tc": "O號觀測機改二"
+    },
+    "326": {
+      "ja": "S-51J",
+      "en": "S-51J",
+      "ko": "S-51J",
+      "sc": "S-51J",
+      "tc": "S-51J"
+    },
+    "327": {
+      "ja": "S-51J改",
+      "en": "S-51J Kai",
+      "ko": "S-51J 개",
+      "sc": "S-51J改",
+      "tc": "S-51J改"
+    },
+    "328": {
+      "ja": "35.6cm連装砲改",
+      "en": "35.6cm Twin Gun Mount Kai",
+      "ko": "35.6cm 연장포 개",
+      "sc": "35.6cm连装炮改",
+      "tc": "35.6cm連裝砲改"
+    },
+    "329": {
+      "ja": "35.6cm連装砲改二",
+      "en": "35.6cm Twin Gun Mount Kai Ni",
+      "ko": "35.6cm 연장포 개2",
+      "sc": "35.6cm连装炮改二",
+      "tc": "35.6cm連裝砲改二"
+    },
+    "330": {
+      "ja": "16inch Mk.I連装砲",
+      "en": "16inch Mk.I Twin Gun Mount",
+      "ko": "16inch Mk.I 연장포",
+      "sc": "16inch Mk.I连装炮",
+      "tc": "16inch Mk.I連裝砲"
+    },
+    "331": {
+      "ja": "16inch Mk.V連装砲",
+      "en": "16inch Mk.V Twin Gun Mount",
+      "ko": "16inch Mk.V 연장포",
+      "sc": "16inch Mk.V连装炮",
+      "tc": "16inch Mk.V連裝砲"
+    },
+    "332": {
+      "ja": "16inch Mk.VIII連装砲改",
+      "en": "16inch Mk.VIII Twin Gun Mount Kai",
+      "ko": "16inch Mk.VIII 연장포 개",
+      "sc": "16inch Mk.VIII连装炮改",
+      "tc": "16inch Mk.VIII連裝砲改"
+    },
+    "333": {
+      "ja": "烈風改",
+      "en": "Reppuu Kai",
+      "ko": "렛푸 개",
+      "sc": "烈风改",
+      "tc": "烈風改"
+    },
+    "334": {
+      "ja": "烈風改(三五二空/熟練)",
+      "en": "Reppuu Kai (352 Air Group / Skilled)",
+      "ko": "렛푸 개 (352공/숙련)",
+      "sc": "烈风改(三五二空/熟练)",
+      "tc": "烈風改(三五二空/熟練)"
+    },
+    "335": {
+      "ja": "烈風改(試製艦載型)",
+      "en": "Reppuu Kai (Prototype Carrier Type)",
+      "ko": "렛푸 개 (시제함재형)",
+      "sc": "烈风改 (试制舰载型)",
+      "tc": "烈風改 (試制艦載型)"
+    },
+    "336": {
+      "ja": "烈風改二",
+      "en": "Reppuu Kai Ni",
+      "ko": "렛푸 개2",
+      "sc": "烈风改二",
+      "tc": "烈風改二"
+    },
+    "337": {
+      "ja": "烈風改二(一航戦/熟練)",
+      "en": "Reppuu Kai Ni (1st Car Div / Skilled)",
+      "ko": "렛푸 개2 (1항전/숙련)",
+      "sc": "烈风改二(一航战/熟练)",
+      "tc": "烈風改二(一航戰/熟練)"
+    },
+    "338": {
+      "ja": "烈風改二戊型",
+      "en": "Reppuu Kai Ni E",
+      "ko": "렛푸 개2 무형",
+      "sc": "烈风改二戊型",
+      "tc": "烈風改二戊型"
+    },
+    "339": {
+      "ja": "烈風改二戊型(一航戦/熟練)",
+      "en": "Reppuu Kai Ni E (1st Car Div / Skilled)",
+      "ko": "렛푸 개2 무형 (1항전/숙련)",
+      "sc": "烈风改二戊型(一航战/熟练)",
+      "tc": "烈風改二戊型(一航戰/熟練)"
+    },
+    "340": {
+      "ja": "152mm/55 三連装速射砲",
+      "en": "152mm/55 Triple Rapid Fire Gun",
+      "ko": "152mm/55 삼연장속사포",
+      "sc": "152mm/55 三连装速射炮",
+      "tc": "152mm/55 三連裝速射砲"
+    },
+    "341": {
+      "ja": "152mm/55 三連装速射砲改",
+      "en": "152mm/55 Triple Rapid Fire Gun Kai",
+      "ko": "152mm/55 삼연장속사포 개",
+      "sc": "152mm/55 三连装速射炮改",
+      "tc": "152mm/55 三連裝速射砲改"
+    },
+    "342": {
+      "ja": "流星改(一航戦)",
+      "en": "Ryuusei Kai (1st Car Div)",
+      "ko": "류세이 개 (1항전)",
+      "sc": "流星改(一航战)",
+      "tc": "流星改(一航戰)"
+    },
+    "343": {
+      "ja": "流星改(一航戦/熟練)",
+      "en": "Ryuusei Kai (1st Car Div / Skilled)",
+      "ko": "류세이 개 (1항전/숙련)",
+      "sc": "流星改(一航战/熟练)",
+      "tc": "流星改(一航戰/熟練)"
+    },
+    "344": {
+      "ja": "九七式艦攻改 試製三号戊型(空六号電探改装備機)",
+      "en": "Prototype Type 97 Torpedo Bomber Kai No. 3 Model E (w/ Type 6 Airborne Radar Kai)",
+      "ko": "97식 함상공격기 개 시제 3호 무형 (공6호 전탐 개 장비기)",
+      "sc": "九七式舰攻改 试制三号戊型(空六号电探改装备机)",
+      "tc": "九七式艦攻改 試制三號戊型(空六號電探改裝備機)"
+    },
+    "345": {
+      "ja": "九七式艦攻改(熟練) 試製三号戊型(空六号電探改装備機)",
+      "en": "Prototype Type 97 Torpedo Bomber Kai (Skilled) No. 3 Model E (w/ Type 6 Airborne Radar Kai)",
+      "ko": "97식 함상공격기 개(숙련) 시제 3호 무형 (공6호 전탐 개 장비기)",
+      "sc": "九七式舰攻改(熟练) 试制三号戊型(空六号电探改装备机)",
+      "tc": "九七式艦攻改(熟練) 試制三號戊型(空六號電探改裝備機)"
+    },
+    "346": {
+      "ja": "二式12cm迫撃砲改",
+      "en": "Type 2 12cm Mortar Kai",
+      "ko": "2식 12cm 박격포 개",
+      "sc": "二式12cm迫撃炮改",
+      "tc": "二式12cm迫撃砲改"
+    },
+    "347": {
+      "ja": "二式12cm迫撃砲改 集中配備",
+      "en": "Type 2 12cm Mortar Kai (Concentrated Deployment)",
+      "ko": "2식 12cm 박격포 개 집중배치",
+      "sc": "二式12cm迫撃炮改 集中配备",
+      "tc": "二式12cm迫撃砲改 集中配備"
+    },
+    "348": {
+      "ja": "艦載型 四式20cm対地噴進砲",
+      "en": "Carrier-based Model Type 4 20cm Anti-ground Rocket Launcher",
+      "ko": "함재형 4식 20cm 대지분진포",
+      "sc": "舰载型 四式20cm対地喷进炮",
+      "tc": "艦載型 四式20cm対地噴進砲"
+    },
+    "349": {
+      "ja": "四式20cm対地噴進砲 集中配備",
+      "en": "Type 4 20cm Anti-ground Rocket Launcher (Concentrated Deployment)",
+      "ko": "함재형 4식 20cm 대지분진포 집중배치",
+      "sc": "四式20cm対地喷进炮 集中配备",
+      "tc": "四式20cm対地噴進砲 集中配備"
+    },
+    "350": {
+      "ja": "Me163B",
+      "en": "Me163B",
+      "ko": "Me163B",
+      "sc": "Me163B",
+      "tc": "Me163B"
+    },
+    "351": {
+      "ja": "試製 秋水",
+      "en": "Prototype Shusui",
+      "ko": "시제 슈스이",
+      "sc": "试制 秋水",
+      "tc": "試製 秋水"
+    },
+    "352": {
+      "ja": "秋水",
+      "en": "Shusui",
+      "ko": "슈스이",
+      "sc": "秋水",
+      "tc": "秋水"
+    },
+    "353": {
+      "ja": "Fw190 A-5改(熟練)",
+      "en": "Fw 190 A-5 Kai (Skilled)",
+      "ko": "Fw 190 A-5 Kai (숙련)",
+      "sc": "Fw 190 A-5 Kai (熟练)",
+      "tc": "Fw 190 A-5 Kai (熟練)"
+    },
+    "354": {
+      "ja": "Fw190 D-9",
+      "en": "Fw 190 D-9",
+      "ko": "Fw 190 D-9",
+      "sc": "Fw 190 D-9",
+      "tc": "Fw 190 D-9"
+    },
+    "355": {
+      "ja": "M4A1 DD",
+      "en": "M4A1 DD",
+      "ko": "M4A1 DD",
+      "sc": "M4A1 DD",
+      "tc": "M4A1 DD"
+    },
+    "356": {
+      "ja": "8inch三連装砲 Mk.9",
+      "en": "8inch Triple Gun Mount Mk.9",
+      "ko": "8inch 삼연장포 Mk.9",
+      "sc": "8inch三连装炮 Mk.9",
+      "tc": "8inch三連裝砲 Mk.9"
+    },
+    "357": {
+      "ja": "8inch三連装砲 Mk.9 mod.2",
+      "en": "8inch Triple Gun Mount Mk.9 mod.2",
+      "ko": "8inch 삼연장포 Mk.9 mod.2",
+      "sc": "8inch三连装炮 Mk.9 mod.2",
+      "tc": "8inch三連裝砲 Mk.9 mod.2"
+    },
+    "358": {
+      "ja": "5inch 単装高角砲群",
+      "en": "5inch Single High-angle Gun Mount Battery",
+      "ko": "5inch 단장고각포군",
+      "sc": "5inch 单装高角炮群",
+      "tc": "5inch 單裝高角砲群"
+    },
+    "359": {
+      "ja": "6inch 連装速射砲 Mk.XXI",
+      "en": "6inch Twin Rapid Fire Gun Mount Mk.XXI",
+      "ko": "6inch 연장속사포 Mk.XXI",
+      "sc": "6inch连装速射炮 Mk.XXI",
+      "tc": "6inch連裝速射砲 Mk.XXI"
+    },
+    "360": {
+      "ja": "Bofors 15cm連装速射砲 Mk.9 Model 1938",
+      "en": "Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Model 1938",
+      "ko": "Bofors 15cm연장속사포 Mk.9 Model 1938",
+      "sc": "Bofors 15cm连装速射炮 Mk.9 Model 1938",
+      "tc": "Bofors 15cm連裝速射砲 Mk.9 Model 1938"
+    },
+    "361": {
+      "ja": "Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938",
+      "en": "Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Kai + Single Rapid Fire Gun Mount Mk.10 Kai Model 1938",
+      "ko": "Bofors 15cm연장속사포 Mk.9 개+단장속사포 Mk.10 개 Model 1938",
+      "sc": "Bofors 15cm连装速射炮 Mk.9改+单装速射炮 Mk.10改 Model 1938",
+      "tc": "Bofors 15cm連裝速射砲 Mk.9改+單裝速射砲 Mk.10改 Model 1938"
+    },
+    "362": {
+      "ja": "5inch連装両用砲(集中配備)",
+      "en": "5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+      "ko": "5inch 연장양용포(집중배치)",
+      "sc": "5inch连装两用炮(集中配备)",
+      "tc": "5inch連裝兩用砲(集中配備)"
+    },
+    "363": {
+      "ja": "GFCS Mk.37+5inch連装両用砲(集中配備)",
+      "en": "GFCS Mk.37 + 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+      "ko": "GFCS Mk.37+5inch 연장양용포(집중배치)",
+      "sc": "GFCS MK.37+5inch连装两用炮(集中配备)",
+      "tc": "GFCS MK.37+5inch連裝兩用砲(集中配備)"
+    },
+    "364": {
+      "ja": "甲標的 丁型改(蛟龍改)",
+      "en": "Type D Kouhyouteki Kai (Kouryuu Kai)",
+      "ko": "갑표적 정형 개 (교룡 개)",
+      "sc": "甲标的 丁型改(蛟龙改)",
+      "tc": "甲標的 丁型改(蛟龍改)"
+    },
+    "365": {
+      "ja": "一式徹甲弾改",
+      "en": "Type 1 AP Shell Kai",
+      "ko": "1식 철갑탄 개",
+      "sc": "一式穿甲弹改",
+      "tc": "一式徹甲彈改"
+    },
+    "366": {
+      "ja": "12.7cm連装砲D型改三",
+      "en": "12.7cm Twin Gun Mount Model D Kai 3",
+      "ko": "12.7cm 연장포 D형 개3",
+      "sc": "12.7cm连装炮D型改三",
+      "tc": "12.7cm連裝砲D型改三"
+    },
+    "367": {
+      "ja": "Swordfish(水上機型)",
+      "en": "Swordfish (Seaplane Model)",
+      "ko": "소드피시 (수상기형)",
+      "sc": "Swordfish(水上机型)",
+      "tc": "Swordfish(水上機型)"
+    },
+    "368": {
+      "ja": "Swordfish Mk.III改(水上機型)",
+      "en": "Swordfish Mk.III Kai (Seaplane Model)",
+      "ko": "소드피시 Mk.III 개 (수상기형)",
+      "sc": "Swordfish Mk.III改(水上机型)",
+      "tc": "Swordfish Mk.III改(水上機型)"
+    },
+    "369": {
+      "ja": "Swordfish Mk.III改(水上機型/熟練)",
+      "en": "Swordfish Mk.III Kai (Seaplane Model/Skilled)",
+      "ko": "소드피시 Mk.III 개 (수상기형/숙련)",
+      "sc": "Swordfish Mk.III改(水上机型/熟练)",
+      "tc": "Swordfish Mk.III改(水上機型/熟練)"
+    },
+    "370": {
+      "ja": "Swordfish Mk.II改(水偵型)",
+      "en": "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)",
+      "ko": "소드피시 Mk.II 개 (수상정찰형)",
+      "sc": "Swordfish Mk.II改(水侦型)",
+      "tc": "Swordfish Mk.II改(水偵型)"
+    },
+    "371": {
+      "ja": "Fairey Seafox改",
+      "en": "Fairey Seafox Kai",
+      "ko": "페어리 시폭스 개",
+      "sc": "Fairey Seafox改",
+      "tc": "Fairey Seafox改"
+    },
+    "372": {
+      "ja": "天山一二型甲",
+      "en": "Tenzan Model 12A Kai",
+      "ko": "텐잔 12형 갑",
+      "sc": "天山一二型甲",
+      "tc": "天山一二型甲"
+    },
+    "373": {
+      "ja": "天山一二型甲改(空六号電探改装備機)",
+      "en": "Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)",
+      "ko": "텐잔 12형 갑 개 (공6호 전탐 개 장비기)",
+      "sc": "天山一二型甲改(空六号电探改装备机)",
+      "tc": "天山一二型甲改(空六號電探改裝備機)"
+    },
+    "374": {
+      "ja": "天山一二型甲改(熟練/空六号電探改装備機)",
+      "en": "Tenzan Model 12A Kai (Skilled / w/ Type 6 Airborne Radar Kai)",
+      "ko": "텐잔 12형 갑 개 (숙련/공6호 전탐 개 장비기)",
+      "sc": "天山一二型甲改(熟练/空六号电探改装备机)",
+      "tc": "天山一二型甲改(熟練/空六號電探改裝備機)"
+    },
+    "375": {
+      "ja": "XF5U",
+      "en": "XF5U",
+      "ko": "XF5U",
+      "sc": "XF5U",
+      "tc": "XF5U"
+    },
+    "376": {
+      "ja": "533mm五連装魚雷(後期型)",
+      "en": "533mm Quintuple Torpedo Mount (Late Model)",
+      "ko": "533mm 5연장 어뢰 (후기형)",
+      "sc": "533mm 五连装鱼雷(后期型)",
+      "tc": "533mm 五連裝魚雷(後期型)"
+    },
+    "377": {
+      "ja": "RUR-4A Weapon Alpha改",
+      "en": "RUR-4A Weapon Alpha Kai",
+      "ko": "RUR-4A Weapon Alpha 개",
+      "sc": "RUR-4A Weapon Alpha改",
+      "tc": "RUR-4A Weapon Alpha改"
+    },
+    "378": {
+      "ja": "対潜短魚雷(試作初期型)",
+      "en": "ASW Lightweight Torpedo (Experimental Initial Model)",
+      "ko": "대잠 경어뢰 (시작초기형)",
+      "sc": "对潜短鱼雷(试作初期型)",
+      "tc": "對潛短魚雷(試作初期型)"
+    },
+    "379": {
+      "ja": "12.7cm単装高角砲改二",
+      "en": "12.7cm Single High-angle Gun Mount Kai 2",
+      "ko": "12.7cm 단장고각포 개2",
+      "sc": "12.7cm单装高角炮改二",
+      "tc": "12.7cm單裝高角砲改二"
+    },
+    "380": {
+      "ja": "12.7cm連装高角砲改二",
+      "en": "12.7cm Twin High-angle Gun Mount Kai 2",
+      "ko": "12.7cm 연장고각포 개2",
+      "sc": "12.7cm连装高角炮改二",
+      "tc": "12.7cm連裝高角砲改二"
+    },
+    "381": {
+      "ja": "16inch三連装砲 Mk.6",
+      "en": "16inch Triple Gun Mount Mk.6",
+      "ko": "16inch 삼연장포 Mk.6",
+      "sc": "16inch三连装炮 Mk.6",
+      "tc": "16inch三連裝砲 Mk.6"
+    },
+    "382": {
+      "ja": "12cm単装高角砲E型",
+      "en": "12cm Single High-angle Gun Mount Model E",
+      "ko": "12cm 단장고각포 E형",
+      "sc": "12cm单装高角炮E型",
+      "tc": "12cm單裝高角砲E型"
+    },
+    "383": {
+      "ja": "後期型53cm艦首魚雷(8門)",
+      "en": "Late Model 53cm Bow Torpedo Mount (8 tubes)",
+      "ko": "후기형 53cm 함수어뢰 (8문)",
+      "sc": "后期型53cm舰首鱼雷(8门)",
+      "tc": "後期型53cm艦首魚雷(8門)"
+    },
+    "384": {
+      "ja": "後期型潜水艦搭載電探&逆探",
+      "en": "Late Model Submarine Radar & Passive Radiolocator",
+      "ko": "후기형 잠수함탑재전탐&역탐",
+      "sc": "后期型潜艇搭载电探&逆探",
+      "tc": "後期型潛艇搭載電探&逆探"
+    },
+    "385": {
+      "ja": "16inch三連装砲 Mk.6 mod.2",
+      "en": "16inch Triple Gun Mount Mk.6 mod.2",
+      "ko": "16inch 삼연장포 Mk.6 mod.2",
+      "sc": "16inch三连装炮 Mk.6 mod.2",
+      "tc": "16inch三連裝砲 Mk.6 mod.2"
+    },
+    "386": {
+      "ja": "6inch三連装速射砲 Mk.16",
+      "en": "6inch Triple Rapid Fire Gun Mount Mk.16",
+      "ko": "6inch 3연장속사포 Mk.16",
+      "sc": "6inch三连装速射炮 Mk.16",
+      "tc": "6inch三連裝速射砲 Mk.16"
+    },
+    "387": {
+      "ja": "6inch三連装速射砲 Mk.16 mod.2",
+      "en": "6inch Triple Rapid Fire Gun Mount Mk.16 mod.2",
+      "ko": "6inch 3연장속사포 Mk.16 mod.2",
+      "sc": "6inch三连装速射炮 Mk.16 mod.2",
+      "tc": "6inch三連裝速射砲 Mk.16 mod.2"
+    },
+    "388": {
+      "ja": "銀河(江草隊)",
+      "en": "Ginga (Egusa Squadron)",
+      "ko": "긴가 (에구사대)",
+      "sc": "银河(江草队)",
+      "tc": "銀河(江草隊)"
+    },
+    "389": {
+      "ja": "TBM-3W+3S",
+      "en": "TBM-3W+3S",
+      "ko": "TBM-3W+3S",
+      "sc": "TBM-3W+3S",
+      "tc": "TBM-3W+3S"
+    },
+    "390": {
+      "ja": "16inch三連装砲 Mk.6+GFCS",
+      "en": "16inch Triple Gun Mount Mk.6 + GFCS",
+      "ko": "16inch 3연장포 Mk.6 + GFCS",
+      "sc": "16inch三连装炮 Mk.6+GFCS",
+      "tc": "16inch三連裝砲 Mk.6+GFCS"
+    },
+    "391": {
+      "ja": "九九式艦爆二二型",
+      "en": "Type 99 Dive Bomber Model 22",
+      "ko": "99식 함상폭격기 22형",
+      "sc": "九九式舰爆二二型",
+      "tc": "九九式艦爆二二型"
+    },
+    "392": {
+      "ja": "九九式艦爆二二型(熟練)",
+      "en": "Type 99 Dive Bomber Model 22 (Skilled)",
+      "ko": "99식 함상폭격기 22형 (숙련)",
+      "sc": "九九式舰爆二二型(熟练)",
+      "tc": "九九式艦爆二二型(熟練)"
+    },
+    "393": {
+      "ja": "120mm/50 連装砲 mod.1936",
+      "en": "120mm/50 Twin Gun Mount mod.1936",
+      "ko": "120mm/50 연장포 mod.1936",
+      "sc": "120mm/50 连装炮 mod.1936",
+      "tc": "120mm/50 連装砲 mod.1936"
+    },
+    "394": {
+      "ja": "120mm/50 連装砲改 A.mod.1937",
+      "en": "120mm/50 Twin Gun Mount Kai A.mod.1937",
+      "ko": "120mm/50 연장포 개 A.mod.1937",
+      "sc": "120mm/50 连装炮改 A.mod.1937",
+      "tc": "120mm/50 連装砲改 A.mod.1937"
+    },
+    "395": {
+      "ja": "深山",
+      "en": "Sinzan",
+      "ko": "신잔",
+      "sc": "深山",
+      "tc": "深山"
+    },
+    "396": {
+      "ja": "深山改",
+      "en": "Sinzan Kai",
+      "ko": "신잔 개",
+      "sc": "深山改",
+      "tc": "深山改"
+    },
+    "397": {
+      "ja": "現地改装12.7cm連装高角砲",
+      "en": "Locally Modified 12.7cm Twin High-angle Gun Mount",
+      "ko": "현지개장 12.7cm 연장고각포",
+      "sc": "现地改装12.7cm连装高角炮",
+      "tc": "現地改裝12.7cm連裝高角砲"
+    },
+    "398": {
+      "ja": "現地改装10cm連装高角砲",
+      "en": "Locally Modified 10cm Twin High-angle Gun Mount",
+      "ko": "현지개장 10cm 연장고각포",
+      "sc": "现地改装10cm连装高角炮",
+      "tc": "現地改裝10cm連裝高角砲"
+    },
+    "399": {
+      "ja": "6inch Mk.XXIII三連装砲",
+      "en": "6inch Mk.XXIII Triple Gun Mount",
+      "ko": "6inch Mk.XXIII 삼연장포",
+      "sc": "6inch Mk.XXIII三连装炮",
+      "tc": "6inch Mk.XXIII三連裝砲"
+    },
+    "400": {
+      "ja": "533mm 三連装魚雷(53-39型)",
+      "en": "533mm Triple Torpedo Mount (Model 53-39)",
+      "ko": "533mm 삼연장어뢰 (53-39형)",
+      "sc": "533mm 三连装鱼雷(53-39型)",
+      "tc": "533mm 三連裝魚雷(53-39型)"
+    },
+    "401": {
+      "ja": "Do 17 Z-2",
+      "en": "Do 17 Z-2",
+      "ko": "Do 17 Z-2",
+      "sc": "Do 17 Z-2",
+      "tc": "Do 17 Z-2"
+    },
+    "402": {
+      "ja": "寒冷地装備&甲板要員",
+      "en": "Arctic Gear & Deck Personnel",
+      "ko": "한랭지장비 & 갑판요원",
+      "sc": "寒冷地装备&甲板要员",
+      "tc": "寒冷地裝備&甲板要員"
+    },
+    "403": {
+      "ja": "四式重爆 飛龍",
+      "en": "Type 4 Heavy Bomber Hiryuu",
+      "ko": "4식 중폭 히류",
+      "sc": "四式重爆 飞龙",
+      "tc": "四式重爆 飛龍"
+    },
+    "404": {
+      "ja": "四式重爆 飛龍(熟練)",
+      "en": "Type 4 Heavy Bomber Hiryuu (Skilled)",
+      "ko": "4식 중폭 히류 (숙련)",
+      "sc": "四式重爆 飞龙(熟练)",
+      "tc": "四式重爆 飛龍(熟練)"
+    },
+    "405": {
+      "ja": "Do 217 E-5+Hs293初期型",
+      "en": "Do 217 E-5 + Hs293 Initial Model",
+      "ko": "Do 217 E-5 + Hs293 초기형",
+      "sc": "Do 217 E-5+Hs293初期型",
+      "tc": "Do 217 E-5+Hs293初期型"
+    },
+    "406": {
+      "ja": "Do 217 K-2+Fritz-X",
+      "en": "Do 217 K-2 + Fritz-X",
+      "ko": "Do 217 K-2 + 프리츠 X",
+      "sc": "Do 217 K-2+Fritz-X",
+      "tc": "Do 217 K-2+Fritz-X"
+    },
+    "407": {
+      "ja": "15.2cm連装砲改二",
+      "en": "15.2cm Twin Gun Mount Kai 2",
+      "ko": "15.2cm 연장포 개2",
+      "sc": "15.2cm连装炮改二",
+      "tc": "15.2cm連裝砲改二"
+    },
+    "408": {
+      "ja": "装甲艇(AB艇)",
+      "en": "Armored Boat (AB-tei)",
+      "ko": "장갑정 (AB정)",
+      "sc": "装甲艇(AB艇)",
+      "tc": "裝甲艇(AB艇)"
+    },
+    "409": {
+      "ja": "武装大発",
+      "en": "Armed Daihatsu",
+      "ko": "무장대발",
+      "sc": "武装大发",
+      "tc": "武裝大發"
+    },
+    "410": {
+      "ja": "21号対空電探改二",
+      "en": "Type 21 Air Radar Kai 2",
+      "ko": "21호 대공전탐 개2",
+      "sc": "21号对空电探改二",
+      "tc": "21號對空電探改二"
+    },
+    "411": {
+      "ja": "42号対空電探改二",
+      "en": "Type 42 Air Radar Kai 2",
+      "ko": "42호 대공전탐 개2",
+      "sc": "42号对空电探改二",
+      "tc": "42號對空電探改二"
+    },
+    "412": {
+      "ja": "水雷戦隊 熟練見張員",
+      "en": "Torpedo Squadron Skilled Lookouts",
+      "ko": "수뢰전대 숙련견시원",
+      "sc": "水雷战队 熟练见张员",
+      "tc": "水雷戰隊 熟練見張員"
+    },
+    "413": {
+      "ja": "精鋭水雷戦隊 司令部",
+      "en": "Elite Torpedo Squadron Command Facility",
+      "ko": "정예수뢰전대 사령부",
+      "sc": "精锐水雷战队 司令部",
+      "tc": "精銳水雷戰隊 司令部"
+    },
+    "414": {
+      "ja": "SOC Seagull",
+      "en": "SOC Seagull",
+      "ko": "SOC Seagull",
+      "sc": "SOC Seagull",
+      "tc": "SOC Seagull"
+    },
+    "415": {
+      "ja": "SO3C Seamew改",
+      "en": "SO3C Seamew Kai",
+      "ko": "SO3C Seamew 개",
+      "sc": "SO3C Seamew改",
+      "tc": "SO3C Seamew改"
+    },
+    "416": {
+      "ja": "零式艦戦21型(台南空)",
+      "en": "Type 0 Fighter Model 21 (Tainan Air Group)",
+      "ko": "영식 함상전투기 21형 (타이난 항공대)",
+      "sc": "零式舰战21型(台南空)",
+      "tc": "零式艦戰21型(台南空)"
+    },
+    "417": {
+      "ja": "零式艦戦32型(台南空)",
+      "en": "Type 0 Fighter Model 32 (Tainan Air Group)",
+      "ko": "영식 함상전투기 32형 (타이난 항공대)",
+      "sc": "零式舰战32型(台南空)",
+      "tc": "零式艦戰32型(台南空)"
+    },
+    "418": {
+      "ja": "零式艦戦22型(251空)",
+      "en": "Type 0 Fighter Model 22 (251 Air Group)",
+      "ko": "영식 함상전투기 22형 (251공)",
+      "sc": "零式舰战22型(251空)",
+      "tc": "零式艦戰22型(251空)"
+    },
+    "419": {
+      "ja": "SBD-5",
+      "en": "SBD-5",
+      "ko": "SBD-5",
+      "sc": "SBD-5",
+      "tc": "SBD-5"
+    },
+    "420": {
+      "ja": "SB2C-3",
+      "en": "SB2C-3",
+      "ko": "SB2C-3",
+      "sc": "SB2C-3",
+      "tc": "SB2C-3"
+    },
+    "421": {
+      "ja": "SB2C-5",
+      "en": "SB2C-5",
+      "ko": "SB2C-5",
+      "sc": "SB2C-5",
+      "tc": "SB2C-5"
+    },
+    "422": {
+      "ja": "FR-1 Fireball",
+      "en": "FR-1 Fireball",
+      "ko": "FR-1 Fireball",
+      "sc": "FR-1 Fireball",
+      "tc": "FR-1 Fireball"
+    },
+    "423": {
+      "ja": "Fulmar(戦闘偵察/熟練)",
+      "en": "Fulmar (Combat Reconnaissance/Skilled)",
+      "ko": "Fulmar(전투정찰/숙련)",
+      "sc": "Fulmar(战斗侦察/熟练)",
+      "tc": "Fulmar(戰鬥偵察/熟練)"
+    },
+    "424": {
+      "ja": "Barracuda Mk.II",
+      "en": "Barracuda Mk.II",
+      "ko": "Barracuda Mk.II",
+      "sc": "Barracuda Mk.II",
+      "tc": "Barracuda Mk.II"
+    },
+    "425": {
+      "ja": "Barracuda Mk.III",
+      "en": "Barracuda Mk.III",
+      "ko": "Barracuda Mk.III",
+      "sc": "Barracuda Mk.III",
+      "tc": "Barracuda Mk.III"
+    },
+    "426": {
+      "ja": "305mm/46 連装砲",
+      "en": "305mm/46 Twin Gun Mount",
+      "ko": "305mm/46 연장포",
+      "sc": "305mm/46 连装炮",
+      "tc": "305mm/46 連裝砲"
+    },
+    "427": {
+      "ja": "305mm/46 三連装砲",
+      "en": "305mm/46 Triple Gun Mount",
+      "ko": "305mm/46 삼연장포",
+      "sc": "305mm/46 三连装炮",
+      "tc": "305mm/46 三連裝砲"
+    },
+    "428": {
+      "ja": "320mm/44 連装砲",
+      "en": "320mm/46 Twin Gun Mount",
+      "ko": "320mm/46 연장포",
+      "sc": "320mm/46 连装炮",
+      "tc": "320mm/46 連裝砲"
+    },
+    "429": {
+      "ja": "320mm/44 三連装砲",
+      "en": "320mm/46 Triple Gun Mount",
+      "ko": "320mm/46 삼연장포",
+      "sc": "320mm/46 三连装炮",
+      "tc": "320mm/46 三連裝砲"
+    },
+    "430": {
+      "ja": "65mm/64 単装速射砲改",
+      "en": "65mm/64 Single Rapid Fire Gun Mount Kai",
+      "ko": "65mm/64 단장속사포 개",
+      "sc": "65mm/64 单装速射炮改",
+      "tc": "65mm/64 單裝速射砲改"
+    },
+    "431": {
+      "ja": "SM.79",
+      "en": "SM.79",
+      "ko": "SM.79",
+      "sc": "SM.79",
+      "tc": "SM.79"
+    },
+    "432": {
+      "ja": "SM.79 bis",
+      "en": "SM.79 bis",
+      "ko": "SM.79 bis",
+      "sc": "SM.79 bis",
+      "tc": "SM.79 bis"
+    },
+    "433": {
+      "ja": "SM.79 bis(熟練)",
+      "en": "SM.79 bis (Skilled)",
+      "ko": "SM.79 bis (숙련)",
+      "sc": "SM.79 bis(熟练)",
+      "tc": "SM.79 bis(熟練)"
+    },
+    "434": {
+      "ja": "Corsair Mk.II",
+      "en": "Corsair Mk.II",
+      "ko": "Corsair Mk.II",
+      "sc": "Corsair Mk.II",
+      "tc": "Corsair Mk.II"
+    },
+    "435": {
+      "ja": "Corsair Mk.II(Ace)",
+      "en": "Corsair Mk.II(Ace)",
+      "ko": "Corsair Mk.II (Ace)",
+      "sc": "Corsair Mk.II(Ace)",
+      "tc": "Corsair Mk.II(Ace)"
+    },
+    "436": {
+      "ja": "大発動艇(II号戦車/北アフリカ仕様)",
+      "en": "Daihatsu Landing Craft (Panzer II / North African Specification)",
+      "ko": "대발동정 (II호 전차/북아프리카 사양)",
+      "sc": "大发动艇(II号战车/北非规格)",
+      "tc": "大型登陸艇(二號戰車/北非塗裝)"
+    },
+    "437": {
+      "ja": "試製 陣風",
+      "en": "Prototype Jinpuu",
+      "ko": "시제 진풍",
+      "sc": "试制 阵风",
+      "tc": "試製 陣風"
+    },
+    "438": {
+      "ja": "三式水中探信儀改",
+      "en": "Type 3 Active Sonar Kai",
+      "ko": "3식 수중탐신기 개",
+      "sc": "三式水中探信仪改",
+      "tc": "三式水中探信儀改"
+    },
+    "439": {
+      "ja": "Hedgehog(初期型)",
+      "en": "Hedgehog (Initial Model)",
+      "ko": "헤지호그 (초기형)",
+      "sc": "刺猬炮(初期型)",
+      "tc": "刺蝟砲(初期型)"
+    },
+    "440": {
+      "ja": "21inch艦首魚雷発射管6門(初期型)",
+      "en": "21inch Bow Torpedo Launcher (6 tubes, Initial Model)",
+      "ko": "21inch 함수어뢰 발사관 6문 (초기형)",
+      "sc": "21inch舰首鱼雷发射管6门(初期型)",
+      "tc": "21inch艦首魚雷發射管6門(初期型)"
+    },
+    "441": {
+      "ja": "21inch艦首魚雷発射管6門(後期型)",
+      "en": "21inch Bow Torpedo Launcher (6 tubes, Late Model)",
+      "ko": "21inch 함수어뢰 발사관 6문 (후기형)",
+      "sc": "21inch舰首鱼雷发射管6门(后期型)",
+      "tc": "21inch艦首魚雷發射管6門(後期型)"
+    },
+    "442": {
+      "ja": "潜水艦後部魚雷発射管4門(初期型)",
+      "en": "Submarine Rear Torpedo Launcher (4 tubes, Initial Model)",
+      "ko": "잠수함 후부어뢰 발사관 4문 (초기형)",
+      "sc": "潜艇后部鱼雷发射管4门(初期型)",
+      "tc": "潛艇後部魚雷發射管4門(初期型)"
+    },
+    "443": {
+      "ja": "潜水艦後部魚雷発射管4門(後期型)",
+      "en": "Submarine Rear Torpedo Launcher (4 tubes, Late Model)",
+      "ko": "잠수함 후부어뢰 발사관 4문 (후기형)",
+      "sc": "潜艇后部鱼雷发射管4门(后期型)",
+      "tc": "潛艇後部魚雷發射管4門(後期型)"
+    },
+    "444": {
+      "ja": "四式重爆 飛龍+イ号一型甲 誘導弾",
+      "en": "Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile",
+      "ko": "4식 중폭 히류 + 이호 1형갑 유도탄",
+      "sc": "四式重爆 飞龙+I号一型甲 诱导弹",
+      "tc": "四式重爆 飛龍+I號一型甲 誘導彈"
+    },
+    "445": {
+      "ja": "二式複戦 屠龍",
+      "en": "Type 2 Two-seat Fighter Toryuu",
+      "ko": "2식 복전 토류",
+      "sc": "二式复战 屠龙",
+      "tc": "二式複戰 屠龍"
+    },
+    "446": {
+      "ja": "二式複戦 屠龍 丙型",
+      "en": "Type 2 Two-seat Fighter Toryuu Model C",
+      "ko": "2식 복전 토류 병형",
+      "sc": "二式复战 屠龙 丙型",
+      "tc": "二式複戰 屠龍 丙型"
+    },
+    "447": {
+      "ja": "零式艦戦64型(複座KMX搭載機)",
+      "en": "Type 0 Fighter Model 64 (Two-seat w/ KMX)",
+      "ko": "영식 함상전투기 64형 (복좌 KMX탑재기)",
+      "sc": "零式舰战64型(复座KMX搭载机)",
+      "tc": "零式艦戰64型(複座KMX搭載機)"
+    },
+    "449": {
+      "ja": "特大発動艇+一式砲戦車",
+      "en": "Toku Daihatsu Landing Craft + Type 1 Gun Tank",
+      "ko": "특대발동정 + 1식포전차",
+      "sc": "特大发动艇+一式炮战车",
+      "tc": "特大發動艇+一式砲戰車"
+    },
+    "450": {
+      "ja": "13号対空電探改(後期型)",
+      "en": "Type 13 Air Radar Kai (Late Model)",
+      "ko": "13호 대공전탐 개 (후기형)",
+      "sc": "13号对空电探改(后期型)",
+      "tc": "13號對空電探改(後期型)"
+    },
+    "451": {
+      "ja": "三式指揮連絡機改",
+      "en": "Type 3 Command Liaison Aircraft Kai",
+      "ko": "3식 지휘연락기 개",
+      "sc": "三式指挥联络机改",
+      "tc": "三式指揮聯絡機改"
+    },
+    "452": {
+      "ja": "キ96",
+      "en": "Ki-96",
+      "ko": "Ki-96",
+      "sc": "Ki-96",
+      "tc": "Ki-96"
+    },
+    "453": {
+      "ja": "キ102乙",
+      "en": "Ki-102 B",
+      "ko": "Ki-102 을",
+      "sc": "Ki-102乙",
+      "tc": "Ki-102乙"
+    },
+    "454": {
+      "ja": "キ102乙改+イ号一型乙 誘導弾",
+      "en": "Ki-102 B Kai + No.1 Model 1B Guided Missile",
+      "ko": "키-102 을 개 + 이호 1형을 유도탄",
+      "sc": "Ki-102乙改+I号一型乙 诱导弹",
+      "tc": "Ki-102乙改+I號一型乙 誘導彈"
+    },
+    "455": {
+      "ja": "試製 長12.7cm連装砲A型改四",
+      "en": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4",
+      "ko": "시제 장12.7cm 연장포 A형 개4",
+      "sc": "试制 长12.7cm连装炮A型改四",
+      "tc": "試制 長12.7cm連裝砲A型改四"
+    },
+    "456": {
+      "ja": "SG レーダー(後期型)",
+      "en": "SG Radar (Late Model)",
+      "ko": "SG 레이더 (후기형)",
+      "sc": "SG 雷达(后期型)",
+      "tc": "SG 雷達(後期型)"
+    },
+    "457": {
+      "ja": "後期型艦首魚雷(4門)",
+      "en": "Late Model Bow Torpedo Mount (4 tubes)",
+      "ko": "후기형 함수어뢰 (4문)",
+      "sc": "后期型舰首鱼雷(4门)",
+      "tc": "後期型艦首魚雷(4門)"
+    },
+    "458": {
+      "ja": "後期型電探&逆探+シュノーケル装備",
+      "en": "Late Model Radar & Passive Radiolocator + Snorkel Equipment",
+      "ko": "후기형 전탐 & 역탐 + 슈노켈 장비",
+      "sc": "后期型电探&逆探+通气管装备",
+      "tc": "後期型電探&逆探+通氣管裝備"
+    },
+    "459": {
+      "ja": "B-25",
+      "en": "B-25",
+      "ko": "B-25",
+      "sc": "B-25",
+      "tc": "B-25"
+    },
+    "460": {
+      "ja": "15m二重測距儀改+21号電探改二+熟練射撃指揮所",
+      "en": "15m Duplex Rangefinder Kai + Type 21 Air Radar Kai Ni + Skilled Fire Direction Center",
+      "ko": "15m 이중측거의 개+21호 전탐 개2+숙련사격 지휘소",
+      "sc": "15m二重测距仪改+21号电探改二+熟练射击指挥所",
+      "tc": "15m二重測距儀改+21號電探改二+熟練射擊指揮所"
+    },
+    "461": {
+      "ja": "熟練聴音員+後期型艦首魚雷(4門)",
+      "en": "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (4 tubes)",
+      "ko": "숙련청음원+후기형 함수어뢰 (4문)",
+      "sc": "熟练听音员+后期型舰首鱼雷(4门)",
+      "tc": "熟練聴音員+後期型艦首魚雷(4門)"
+    },
+    "463": {
+      "ja": "15.5cm三連装副砲改二",
+      "en": "15.5cm Triple Secondary Gun Mount Kai Ni",
+      "ko": "15.5cm 삼연장부포 개2",
+      "sc": "15.5cm三连装副炮改二",
+      "tc": "15.5cm三連裝副砲改二"
+    },
+    "464": {
+      "ja": "10cm連装高角砲群 集中配備",
+      "en": "10cm Twin High-angle Gun Mount Battery Concentrated Deployment",
+      "ko": "10cm 연장고각포군 집중배치",
+      "sc": "10cm连装高角炮群 集中配备",
+      "tc": "10cm連裝高角砲群 集中配備"
+    },
+    "465": {
+      "ja": "試製51cm三連装砲",
+      "en": "Prototype 51cm Triple Gun Mount",
+      "ko": "시제 51cm 삼연장포",
+      "sc": "试制51cm三连装炮",
+      "tc": "試制51cm三連裝砲"
+    },
+    "466": {
+      "ja": "流星改(熟練)",
+      "en": "Ryuusei Kai (Skilled)",
+      "ko": "류세이 개 (숙련)",
+      "sc": "流星改(熟练)",
+      "tc": "流星改(熟練)"
+    },
+    "467": {
+      "ja": "5inch連装砲(副砲配置) 集中配備",
+      "en": "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment",
+      "ko": "5inch 연장포 (부포배치) 집중배치",
+      "sc": "5inch连装炮(副炮配置) 集中配备",
+      "tc": "5inch連裝砲(副砲配置) 集中配備"
+    },
+    "468": {
+      "ja": "38cm四連装砲改 deux",
+      "en": "38cm Quadruple Gun Mount Kai Deux",
+      "ko": "38cm 4연장포 개 deux",
+      "sc": "38cm四连装炮改 deux",
+      "tc": "38cm四連裝砲改 deux"
+    },
+    "469": {
+      "ja": "零式水上偵察機11型乙改(夜偵)",
+      "en": "Type 0 Reconnaissance Seaplane Model 11B Kai (Night Recon)",
+      "ko": "영식 수상정찰기 11형 을 개 (야정)",
+      "sc": "零式水上侦察机11型乙改(夜侦)",
+      "tc": "零式水上偵察機11型乙改(夜偵)"
+    },
+    "470": {
+      "ja": "12.7cm連装砲C型改三",
+      "en": "12.7cm Twin Gun Mount Model C Kai 3",
+      "ko": "12.7cm 연장포 C형 개3",
+      "sc": "12.7cm连装炮C型改三",
+      "tc": "12.7cm連裝砲C型改三"
+    },
+    "471": {
+      "ja": "Loire 130M",
+      "en": "Loire 130M",
+      "ko": "Loire 130M",
+      "sc": "Loire 130M",
+      "tc": "Loire 130M"
+    },
+    "472": {
+      "ja": "Mk.32 対潜魚雷(Mk.2落射機)",
+      "en": "Mk.32 ASW Torpedo (Mk.2 Thrower)",
+      "ko": "Mk.32 대잠어뢰(Mk2낙사기)",
+      "sc": "Mk.32 对潜鱼雷(Mk.2落射机)",
+      "tc": "Mk.32 对潜鱼雷(Mk.2落射机)"
+    },
+    "473": {
+      "ja": "F4U-2 Night Corsair",
+      "en": "F4U-2 Night Corsair",
+      "ko": "F4U-2 Night Corsair",
+      "sc": "F4U-2 Night Corsair",
+      "tc": "F4U-2 Night Corsair"
+    },
+    "474": {
+      "ja": "F4U-4",
+      "en": "F4U-4",
+      "ko": "F4U-4",
+      "sc": "F4U-4",
+      "tc": "F4U-4"
+    },
+    "475": {
+      "ja": "AU-1",
+      "en": "AU-1",
+      "ko": "AU-1",
+      "sc": "AU-1",
+      "tc": "AU-1"
+    },
+    "476": {
+      "ja": "F4U-7",
+      "en": "F4U-7",
+      "ko": "F4U-7",
+      "sc": "F4U-7",
+      "tc": "F4U-7"
+    },
+    "477": {
+      "ja": "熟練甲板要員",
+      "en": "Skilled Deck Personnel",
+      "ko": "숙련갑판요원",
+      "sc": "熟练甲板要员",
+      "tc": "熟練甲板要員"
+    },
+    "478": {
+      "ja": "熟練甲板要員+航空整備員",
+      "en": "Skilled Deck Personnel + Aviation Maintenance Hands",
+      "ko": "숙련갑판요원+항공정비원",
+      "sc": "熟练甲板要员+航空整备员",
+      "tc": "熟練甲板要員+航空整備員"
+    },
+    "479": {
+      "ja": "Mosquito FB Mk.VI",
+      "en": "Mosquito FB Mk.VI",
+      "ko": "Mosquito FB Mk.VI",
+      "sc": "Mosquito FB Mk.VI",
+      "tc": "Mosquito FB Mk.VI"
+    },
+    "480": {
+      "ja": "Mosquito PR Mk.IV",
+      "en": "Mosquito PR Mk.IV",
+      "ko": "Mosquito PR Mk.IV",
+      "sc": "Mosquito PR Mk.IV",
+      "tc": "Mosquito PR Mk.IV"
+    },
+    "481": {
+      "ja": "Mosquito TR Mk.33",
+      "en": "Mosquito TR Mk.33",
+      "ko": "Mosquito TR Mk.33",
+      "sc": "Mosquito TR Mk.33",
+      "tc": "Mosquito TR Mk.33"
+    },
+    "482": {
+      "ja": "特大発動艇+Ⅲ号戦車(北アフリカ仕様)",
+      "en": "Toku Daihatsu Landing Craft + Panzer III (North African Specification)",
+      "ko": "특대발동정+III호 전차 (북아프리카 사양)",
+      "sc": "特大发动艇+III号战车(北非规格)",
+      "tc": "特大發動艇+III號戰車(北非規格)"
+    },
+    "483": {
+      "ja": "三式弾改二",
+      "en": "Type 3 Shell Kai Ni",
+      "ko": "삼식탄 개2",
+      "sc": "三式弹改二",
+      "tc": "三式彈改二"
+    },
+    "484": {
+      "ja": "四式重爆 飛龍(熟練)+イ号一型甲 誘導弾",
+      "en": "Type 4 Heavy Bomber Hiryuu (Skilled) + No.1 Model 1A Guided Missile",
+      "ko": "4식 중폭 히류 (숙련) + 이호 1형갑 유도탄",
+      "sc": "四式重爆 飞龙(熟练)+I号一型甲 诱导弹",
+      "tc": "四式重爆 飛龍(熟練)+I號一型甲 誘導彈"
+    },
+    "485": {
+      "ja": "強風改二",
+      "en": "Kyoufuu Kai Ni",
+      "ko": "쿄후 개2",
+      "sc": "強风改二",
+      "tc": "強風改二"
+    },
+    "486": {
+      "ja": "零式艦戦64型(制空戦闘機仕様)",
+      "en": "Type 0 Fighter Model 64 (Air Superiority Fighter Specification)",
+      "ko": "영식 함상전투기 64형 (제공전투기 사양)",
+      "sc": "零式舰战64型(制空战斗机机型)",
+      "tc": "零式艦戰64型(制空戰鬥機機型)"
+    },
+    "487": {
+      "ja": "零式艦戦64型(熟練爆戦)",
+      "en": "Type 0 Fighter Model 64 (Skilled Fighter-bomber)",
+      "ko": "영식 함상전투기 64형 (숙련 폭전)",
+      "sc": "零式舰战64型(熟练爆战)",
+      "tc": "零式艦戰64型(熟練爆戰)"
+    },
+    "488": {
+      "ja": "二式爆雷改二",
+      "en": "Type 2 Depth Charge Kai Ni",
+      "ko": "2식 폭뢰 개2",
+      "sc": "二式爆雷改二",
+      "tc": "二式爆雷改二"
+    },
+    "489": {
+      "ja": "一式戦 隼II型改(20戦隊)",
+      "en": "Type 1 Fighter Hayabusa Model II Kai (20th Squadron)",
+      "ko": "1식전 하야부사 2형 개 (20전대)",
+      "sc": "一式战 隼II型改(20战队)",
+      "tc": "一式戰 隼II型改(20戰隊)"
+    },
+    "490": {
+      "ja": "試製 夜間瑞雲(攻撃装備)",
+      "en": "Prototype Night Zuiun (Attack Equipment)",
+      "ko": "시제 야간 즈이운 (공격장비)",
+      "sc": "试制 夜间瑞云(攻击装备)",
+      "tc": "試制 夜間瑞雲(攻擊裝備)"
+    },
+    "491": {
+      "ja": "一式戦 隼III型改(熟練/20戦隊)",
+      "en": "Type 1 Fighter Hayabusa Model III Kai (Skilled / 20th Squadron)",
+      "ko": "1식전 하야부사 3형 개 (숙련/20전대)",
+      "sc": "一式战 隼III型改(熟练/20战队)",
+      "tc": "一式戰 隼III型改(熟練/20戰隊)"
+    },
+    "492": {
+      "ja": "零戦52型丙(八幡部隊)",
+      "en": "Zero Fighter Model 52C (Hachiman Force)",
+      "ko": "영식 함상전투기 52형 병 (하치만 부대)",
+      "sc": "零战52型丙（八幡部队）",
+      "tc": "零戰52型丙（八幡部隊）"
+    },
+    "493": {
+      "ja": "一式陸攻(八幡部隊)",
+      "en": "Type 1 Land-based Attack Aircraft (Hachiman Force)",
+      "ko": "1식 육상공격기 (하치만 부대)",
+      "sc": "一式陆攻（八幡部队）",
+      "tc": "一式陸攻（八幡部隊）"
+    },
+    "494": {
+      "ja": "特大発動艇+チハ",
+      "en": "Toku Daihatsu Landing Craft + Chi-Ha Tank",
+      "ko": "특대발동정 + 치하",
+      "sc": "特大发动艇+中三",
+      "tc": "特大發動艇+中三"
+    },
+    "495": {
+      "ja": "特大発動艇+チハ改",
+      "en": "Toku Daihatsu Landing Craft + Chi-Ha Kai Tank",
+      "ko": "특대발동정 + 치하 개",
+      "sc": "特大发动艇+中三改",
+      "tc": "特大發動艇+中三改"
+    },
+    "496": {
+      "ja": "陸軍歩兵部隊",
+      "en": "Army Infantry Units",
+      "ko": "육군보병부대",
+      "sc": "陆军步兵部队",
+      "tc": "陸軍步兵部隊"
+    },
+    "497": {
+      "ja": "九七式中戦車(チハ)",
+      "en": "Type 97 Medium Tank (Chi-Ha)",
+      "ko": "97식 중전차 (치하)",
+      "sc": "九七式中战车（中三）",
+      "tc": "九七式中戰車（中三）"
+    },
+    "498": {
+      "ja": "九七式中戦車 新砲塔(チハ改)",
+      "en": "Type 97 Medium Tank New Gun Turret (Chi-Ha Kai)",
+      "ko": "97식 중전차 신포탑 (치하 개)",
+      "sc": "九七式中战车 新炮塔（中三改）",
+      "tc": "九七式中戰車 新砲塔（中三改）"
+    },
+    "499": {
+      "ja": "陸軍歩兵部隊+チハ改",
+      "en": "Army Infantry Units + Chi-Ha Kai Tank",
+      "ko": "육군보병부대 + 치하 개",
+      "sc": "陆军步兵部队+中三改",
+      "tc": "陸軍步兵部隊+中三改"
+    },
+    "500": {
+      "ja": "発煙装置(煙幕)",
+      "en": "Smoke Generator (Smoke Screen)",
+      "ko": "발연장치 (연막)",
+      "sc": "发烟装置（烟幕）",
+      "tc": "發煙裝置（煙幕）"
+    },
+    "501": {
+      "ja": "発煙装置改(煙幕)",
+      "en": "Smoke Generator Kai (Smoke Screen)",
+      "ko": "발연장치 개 (연막)",
+      "sc": "发烟装置改（烟幕）",
+      "tc": "發煙裝置改（煙幕）"
+    },
+    "502": {
+      "ja": "35.6cm連装砲改三(ダズル迷彩仕様)",
+      "en": "35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage)",
+      "ko": "35.6cm 연장포 개3 (대즐미채 사양)",
+      "sc": "35.6cm连装炮改三（炫光迷彩制式）",
+      "tc": "35.6cm連裝砲改三（炫光迷彩樣式）"
+    },
+    "503": {
+      "ja": "35.6cm連装砲改四",
+      "en": "35.6cm Twin Gun Mount Kai 4",
+      "ko": "35.6cm 연장포 개4",
+      "sc": "35.6cm连装炮改四",
+      "tc": "35.6cm連裝砲改四"
+    },
+    "504": {
+      "ja": "銀河(熟練)"
+    },
+    "505": {
+      "ja": "25mm対空機銃増備",
+      "en": "25mm Anti-aircraft Autocannon Expansion",
+      "ko": "25mm 대공기총 증비",
+      "sc": "25mm对空机铳增备",
+      "tc": "25mm對空機銃增備"
+    },
+    "506": {
+      "ja": "電探装備マスト(13号改+22号電探改四)",
+      "en": "Radar Equipment Mast (Type 13 Kai + Type 22 Radar Kai 4)",
+      "ko": "전탐장비 마스트 (13호改 + 22호전탐改4)",
+      "sc": "电探装备桅(13号改+22号电探改四)",
+      "tc": "電探裝備桅(13號改+22號電探改四)"
+    },
+    "507": {
+      "ja": "14inch/45 連装砲",
+      "en": "14inch/45 Twin Gun Mount",
+      "ko": "14inch/45 연장포",
+      "sc": "14inch/45 连装炮",
+      "tc": "14inch/45 連装砲"
+    },
+    "508": {
+      "ja": "14inch/45 三連装砲",
+      "en": "14inch/45 Triple Gun Mount",
+      "ko": "14inch/45 삼연장포",
+      "sc": "14inch/45 三连装炮",
+      "tc": "14inch/45 三連装砲"
+    },
+    "509": {
+      "ja": "12cm単装高角砲E型改",
+      "en": "12cm Single High-angle Gun Mount Model E Kai",
+      "ko": "12cm 단장고각포 E형 개",
+      "sc": "12cm单装高角炮E型改",
+      "tc": "12cm單裝高角砲E型改"
+    },
+    "510": {
+      "ja": "Walrus",
+      "en": "Walrus",
+      "ko": "Walrus",
+      "sc": "Walrus",
+      "tc": "Walrus"
+    },
+    "511": {
+      "ja": "21inch艦首魚雷発射管4門(初期型)",
+      "en": "21inch Bow Torpedo Launcher (4 tubes, Initial Model)",
+      "ko": "21inch 함수어뢰 발사관 4문 (초기형)",
+      "sc": "21inch舰首鱼雷发射管4门(初期型)",
+      "tc": "21inch艦首魚雷發射管4門(初期型)"
+    },
+    "512": {
+      "ja": "21inch艦首魚雷発射管4門(後期型)",
+      "en": "21inch Bow Torpedo Launcher (4 tubes, Late Model)",
+      "ko": "21inch 함수어뢰 발사관 4문 (후기형)",
+      "sc": "21inch舰首鱼雷发射管4门(后期型)",
+      "tc": "21inch艦首魚雷發射管4門(後期型)"
+    },
+    "513": {
+      "ja": "阻塞気球",
+      "en": "Barrage Balloon",
+      "ko": "조색기구",
+      "sc": "阻塞气球",
+      "tc": "阻塞氣球"
+    },
+    "514": {
+      "ja": "特大発動艇+Ⅲ号戦車J型",
+      "en": "Toku Daihatsu Landing Craft + Panzer III Type J",
+      "ko": "특대발동정+III호 전차 J형",
+      "sc": "特大发动艇+三号战车J型",
+      "tc": "特大發動艇+三號戰車J型"
+    },
+    "515": {
+      "ja": "Sea Otter",
+      "en": "Sea Otter",
+      "ko": "Sea Otter",
+      "sc": "Sea Otter",
+      "tc": "Sea Otter"
+    },
+    "516": {
+      "ja": "Me 262 A-1a/R1"
+    },
+    "517": {
+      "ja": "逆探(E27)+22号対水上電探改四(後期調整型)",
+      "en": "Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Late Adjustment Model)",
+      "ko": "역탐(E27) + 22호 대수상전탐 개4 (후기조정형)",
+      "sc": "逆探(E27)+22号对水上电探改四(后期调整型)",
+      "tc": "逆探(E27)+22號對水上電探改四(後期調整型)"
+    },
+    "518": {
+      "ja": "14cm連装砲改二",
+      "en": "14cm Twin Gun Mount Kai",
+      "ko": "14cm 연장포 개2",
+      "sc": "14cm连装炮改二",
+      "tc": "14cm連裝砲改二"
+    },
+    "519": {
+      "ja": "SJレーダー+潜水艦司令塔装備",
+      "en": "SJ Radar + Submarine Conning Tower Equipment",
+      "ko": "SJ 레이더 + 잠수함 사령탑 장비",
+      "sc": "SJ雷达+潜水舰司令塔装备",
+      "tc": "SJ雷達+潛水艦司令塔裝備"
+    },
+    "520": {
+      "ja": "試製20.3cm(4号)連装砲",
+      "en": "Prototype 20.3cm (No.4) Twin Gun Mount",
+      "ko": "시제 20.3cm (4호) 연장포",
+      "sc": "试制20.3cm(4号)连装炮",
+      "tc": "試制20.3cm(4號)連裝砲"
+    },
+    "521": {
+      "ja": "紫雲(熟練)",
+      "en": "Shiun (Skilled)",
+      "ko": "시운 (숙련)",
+      "sc": "紫云(熟练)",
+      "tc": "紫雲(熟練)"
+    },
+    "522": {
+      "ja": "零式小型水上機",
+      "en": "Type 0 Small Reconnaissance Seaplane",
+      "ko": "영식 소형 수상기",
+      "sc": "零式小型水上机",
+      "tc": "零式小型水上機"
+    },
+    "523": {
+      "ja": "零式小型水上機(熟練)",
+      "en": "Type 0 Small Reconnaissance Seaplane (Skilled)",
+      "ko": "영식 소형 수상기 (숙련)",
+      "sc": "零式小型水上机(熟練)",
+      "tc": "零式小型水上機(熟練)"
+    },
+    "524": {
+      "ja": "12cm単装高角砲+25mm機銃増備",
+      "en": "12cm Single High-angle Gun Mount + 25mm Autocannon Expansion",
+      "ko": "12cm 단장고각포 + 25mm 기총 증비",
+      "sc": "12cm单装高角炮+25mm机铳增备",
+      "tc": "12cm單裝高角砲+25mm機銃增備"
+    },
+    "525": {
+      "ja": "特四式内火艇",
+      "en": "Special Type 4 Amphibious Landing Craft",
+      "ko": "특4식 내화정",
+      "sc": "特四式内火艇",
+      "tc": "特四式內火艇"
+    },
+    "526": {
+      "ja": "特四式内火艇改",
+      "en": "Special Type 4 Amphibious Landing Craft Kai",
+      "ko": "특4식 내화정 개",
+      "sc": "特四式内火艇",
+      "tc": "特四式內火艇"
+    },
+    "527": {
+      "ja": "Type281 レーダー",
+      "en": "Type281 Radar",
+      "ko": "Type281 레이더",
+      "sc": "Type281 雷达",
+      "tc": "Type281 雷達"
+    },
+    "528": {
+      "ja": "Type274 射撃管制レーダー",
+      "en": "Type 274 Fire Control Radar",
+      "ko": "Type274 사격관제 레이더",
+      "sc": "Type274 射击管制雷达",
+      "tc": "Type274 射擊管制雷達"
+    },
+    "529": {
+      "ja": "12.7cm連装砲C型改三H",
+      "en": "12.7cm Twin Gun Mount Model C Kai 3H",
+      "ko": "12.7cm 연장포 C형 개3H",
+      "sc": "12.7cm连装炮C型改三H",
+      "tc": "12.7cm連裝砲C型改三H"
+    },
+    "530": {
+      "ja": "35.6cm連装砲改三丙",
+      "en": "35.6cm Twin Gun Mount Kai 3 C",
+      "ko": "35.6cm 연장포 개3 병",
+      "sc": "35.6cm连装炮改三丙",
+      "tc": "35.6cm連裝砲改三丙"
+    },
+    "531": {
+      "ja": "艦隊通信アンテナ",
+      "en": "Fleet Communication Antenna",
+      "ko": "함대 통신 안테나",
+      "sc": "舰队通信天线",
+      "tc": "艦隊通信天線"
+    },
+    "532": {
+      "ja": "通信装置&要員",
+      "en": "Communication Equipment & Personnel",
+      "ko": "통신 장비 & 요원",
+      "sc": "通信装置&要员",
+      "tc": "通信裝置&要員"
+    },
+    "533": {
+      "ja": "10cm連装高角砲改+高射装置改",
+      "en": "10cm Twin High-angle Gun Mount Kai + Anti-Aircraft Fire Director Kai",
+      "ko": "10cm 연장고각포 개 + 고사장치 개",
+      "sc": "10cm连装高角炮改+高射装置改",
+      "tc": "10cm連裝高角砲改+高射裝置改"
+    },
+    "534": {
+      "ja": "強化型深海缶",
+      "en": "Enhanced Abyssal Boiler",
+      "ko": "강화형 심해보일러",
+      "sc": "強化型深海缶",
+      "tc": "強化型深海罐"
+    },
+    "535": {
+      "ja": "対空散弾",
+      "en": "Anti-Air Dispersal Shell",
+      "ko": "대공산탄",
+      "sc": "对空散弹",
+      "tc": "對空散彈"
+    },
+    "536": {
+      "ja": "劣化徹甲弾",
+      "en": "Deterioration Armor Piercing Shell",
+      "ko": "열화철갑탄",
+      "sc": "劣化穿甲弹",
+      "tc": "劣化徹甲彈"
+    },
+    "537": {
+      "ja": "12.7mm機銃",
+      "en": "12.7mm Machine Gun",
+      "ko": "12.7mm 기총",
+      "sc": "12.7mm机枪",
+      "tc": "12.7mm機槍"
+    },
+    "538": {
+      "ja": "20mm機銃",
+      "en": "20mm Autocannon",
+      "ko": "20mm 기총",
+      "sc": "20mm机枪",
+      "tc": "20mm機槍"
+    },
+    "539": {
+      "ja": "40mm二連装機関砲",
+      "en": "40mm Twin Autocannon Mount",
+      "ko": "40mm 이연장기관포",
+      "sc": "40mm二连装机关炮",
+      "tc": "40mm二連裝機砲"
+    },
+    "540": {
+      "ja": "40mm四連装機関砲",
+      "en": "40mm Quadruple Autocannon Mount",
+      "ko": "40mm 사연장기관포",
+      "sc": "40mm四连装机关炮",
+      "tc": "40mm四連裝機砲"
+    },
+    "541": {
+      "ja": "深海烏賊魚雷",
+      "en": "Abyssal Cuttlefish Torpedo",
+      "ko": "심해 오징어 어뢰",
+      "sc": "深海乌贼鱼雷",
+      "tc": "深海烏賊魚雷"
+    },
+    "542": {
+      "ja": "深海爆雷投射機",
+      "en": "Abyssal Depth Charge Projector",
+      "ko": "심해폭뢰투사기",
+      "sc": "深海爆雷投射机",
+      "tc": "深海爆雷投射機"
+    },
+    "543": {
+      "ja": "深海ソナー",
+      "en": "Abyssal Sonar",
+      "ko": "심해소나",
+      "sc": "深海声纳",
+      "tc": "深海聲納"
+    },
+    "544": {
+      "ja": "深海爆雷投射機 Mk.II",
+      "en": "Abyssal Depth Charge Projector Mk.II",
+      "ko": "심해폭뢰투사기 Mk.II",
+      "sc": "深海爆雷投射机 Mk.II",
+      "tc": "深海爆雷投射機 Mk.II"
+    },
+    "545": {
+      "ja": "深海ソナー Mk.II",
+      "en": "Abyssal Sonar Mk.II",
+      "ko": "심해소나 Mk.II",
+      "sc": "深海声纳 Mk.II",
+      "tc": "深海聲納 Mk.II"
+    },
+    "546": {
+      "ja": "飛び魚艦爆",
+      "en": "Flying Fish Dive Bomber",
+      "ko": "날치 함상폭격기",
+      "sc": "飞鱼舰爆",
+      "tc": "飛魚艦爆"
+    },
+    "547": {
+      "ja": "深海猫艦戦",
+      "en": "Abyssal Cat Fighter",
+      "ko": "심해 고양이 함상전투기",
+      "sc": "深海猫舰战",
+      "tc": "深海貓艦戰"
+    },
+    "548": {
+      "ja": "深海地獄艦爆",
+      "en": "Abyssal Hell Dive Bomber",
+      "ko": "심해 지옥 함상폭격기",
+      "sc": "深海地獄艦爆",
+      "tc": "深海地獄艦戰"
+    },
+    "549": {
+      "ja": "深海復讐艦攻",
+      "en": "Abyssal Revenge Torpedo Bomber",
+      "ko": "심해 복수 함상공격기",
+      "sc": "深海复仇舰攻",
+      "tc": "深海復仇艦攻"
+    },
+    "550": {
+      "ja": "5inch連装両用莢砲",
+      "en": "5inch Twin Dual Purpose Gun Mount",
+      "ko": "5inch연장양용협포",
+      "sc": "5inch连装两用荚炮",
+      "tc": "5inch連裝兩用彈莢砲"
+    },
+    "551": {
+      "ja": "20inch連装砲",
+      "en": "20inch Twin Gun Mount",
+      "ko": "20inch연장포",
+      "sc": "20inch连装炮",
+      "tc": "20inch連裝砲"
+    },
+    "552": {
+      "ja": "15inch要塞砲",
+      "en": "15inch Coastal Artillery",
+      "ko": "15inch요새포",
+      "sc": "15inch要塞炮",
+      "tc": "15inch要塞砲"
+    },
+    "553": {
+      "ja": "4inch連装両用砲+CIC",
+      "en": "4inch Twin Dual Purpose Gun Mount + CIC",
+      "ko": "4inch연장양용포+CIC",
+      "sc": "4inch连装两用炮+CIC",
+      "tc": "4inch連裝兩用砲+CIC"
+    },
+    "554": {
+      "ja": "深海水上攻撃機",
+      "en": "Abyssal Attack Seaplane",
+      "ko": "심해 수상공격기",
+      "sc": "深海水上攻击机",
+      "tc": "深海水上攻擊機"
+    },
+    "555": {
+      "ja": "深海水上攻撃機改",
+      "en": "Abyssal Attack Seaplane Kai",
+      "ko": "심해 수상공격기 개",
+      "sc": "深海水上攻击机改",
+      "tc": "深海水上攻擊機改"
+    },
+    "556": {
+      "ja": "深海猫艦戦改",
+      "en": "Abyssal Cat Fighter Kai",
+      "ko": "심해 고양이 함상전투기 개",
+      "sc": "深海猫舰战改",
+      "tc": "深海貓艦戰改"
+    },
+    "557": {
+      "ja": "深海地獄艦爆改",
+      "en": "Abyssal Hell Dive Bomber Kai",
+      "ko": "심해 지옥 함상폭격기 개",
+      "sc": "深海地狱舰爆改",
+      "tc": "深海地獄艦爆改"
+    },
+    "558": {
+      "ja": "深海復讐艦攻改",
+      "en": "Abyssal Revenge Torpedo Bomber Kai",
+      "ko": "심해 복수 함상공격기 개",
+      "sc": "深海复仇舰攻改",
+      "tc": "深海復仇艦攻改"
+    },
+    "559": {
+      "ja": "深海FCS+CIC",
+      "en": "Abyssal FCS + CIC",
+      "ko": "심해FCS+CIC",
+      "sc": "深海FCS+CIC",
+      "tc": "深海FCS+CIC"
+    },
+    "560": {
+      "ja": "深海探照灯",
+      "en": "Abyssal Searchlight",
+      "ko": "심해 탐조등",
+      "sc": "深海探照灯",
+      "tc": "深海探照燈"
+    },
+    "561": {
+      "ja": "深海解放陸爆",
+      "en": "Abyssal Liberation Land-based Dive Bomber",
+      "ko": "심해 해방 육상폭격기",
+      "sc": "深海解放陆爆",
+      "tc": "深海解放陸爆"
+    },
+    "562": {
+      "ja": "深海解放陸爆Ace",
+      "en": "Abyssal Liberation Land-based Dive Bomber Ace",
+      "ko": "심해 해방 육상폭격기 Ace",
+      "sc": "深海解放陆爆Ace",
+      "tc": "深海解放陸爆Ace"
+    },
+    "563": {
+      "ja": "8inch長射程連装砲",
+      "en": "8inch Long Range Twin Gun Mount",
+      "ko": "8inch장사정연장포",
+      "sc": "8inch长射程连装炮",
+      "tc": "8inch長射程速射砲"
+    },
+    "564": {
+      "ja": "深海水上偵察観測機",
+      "en": "Abyssal Reconnaissance Observation Seaplane",
+      "ko": "심해수상정찰관측기",
+      "sc": "深海水上侦查观测机",
+      "tc": "深海水上偵察觀測機"
+    },
+    "565": {
+      "ja": "5inch沿岸設置砲",
+      "en": "5inch Coastal Gun",
+      "ko": "5inch연안설치포",
+      "sc": "5inch沿岸设置炮",
+      "tc": "5inch沿岸設置砲"
+    },
+    "566": {
+      "ja": "深海猫艦戦(爆装)",
+      "en": "Abyssal Cat Fighter (Bombing)",
+      "ko": "심해 고양이 함상전투기(폭장)",
+      "sc": "深海猫舰战(爆装)",
+      "tc": "深海貓艦戰(爆裝)"
+    },
+    "567": {
+      "ja": "沿岸設置レーダー",
+      "en": "Coastal Radar",
+      "ko": "연안설치레이더",
+      "sc": "沿岸设置雷达",
+      "tc": "沿岸設置雷達"
+    },
+    "568": {
+      "ja": "16inch三連装砲",
+      "en": "16inch Triple Gun Mount",
+      "ko": "16inch 삼연장포",
+      "sc": "16inch三连装炮",
+      "tc": "16inch三連裝砲"
+    },
+    "569": {
+      "ja": "深海偵察飛行艇",
+      "en": "Abyssal Reconnaissance Flying Boat",
+      "ko": "심해 정찰비행정",
+      "sc": "深海飞行侦查艇",
+      "tc": "深海偵察飛行艇"
+    },
+    "570": {
+      "ja": "高速深海魚雷 mod.2",
+      "en": "High-speed Abyssal Torpedo mod.2",
+      "ko": "고속심해어뢰 mod.2",
+      "sc": "高速深海鱼雷 mod.2",
+      "tc": "高速深海魚雷 mod.2"
+    },
+    "571": {
+      "ja": "深海水母小鬼機",
+      "en": "Abyssal Seaplane Tender Imp Aircraft",
+      "ko": "심해수모소귀기",
+      "sc": "深海水母小鬼机",
+      "tc": "深海水母小鬼機"
+    },
+    "572": {
+      "ja": "深海熊猫艦戦",
+      "en": "Abyssal Bearcat Fighter",
+      "ko": "심해 곰고양이 함전",
+      "sc": "深海熊猫舰战",
+      "tc": "深海熊貓艦戰"
+    },
+    "573": {
+      "ja": "深海潜水下駄履き",
+      "en": "Abyssal Submarine Floatplane",
+      "ko": "심해 잠수함 수상기",
+      "sc": "深海潜艇用木屐式机",
+      "tc": "深海潛艦用木屐式機"
+    },
+    "574": {
+      "ja": "深海攻撃哨戒鷹",
+      "en": "Abyssal Patrolling Attack Hawk",
+      "ko": "심해 공격 초계 매",
+      "sc": "深海攻击警戒鹰",
+      "tc": "深海攻擊警戒鷹"
+    },
+    "575": {
+      "ja": "深海攻撃哨戒鷹改",
+      "en": "Abyssal Patrolling Attack Hawk Kai",
+      "ko": "심해 공격 초계 매改",
+      "sc": "深海攻击警戒鹰改",
+      "tc": "深海攻擊警戒鷹改"
+    },
+    "576": {
+      "ja": "深海12inch三連装砲",
+      "en": "Abyssal 12inch Triple Gun Mount",
+      "ko": "심해 12inch 삼연장포",
+      "sc": "深海12inch三连装炮",
+      "tc": "深海12inch三連裝砲"
+    },
+    "577": {
+      "ja": "深海15inch四連装砲",
+      "en": "Abyssal 15inch Quadruple Gun Mount",
+      "ko": "심해 15inch 사연장포",
+      "sc": "深海15inch四连装炮",
+      "tc": "深海15inch四連裝砲"
+    },
+    "578": {
+      "ja": "深海15inch連装砲後期型",
+      "en": "Abyssal 15inch Twin Gun Mount Late Model",
+      "ko": "심해 15inch 연장포 후기형",
+      "sc": "深海15inch连装炮后期型",
+      "tc": "深海15inch連裝砲後期型"
+    },
+    "579": {
+      "ja": "深海14inch海峡連装砲",
+      "en": "Abyssal 14inch Straight Twin Gun Mount",
+      "ko": "심해 14inch 해협 연장포",
+      "sc": "深海14inch海峡连装炮",
+      "tc": "深海14inch海峽連裝砲"
+    },
+    "580": {
+      "ja": "深海待伏魚雷",
+      "en": "Abyssal Ambush Torpedo",
+      "ko": "심해 매복 어뢰",
+      "sc": "深海待伏鱼雷",
+      "tc": "深海待伏魚雷"
+    },
+    "581": {
+      "ja": "夜猫深海艦戦",
+      "en": "Abyssal Night Cat Fighter",
+      "ko": "야간 고양이 심해 함전",
+      "sc": "夜猫深海舰战",
+      "tc": "夜貓深海艦戰"
+    },
+    "582": {
+      "ja": "夜深海艦爆",
+      "en": "Abyssal Night Dive Bomber",
+      "ko": "야간 심해 함폭",
+      "sc": "夜深海舰爆",
+      "tc": "夜深海艦爆"
+    },
+    "583": {
+      "ja": "夜復讐深海艦攻",
+      "en": "Abyssal Night Revenge Torpedo Bomber",
+      "ko": "야간 복수 심해 함공",
+      "sc": "夜复仇深海舰攻",
+      "tc": "夜復仇深海艦攻"
+    },
+    "584": {
+      "ja": "深海14inch連装砲改",
+      "en": "Abyssal 14inch Twin Gun Mount Kai",
+      "ko": "심해 14inch 연장포 개",
+      "sc": "深海14inch连装炮改",
+      "tc": "深海14inch連裝砲改"
+    },
+    "585": {
+      "ja": "深海16inch三連装砲改",
+      "en": "Abyssal 16inch Triple Gun Mount Kai",
+      "ko": "심해 16inch 3연장포 개",
+      "sc": "深海16inch三连装炮改",
+      "tc": "深海16inch三連裝砲改"
+    },
+    "586": {
+      "ja": "深海攻撃哨戒鷹改二",
+      "en": "Abyssal Patrolling Attack Hawk Kai Ni",
+      "ko": "심해 공격 초계 매 개2",
+      "sc": "深海攻击警戒鹰改二",
+      "tc": "深海攻擊警戒鷹改二"
+    },
+    "587": {
+      "ja": "深海16inch三連装砲改二",
+      "en": "Abyssal 16inch Triple Gun Mount Kai Ni",
+      "ko": "심해 16inch 3연장포 개2",
+      "sc": "深海16inch三连装炮改二",
+      "tc": "深海16inch三連裝砲改二"
+    },
+    "588": {
+      "ja": "深海5inch連装砲C型",
+      "en": "Abyssal 5inch Twin Gun Mount Model C",
+      "ko": "심해 5inch 연장포 C형",
+      "sc": "深海5inch连装炮C型",
+      "tc": "深海5inch連裝砲C型"
+    },
+    "589": {
+      "ja": "深海5.5inch連装砲改",
+      "en": "Abyssal 5.5inch Twin Gun Mount Kai",
+      "ko": "심해 5.5inch 연장포 개",
+      "sc": "深海5.5inch连装炮改",
+      "tc": "深海5.5inch連裝砲改"
+    },
+    "590": {
+      "ja": "深海標的",
+      "en": "Abyssal Hyouteki",
+      "ko": "심해 표적",
+      "sc": "深海标的",
+      "tc": "深海標的"
+    },
+    "591": {
+      "ja": "深海5inch単装砲 Mk.30",
+      "en": "Abyssal 5inch Single Gun Mount Mk.30",
+      "ko": "심해 5inch 단장포 Mk.30",
+      "sc": "深海5inch单装炮 Mk.30",
+      "tc": "深海5inch單裝砲 Mk.30"
+    },
+    "592": {
+      "ja": "深海16inch Mk.VIII連装砲改",
+      "en": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+      "ko": "심해 16inch Mk.VIII 연장포 개",
+      "sc": "深海16inch Mk.VIII连装炮改",
+      "tc": "深海16inch Mk.VIII連裝砲改"
+    },
+    "593": {
+      "ja": "高速深海魚雷 mod.3",
+      "en": "High-speed Abyssal Torpedo mod.3",
+      "ko": "고속심해어뢰 mod.3",
+      "sc": "高速深海鱼雷 mod.3",
+      "tc": "高速深海魚雷 mod.3"
+    },
+    "594": {
+      "ja": "深海空要塞(偵察型)",
+      "en": "Abyssal Sky Fortress (Reconnaissance Model)",
+      "ko": "심해 공중 요새 (정찰형)",
+      "sc": "深海空要塞(侦察型)",
+      "tc": "深海空要塞(偵察型)"
+    },
+    "595": {
+      "ja": "深海空要塞Ace(偵察型)",
+      "en": "Abyssal Sky Fortress Ace (Reconnaissance Model)",
+      "ko": "심해 공중 요새 Ace (정찰형)",
+      "sc": "深海空要塞Ace(侦察型)",
+      "tc": "深海空要塞Ace(偵察型)"
+    },
+    "596": {
+      "ja": "深海6inch三連装新型速射砲",
+      "en": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+      "ko": "심해 6inch 3연장 신형속사포",
+      "sc": "深海6inch三连装新型速射炮",
+      "tc": "深海6inch三連裝新型速射砲"
+    },
+    "597": {
+      "ja": "深海空要塞(重爆型)",
+      "en": "Abyssal Sky Fortress (Heavy Bomber Model)",
+      "ko": "심해 공중 요새 (중폭형)",
+      "sc": "深海空要塞(重爆型)",
+      "tc": "深海空要塞(重爆型)"
+    },
+    "598": {
+      "ja": "深海空要塞Ace(重爆型)",
+      "en": "Abyssal Sky Fortress Ace (Heavy Bomber Model)",
+      "ko": "심해 공중 요새 Ace (중폭형)",
+      "sc": "深海空要塞Ace(重爆型)",
+      "tc": "深海空要塞Ace(重爆型)"
+    },
+    "599": {
+      "ja": "深海4.7inch砲 Mk.XII",
+      "en": "Abyssal 4.7inch Gun Mk.XII",
+      "ko": "심해 4.7inch포 Mk.XII",
+      "sc": "深海4.7inch炮 Mk.XII改",
+      "tc": "深海4.7inch砲 Mk.XII改"
+    },
+    "600": {
+      "ja": "深海8inch連装速射砲",
+      "en": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+      "ko": "심해 8inch 연장속사포",
+      "sc": "深海8inch连装速射炮",
+      "tc": "深海8inch連裝速射砲"
+    },
+    "601": {
+      "ja": "深海8inch三連装砲 Mk.9",
+      "en": "Abyssal 8inch Triple Gun Mount Mk.9",
+      "ko": "심해 8inch 3연장포 Mk.9",
+      "sc": "深海8inch连装速射炮 Mk.9",
+      "tc": "深海8inch連裝速射砲 Mk.9"
+    },
+    "602": {
+      "ja": "深海5inch連装両用砲(集中配備)",
+      "en": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+      "ko": "심해 5inch 연장양용포 (집중배치)",
+      "sc": "深海5inch连装两用炮(集中配备)",
+      "tc": "深海5inch連裝兩用砲(集中配備)"
+    },
+    "603": {
+      "ja": "深海対空レーダーMark.III+FCS",
+      "en": "Abyssal Air Radar Mark.III + FCS",
+      "ko": "심해 대공 레이더 Mark.III + FCS",
+      "sc": "水上雷达 Mark.III+FCS",
+      "tc": "水上雷達 Mark.III+FCS"
+    },
+    "604": {
+      "ja": "深海5inch連装砲A型",
+      "en": "Abyssal 5inch Twin Gun Mount Model A",
+      "ko": "심해 5inch 연장포 A형",
+      "sc": "深海5inch连装炮A型",
+      "tc": "深海5inch連裝砲A型"
+    },
+    "605": {
+      "ja": "深海潜水艦搭載電子兵装",
+      "en": "Abyssal Submarine Electronic Armament",
+      "ko": "심해 잠수함탑재 전자병장",
+      "sc": "深海潜艇搭载电子兵装",
+      "tc": "深海潛艇搭載電子兵裝"
+    },
+    "606": {
+      "ja": "深海5inch単装高角砲改二",
+      "en": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+      "ko": "심해 5inch 단장고각포 개2",
+      "sc": "深海5inch单装高角炮改二",
+      "tc": "深海5inch單裝高角砲改二"
+    },
+    "607": {
+      "ja": "深海5inch連装高角砲改二",
+      "en": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+      "ko": "심해 5inch 연장고각포 개2",
+      "sc": "深海5inch连装高角炮改二",
+      "tc": "深海5inch連裝高角砲改二"
+    },
+    "608": {
+      "ja": "深海夜間航空作戦装備",
+      "en": "Abyssal Night Aviation Operation Equipment",
+      "ko": "심해 야간항공작전장비",
+      "sc": "深海夜间航空作战装备",
+      "tc": "深海夜間航空作戰裝備"
+    },
+    "609": {
+      "ja": "深海16inch三連装砲 Mk6",
+      "en": "Abyssal 16inch Triple Gun Mount Mk.6",
+      "ko": "심해 16inch 삼연장포 Mk.6",
+      "sc": "深海16inch三连装炮 Mk.6",
+      "tc": "深海16inch三連裝砲 Mk.6"
+    },
+    "610": {
+      "ja": "深海カモメ水偵",
+      "en": "Abyssal Seagull Reconnaissance Seaplane",
+      "ko": "심해 갈매기 수상정찰기",
+      "sc": "深海海鸥水侦",
+      "tc": "深海海鷗水偵"
+    },
+    "611": {
+      "ja": "深海海猫水偵",
+      "en": "Abyssal Seamew Reconnaissance Seaplane",
+      "ko": "심해 괭이갈매기 수상정찰기",
+      "sc": "深海黑尾鸥水侦",
+      "tc": "深海黑尾鷗水偵"
+    },
+    "612": {
+      "ja": "深海6inch三連装主砲 Mk.16",
+      "en": "Abyssal 6inch Triple Main Gun Mount Mk.16",
+      "ko": "심해 6inch 삼연장주포 Mk.16",
+      "sc": "深海6inch三连装主炮 Mk.16",
+      "tc": "深海6inch三連裝主砲 Mk.16"
+    },
+    "613": {
+      "ja": "地中海12inch/46 連装砲",
+      "en": "Mediterranean 12inch/46 Twin Gun Mount",
+      "ko": "지중해 12inch/46 연장포",
+      "sc": "地中海12inch/46 连装炮",
+      "tc": "地中海12inch/46 連裝砲"
+    },
+    "614": {
+      "ja": "地中海12inch/46 三連装砲",
+      "en": "Mediterranean 12inch/46 Triple Gun Mount",
+      "ko": "지중해 12inch/46 삼연장포",
+      "sc": "地中海12inch/46 三连装炮",
+      "tc": "地中海12inch/46 三連裝砲"
+    },
+    "615": {
+      "ja": "地中海12.6inch/44 連装砲",
+      "en": "Mediterranean 12.6inch/46 Twin Gun Mount",
+      "ko": "지중해 12.6inch/46 연장포",
+      "sc": "地中海12.6inch/44 连装炮",
+      "tc": "地中海12.6inch/44 連裝砲"
+    },
+    "616": {
+      "ja": "地中海12.6inch/44 三連装砲",
+      "en": "Mediterranean 12.6inch/46 Triple Gun Mount",
+      "ko": "지중해 12.6inch/46 삼연장포",
+      "sc": "地中海12.6inch/44 三连装炮",
+      "tc": "地中海12.6inch/44 三連裝砲"
+    },
+    "617": {
+      "ja": "夜猫深海艦戦II",
+      "en": "Abyssal Night Cat Fighter II",
+      "ko": "야간 고양이 심해 함전 II",
+      "sc": "夜猫深海舰战II",
+      "tc": "夜貓深海艦戰II"
+    },
+    "618": {
+      "ja": "夜深海艦爆II",
+      "en": "Abyssal Night Dive Bomber II",
+      "ko": "야간 심해 함폭 II",
+      "sc": "夜深海舰爆II",
+      "tc": "夜深海艦爆II"
+    },
+    "619": {
+      "ja": "夜復讐深海艦攻II",
+      "en": "Abyssal Night Revenge Torpedo Bomber II",
+      "ko": "야간 복수 심해 함공 II",
+      "sc": "夜复仇深海舰攻II",
+      "tc": "夜復仇深海艦攻II"
+    },
+    "620": {
+      "ja": "深海戦爆複座鷹",
+      "en": "Abyssal Two-seat Fighter-bomber Hawk",
+      "ko": "심해 전폭 복좌 매",
+      "sc": "深海战弹双座鹰",
+      "tc": "深海戰彈雙座鷹"
+    },
+    "621": {
+      "ja": "深海戦爆複座鷹改",
+      "en": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+      "ko": "심해 전폭 복좌 매 개",
+      "sc": "深海战弹双座鹰改",
+      "tc": "深海戰彈雙座鷹改"
+    },
+    "622": {
+      "ja": "深海四連装(酸素)魚雷後期型",
+      "en": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model",
+      "ko": "심해 4연장 (산소) 어뢰 후기형",
+      "sc": "深海四连装(酸素)鱼雷后期型",
+      "tc": "深海四連裝(酸素)魚雷後期型"
+    },
+    "623": {
+      "ja": "深海5inch連装砲D型"
+    },
+    "624": {
+      "ja": "深海五連装(酸素)魚雷後期型"
+    },
+    "625": {
+      "ja": "深海双発陸爆",
+      "en": "Abyssal Twin-engine Land-based Dive Bomber",
+      "ko": "심해 쌍발 육상 폭격기",
+      "sc": "深海双发陆爆",
+      "tc": "深海雙發陸爆"
+    },
+    "626": {
+      "ja": "深海双発陸爆Ace",
+      "en": "Abyssal Twin-engine Land-based Dive Bomber Ace",
+      "ko": "심해 쌍발 육상 폭격기 Ace",
+      "sc": "深海双发陆爆Ace",
+      "tc": "深海雙發陸爆Ace"
+    },
+    "627": {
+      "ja": "深海5inch連装砲C型",
+      "en": "Abyssal 5inch Twin Gun Mount Model C",
+      "ko": "심해 5inch 연장포 C형",
+      "sc": "深海5inch连装炮C型",
+      "tc": "深海5inch連裝砲C型"
+    },
+    "630": {
+      "ja": "深海空超要塞",
+      "en": "Abyssal Sky Super Fortress",
+      "ko": "심해 공중 초 요새",
+      "sc": "深海空超要塞",
+      "tc": "深海空超要塞"
+    },
+    "631": {
+      "ja": "深海空超要塞改"
+    },
+    "1501": {
+      "ja": "5inch単装砲",
+      "en": "5inch Single Gun Mount",
+      "ko": "5inch 단장포",
+      "sc": "5inch单装炮",
+      "tc": "5inch單裝砲"
+    },
+    "1502": {
+      "ja": "5inch連装砲",
+      "en": "5inch Twin Gun Mount",
+      "ko": "5inch 연장포",
+      "sc": "5inch连装炮",
+      "tc": "5inch連裝砲"
+    },
+    "1503": {
+      "ja": "3inch単装高角砲",
+      "en": "3inch Single High-angle Gun Mount",
+      "ko": "3inch 단장고각포",
+      "sc": "3inch单装高角炮",
+      "tc": "3inch單裝高角砲"
+    },
+    "1504": {
+      "ja": "5inch単装高射砲",
+      "en": "5inch Single Anti-Aircraft Gun Mount",
+      "ko": "5inch 단장고사포",
+      "sc": "5inch单装高射炮",
+      "tc": "5inch單裝高角砲"
+    },
+    "1505": {
+      "ja": "8inch三連装砲",
+      "en": "8inch Triple Gun Mount",
+      "ko": "8inch 삼연장포",
+      "sc": "8inch三连装炮",
+      "tc": "8inch三連裝砲"
+    },
+    "1506": {
+      "ja": "6inch連装速射砲",
+      "en": "6inch Twin Rapid Fire Gun Mount",
+      "ko": "6inch 연장속사포",
+      "sc": "6inch连装速射炮",
+      "tc": "6inch連裝速射砲"
+    },
+    "1507": {
+      "ja": "14inch連装砲",
+      "en": "14inch Twin Gun Mount",
+      "ko": "14inch 연장포",
+      "sc": "14inch连装炮",
+      "tc": "14inch連裝砲"
+    },
+    "1508": {
+      "ja": "16inch連装砲",
+      "en": "16inch Twin Gun Mount",
+      "ko": "16inch 연장포",
+      "sc": "16inch连装炮",
+      "tc": "16inch連裝砲"
+    },
+    "1509": {
+      "ja": "16inch三連装砲",
+      "en": "16inch Triple Gun Mount",
+      "ko": "16inch 삼연장포",
+      "sc": "16inch三连装炮",
+      "tc": "16inch三連裝砲"
+    },
+    "1510": {
+      "ja": "5inch単装高射砲",
+      "en": "5inch Single Anti-Aircraft Gun Mount",
+      "ko": "5inch 단장고사포",
+      "sc": "5inch单装高射炮",
+      "tc": "5inch單裝高角砲"
+    },
+    "1511": {
+      "ja": "6inch単装砲",
+      "en": "6inch Single Gun Mount",
+      "ko": "6inch 단장포",
+      "sc": "6inch单装炮",
+      "tc": "6inch單裝砲"
+    },
+    "1512": {
+      "ja": "12.5inch連装副砲",
+      "en": "12.5inch Twin Secondary Gun Mount",
+      "ko": "12.5inch 연장부포",
+      "sc": "12.5inch连装副炮",
+      "tc": "12.5inch連裝副砲"
+    },
+    "1513": {
+      "ja": "21inch魚雷前期型",
+      "en": "21inch Torpedo Early Model",
+      "ko": "21inch 어뢰전기형",
+      "sc": "21inch鱼雷前期型",
+      "tc": "21inch魚雷前期型"
+    },
+    "1514": {
+      "ja": "21inch魚雷後期型",
+      "en": "21inch Torpedo Late Model",
+      "ko": "21inch 어뢰후기형",
+      "sc": "21inch鱼雷后期型",
+      "tc": "21inch魚雷後期型"
+    },
+    "1515": {
+      "ja": "高速深海魚雷",
+      "en": "High-speed Abyssal Torpedo",
+      "ko": "고속심해어뢰",
+      "sc": "高速深海鱼雷",
+      "tc": "高速深海魚雷"
+    },
+    "1516": {
+      "ja": "深海棲艦攻",
+      "en": "Abyssal Torpedo Bomber",
+      "ko": "심해서함 공격기",
+      "sc": "深海栖舰攻",
+      "tc": "深海棲艦攻"
+    },
+    "1517": {
+      "ja": "深海棲艦攻 Mark.II",
+      "en": "Abyssal Torpedo Bomber Mark.II",
+      "ko": "심해서함 공격기 Mark.II",
+      "sc": "深海栖舰攻 Mark.II",
+      "tc": "深海棲艦攻 Mark.II"
+    },
+    "1518": {
+      "ja": "深海棲艦攻 Mark.III",
+      "en": "Abyssal Torpedo Bomber Mark.III",
+      "ko": "심해서함 공격기 Mark.III",
+      "sc": "深海栖舰攻 Mark.III",
+      "tc": "深海棲艦攻 Mark.III"
+    },
+    "1519": {
+      "ja": "深海棲艦戦",
+      "en": "Abyssal Fighter",
+      "ko": "심해서함 전투기",
+      "sc": "深海棲舰战",
+      "tc": "深海棲艦戰"
+    },
+    "1520": {
+      "ja": "深海棲艦戦 Mark.II",
+      "en": "Abyssal Fighter Mark.II",
+      "ko": "심해서함 전투기 Mark.II",
+      "sc": "深海棲舰战 Mark.II",
+      "tc": "深海棲艦戰 Mark.II"
+    },
+    "1521": {
+      "ja": "深海棲艦戦 Mark.III",
+      "en": "Abyssal Fighter Mark.III",
+      "ko": "심해서함 전투기 Mark.III",
+      "sc": "深海棲舰战 Mark.III",
+      "tc": "深海棲艦戰 Mark.III"
+    },
+    "1522": {
+      "ja": "飛び魚艦戦",
+      "en": "Flying Fish Fighter",
+      "ko": "날치 함상전투기",
+      "sc": "飞鱼舰战",
+      "tc": "飛魚艦戰"
+    },
+    "1523": {
+      "ja": "深海棲艦爆",
+      "en": "Abyssal Dive Bomber",
+      "ko": "심해서함 폭격기",
+      "sc": "深海栖舰爆",
+      "tc": "深海棲艦爆"
+    },
+    "1524": {
+      "ja": "深海棲艦爆 Mark.II",
+      "en": "Abyssal Dive Bomber Mark.II",
+      "ko": "심해서함 폭격기 Mark.II",
+      "sc": "深海栖舰爆 Mark.II",
+      "tc": "深海棲艦爆 Mark.II"
+    },
+    "1525": {
+      "ja": "深海棲艦偵察機",
+      "en": "Abyssal Reconnaissance Plane",
+      "ko": "심해서함 정찰기",
+      "sc": "深海栖舰侦察机",
+      "tc": "深海棲艦偵察機"
+    },
+    "1526": {
+      "ja": "飛び魚偵察機",
+      "en": "Flying Fish Reconnaissance Plane",
+      "ko": "날치 정찰기",
+      "sc": "飞鱼侦察机",
+      "tc": "飛魚偵察機"
+    },
+    "1527": {
+      "ja": "対空レーダ― Mark.I",
+      "en": "Air Radar Mark.I",
+      "ko": "대공레이더Mark.I",
+      "sc": "对空雷达 Mark.I",
+      "tc": "對空雷達 Mark.I"
+    },
+    "1528": {
+      "ja": "水上レーダ― Mark.I",
+      "en": "Surface Radar Mark.I",
+      "ko": "수상레이더Mark.I",
+      "sc": "水上雷达 Mark.I",
+      "tc": "水上雷達 Mark.I"
+    },
+    "1529": {
+      "ja": "水上レーダ― Mark.II",
+      "en": "Surface Radar Mark.II",
+      "ko": "수상레이더Mark.II",
+      "sc": "水上雷达 Mark.II",
+      "tc": "水上雷達 Mark.II"
+    },
+    "1530": {
+      "ja": "対空レーダ― Mark.II",
+      "en": "Air Radar Mark.II",
+      "ko": "대공레이더Mark.II",
+      "sc": "对空雷达 Mark.II",
+      "tc": "對空雷達 Mark.II"
+    },
+    "1531": {
+      "ja": "深海水上レーダー",
+      "en": "Abyssal Surface Radar",
+      "ko": "심해수상레이더",
+      "sc": "深海水上雷达",
+      "tc": "深海水上雷達"
+    },
+    "1532": {
+      "ja": "深海対空レーダ―",
+      "en": "Abyssal Air Radar",
+      "ko": "심해대공레이더",
+      "sc": "深海对空雷达",
+      "tc": "深海對空雷達"
+    },
+    "1533": {
+      "ja": "改良型深海タービン",
+      "en": "Improved Abyssal Turbine",
+      "ko": "개량형 심해터빈",
+      "sc": "改良型深海叶轮机",
+      "tc": "改良型深海渦輪發動機"
+    },
+    "1534": {
+      "ja": "強化型深海缶",
+      "en": "Enhanced Abyssal Boiler",
+      "ko": "강화형 심해보일러",
+      "sc": "強化型深海缶",
+      "tc": "強化型深海罐"
+    },
+    "1535": {
+      "ja": "対空散弾",
+      "en": "Anti-Air Dispersal Shell",
+      "ko": "대공산탄",
+      "sc": "对空散弹",
+      "tc": "對空散彈"
+    },
+    "1536": {
+      "ja": "劣化徹甲弾",
+      "en": "Deterioration Armor Piercing Shell",
+      "ko": "열화철갑탄",
+      "sc": "劣化穿甲弹",
+      "tc": "劣化徹甲彈"
+    },
+    "1537": {
+      "ja": "12.7mm機銃",
+      "en": "12.7mm Machine Gun",
+      "ko": "12.7mm 기총",
+      "sc": "12.7mm机枪",
+      "tc": "12.7mm機槍"
+    },
+    "1538": {
+      "ja": "20mm機銃",
+      "en": "20mm Autocannon",
+      "ko": "20mm 기총",
+      "sc": "20mm机枪",
+      "tc": "20mm機槍"
+    },
+    "1539": {
+      "ja": "40mm二連装機関砲",
+      "en": "40mm Twin Autocannon Mount",
+      "ko": "40mm 이연장기관포",
+      "sc": "40mm二连装机关炮",
+      "tc": "40mm二連裝機砲"
+    },
+    "1540": {
+      "ja": "40mm四連装機関砲",
+      "en": "40mm Quadruple Autocannon Mount",
+      "ko": "40mm 사연장기관포",
+      "sc": "40mm四连装机关炮",
+      "tc": "40mm四連裝機砲"
+    },
+    "1541": {
+      "ja": "深海烏賊魚雷",
+      "en": "Abyssal Cuttlefish Torpedo",
+      "ko": "심해 오징어 어뢰",
+      "sc": "深海乌贼鱼雷",
+      "tc": "深海烏賊魚雷"
+    },
+    "1542": {
+      "ja": "深海爆雷投射機",
+      "en": "Abyssal Depth Charge Projector",
+      "ko": "심해폭뢰투사기",
+      "sc": "深海爆雷投射机",
+      "tc": "深海爆雷投射機"
+    },
+    "1543": {
+      "ja": "深海ソナー",
+      "en": "Abyssal Sonar",
+      "ko": "심해소나",
+      "sc": "深海声纳",
+      "tc": "深海聲納"
+    },
+    "1544": {
+      "ja": "深海爆雷投射機 Mk.II",
+      "en": "Abyssal Depth Charge Projector Mk.II",
+      "ko": "심해폭뢰투사기 Mk.II",
+      "sc": "深海爆雷投射机 Mk.II",
+      "tc": "深海爆雷投射機 Mk.II"
+    },
+    "1545": {
+      "ja": "深海ソナー Mk.II",
+      "en": "Abyssal Sonar Mk.II",
+      "ko": "심해소나 Mk.II",
+      "sc": "深海声纳 Mk.II",
+      "tc": "深海聲納 Mk.II"
+    },
+    "1546": {
+      "ja": "飛び魚艦爆",
+      "en": "Flying Fish Dive Bomber",
+      "ko": "날치 함상폭격기",
+      "sc": "飞鱼舰爆",
+      "tc": "飛魚艦爆"
+    },
+    "1547": {
+      "ja": "深海猫艦戦",
+      "en": "Abyssal Cat Fighter",
+      "ko": "심해 고양이 함상전투기",
+      "sc": "深海猫舰战",
+      "tc": "深海貓艦戰"
+    },
+    "1548": {
+      "ja": "深海地獄艦爆",
+      "en": "Abyssal Hell Dive Bomber",
+      "ko": "심해 지옥 함상폭격기",
+      "sc": "深海地獄艦爆",
+      "tc": "深海地獄艦戰"
+    },
+    "1549": {
+      "ja": "深海復讐艦攻",
+      "en": "Abyssal Revenge Torpedo Bomber",
+      "ko": "심해 복수 함상공격기",
+      "sc": "深海复仇舰攻",
+      "tc": "深海復仇艦攻"
+    },
+    "1550": {
+      "ja": "5inch連装両用莢砲",
+      "en": "5inch Twin Dual Purpose Gun Mount",
+      "ko": "5inch연장양용협포",
+      "sc": "5inch连装两用荚炮",
+      "tc": "5inch連裝兩用彈莢砲"
+    },
+    "1551": {
+      "ja": "20inch連装砲",
+      "en": "20inch Twin Gun Mount",
+      "ko": "20inch연장포",
+      "sc": "20inch连装炮",
+      "tc": "20inch連裝砲"
+    },
+    "1552": {
+      "ja": "15inch要塞砲",
+      "en": "15inch Coastal Artillery",
+      "ko": "15inch요새포",
+      "sc": "15inch要塞炮",
+      "tc": "15inch要塞砲"
+    },
+    "1553": {
+      "ja": "4inch連装両用砲+CIC",
+      "en": "4inch Twin Dual Purpose Gun Mount + CIC",
+      "ko": "4inch연장양용포+CIC",
+      "sc": "4inch连装两用炮+CIC",
+      "tc": "4inch連裝兩用砲+CIC"
+    },
+    "1554": {
+      "ja": "深海水上攻撃機",
+      "en": "Abyssal Attack Seaplane",
+      "ko": "심해 수상공격기",
+      "sc": "深海水上攻击机",
+      "tc": "深海水上攻擊機"
+    },
+    "1555": {
+      "ja": "深海水上攻撃機改",
+      "en": "Abyssal Attack Seaplane Kai",
+      "ko": "심해 수상공격기 개",
+      "sc": "深海水上攻击机改",
+      "tc": "深海水上攻擊機改"
+    },
+    "1556": {
+      "ja": "深海猫艦戦改",
+      "en": "Abyssal Cat Fighter Kai",
+      "ko": "심해 고양이 함상전투기 개",
+      "sc": "深海猫舰战改",
+      "tc": "深海貓艦戰改"
+    },
+    "1557": {
+      "ja": "深海地獄艦爆改",
+      "en": "Abyssal Hell Dive Bomber Kai",
+      "ko": "심해 지옥 함상폭격기 개",
+      "sc": "深海地狱舰爆改",
+      "tc": "深海地獄艦爆改"
+    },
+    "1558": {
+      "ja": "深海復讐艦攻改",
+      "en": "Abyssal Revenge Torpedo Bomber Kai",
+      "ko": "심해 복수 함상공격기 개",
+      "sc": "深海复仇舰攻改",
+      "tc": "深海復仇艦攻改"
+    },
+    "1559": {
+      "ja": "深海FCS+CIC",
+      "en": "Abyssal FCS + CIC",
+      "ko": "심해FCS+CIC",
+      "sc": "深海FCS+CIC",
+      "tc": "深海FCS+CIC"
+    },
+    "1560": {
+      "ja": "深海探照灯",
+      "en": "Abyssal Searchlight",
+      "ko": "심해 탐조등",
+      "sc": "深海探照灯",
+      "tc": "深海探照燈"
+    },
+    "1561": {
+      "ja": "深海解放陸爆",
+      "en": "Abyssal Liberation Land-based Dive Bomber",
+      "ko": "심해 해방 육상폭격기",
+      "sc": "深海解放陆爆",
+      "tc": "深海解放陸爆"
+    },
+    "1562": {
+      "ja": "深海解放陸爆Ace",
+      "en": "Abyssal Liberation Land-based Dive Bomber Ace",
+      "ko": "심해 해방 육상폭격기 Ace",
+      "sc": "深海解放陆爆Ace",
+      "tc": "深海解放陸爆Ace"
+    },
+    "1563": {
+      "ja": "8inch長射程連装砲",
+      "en": "8inch Long Range Twin Gun Mount",
+      "ko": "8inch장사정연장포",
+      "sc": "8inch长射程连装炮",
+      "tc": "8inch長射程速射砲"
+    },
+    "1564": {
+      "ja": "深海水上偵察観測機",
+      "en": "Abyssal Reconnaissance Observation Seaplane",
+      "ko": "심해수상정찰관측기",
+      "sc": "深海水上侦查观测机",
+      "tc": "深海水上偵察觀測機"
+    },
+    "1565": {
+      "ja": "5inch沿岸設置砲",
+      "en": "5inch Coastal Gun",
+      "ko": "5inch연안설치포",
+      "sc": "5inch沿岸设置炮",
+      "tc": "5inch沿岸設置砲"
+    },
+    "1566": {
+      "ja": "深海猫艦戦(爆装)",
+      "en": "Abyssal Cat Fighter (Bombing)",
+      "ko": "심해 고양이 함상전투기(폭장)",
+      "sc": "深海猫舰战(爆装)",
+      "tc": "深海貓艦戰(爆裝)"
+    },
+    "1567": {
+      "ja": "沿岸設置レーダー",
+      "en": "Coastal Radar",
+      "ko": "연안설치레이더",
+      "sc": "沿岸设置雷达",
+      "tc": "沿岸設置雷達"
+    },
+    "1568": {
+      "ja": "16inch三連装砲",
+      "en": "16inch Triple Gun Mount",
+      "ko": "16inch 삼연장포",
+      "sc": "16inch三连装炮",
+      "tc": "16inch三連裝砲"
+    },
+    "1569": {
+      "ja": "深海偵察飛行艇",
+      "en": "Abyssal Reconnaissance Flying Boat",
+      "ko": "심해 정찰비행정",
+      "sc": "深海飞行侦查艇",
+      "tc": "深海偵察飛行艇"
+    },
+    "1570": {
+      "ja": "高速深海魚雷 mod.2",
+      "en": "High-speed Abyssal Torpedo mod.2",
+      "ko": "고속심해어뢰 mod.2",
+      "sc": "高速深海鱼雷 mod.2",
+      "tc": "高速深海魚雷 mod.2"
+    },
+    "1571": {
+      "ja": "深海水母小鬼機",
+      "en": "Abyssal Seaplane Tender Imp Aircraft",
+      "ko": "심해수모소귀기",
+      "sc": "深海水母小鬼机",
+      "tc": "深海水母小鬼機"
+    },
+    "1572": {
+      "ja": "深海熊猫艦戦",
+      "en": "Abyssal Bearcat Fighter",
+      "ko": "심해 곰고양이 함전",
+      "sc": "深海熊猫舰战",
+      "tc": "深海熊貓艦戰"
+    },
+    "1573": {
+      "ja": "深海潜水下駄履き",
+      "en": "Abyssal Submarine Floatplane",
+      "ko": "심해 잠수함 수상기",
+      "sc": "深海潜艇用木屐式机",
+      "tc": "深海潛艦用木屐式機"
+    },
+    "1574": {
+      "ja": "深海攻撃哨戒鷹",
+      "en": "Abyssal Patrolling Attack Hawk",
+      "ko": "심해 공격 초계 매",
+      "sc": "深海攻击警戒鹰",
+      "tc": "深海攻擊警戒鷹"
+    },
+    "1575": {
+      "ja": "深海攻撃哨戒鷹改",
+      "en": "Abyssal Patrolling Attack Hawk Kai",
+      "ko": "심해 공격 초계 매改",
+      "sc": "深海攻击警戒鹰改",
+      "tc": "深海攻擊警戒鷹改"
+    },
+    "1576": {
+      "ja": "深海12inch三連装砲",
+      "en": "Abyssal 12inch Triple Gun Mount",
+      "ko": "심해 12inch 삼연장포",
+      "sc": "深海12inch三连装炮",
+      "tc": "深海12inch三連裝砲"
+    },
+    "1577": {
+      "ja": "深海15inch四連装砲",
+      "en": "Abyssal 15inch Quadruple Gun Mount",
+      "ko": "심해 15inch 사연장포",
+      "sc": "深海15inch四连装炮",
+      "tc": "深海15inch四連裝砲"
+    },
+    "1578": {
+      "ja": "深海15inch連装砲後期型",
+      "en": "Abyssal 15inch Twin Gun Mount Late Model",
+      "ko": "심해 15inch 연장포 후기형",
+      "sc": "深海15inch连装炮后期型",
+      "tc": "深海15inch連裝砲後期型"
+    },
+    "1579": {
+      "ja": "深海14inch海峡連装砲",
+      "en": "Abyssal 14inch Straight Twin Gun Mount",
+      "ko": "심해 14inch 해협 연장포",
+      "sc": "深海14inch海峡连装炮",
+      "tc": "深海14inch海峽連裝砲"
+    },
+    "1580": {
+      "ja": "深海待伏魚雷",
+      "en": "Abyssal Ambush Torpedo",
+      "ko": "심해 매복 어뢰",
+      "sc": "深海待伏鱼雷",
+      "tc": "深海待伏魚雷"
+    },
+    "1581": {
+      "ja": "夜猫深海艦戦",
+      "en": "Abyssal Night Cat Fighter",
+      "ko": "야간 고양이 심해 함전",
+      "sc": "夜猫深海舰战",
+      "tc": "夜貓深海艦戰"
+    },
+    "1582": {
+      "ja": "夜深海艦爆",
+      "en": "Abyssal Night Dive Bomber",
+      "ko": "야간 심해 함폭",
+      "sc": "夜深海舰爆",
+      "tc": "夜深海艦爆"
+    },
+    "1583": {
+      "ja": "夜復讐深海艦攻",
+      "en": "Abyssal Night Revenge Torpedo Bomber",
+      "ko": "야간 복수 심해 함공",
+      "sc": "夜复仇深海舰攻",
+      "tc": "夜復仇深海艦攻"
+    },
+    "1584": {
+      "ja": "深海14inch連装砲改",
+      "en": "Abyssal 14inch Twin Gun Mount Kai",
+      "ko": "심해 14inch 연장포 개",
+      "sc": "深海14inch连装炮改",
+      "tc": "深海14inch連裝砲改"
+    },
+    "1585": {
+      "ja": "深海16inch三連装砲改",
+      "en": "Abyssal 16inch Triple Gun Mount Kai",
+      "ko": "심해 16inch 3연장포 개",
+      "sc": "深海16inch三连装炮改",
+      "tc": "深海16inch三連裝砲改"
+    },
+    "1586": {
+      "ja": "深海攻撃哨戒鷹改二",
+      "en": "Abyssal Patrolling Attack Hawk Kai Ni",
+      "ko": "심해 공격 초계 매 개2",
+      "sc": "深海攻击警戒鹰改二",
+      "tc": "深海攻擊警戒鷹改二"
+    },
+    "1587": {
+      "ja": "深海16inch三連装砲改二",
+      "en": "Abyssal 16inch Triple Gun Mount Kai Ni",
+      "ko": "심해 16inch 3연장포 개2",
+      "sc": "深海16inch三连装炮改二",
+      "tc": "深海16inch三連裝砲改二"
+    },
+    "1588": {
+      "ja": "深海5inch連装砲C型",
+      "en": "Abyssal 5inch Twin Gun Mount Model C",
+      "ko": "심해 5inch 연장포 C형",
+      "sc": "深海5inch连装炮C型",
+      "tc": "深海5inch連裝砲C型"
+    },
+    "1589": {
+      "ja": "深海5.5inch連装砲改",
+      "en": "Abyssal 5.5inch Twin Gun Mount Kai",
+      "ko": "심해 5.5inch 연장포 개",
+      "sc": "深海5.5inch连装炮改",
+      "tc": "深海5.5inch連裝砲改"
+    },
+    "1590": {
+      "ja": "深海標的",
+      "en": "Abyssal Hyouteki",
+      "ko": "심해 표적",
+      "sc": "深海标的",
+      "tc": "深海標的"
+    },
+    "1591": {
+      "ja": "深海5inch単装砲 Mk.30",
+      "en": "Abyssal 5inch Single Gun Mount Mk.30",
+      "ko": "심해 5inch 단장포 Mk.30",
+      "sc": "深海5inch单装炮 Mk.30",
+      "tc": "深海5inch單裝砲 Mk.30"
+    },
+    "1592": {
+      "ja": "深海16inch Mk.VIII連装砲改",
+      "en": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+      "ko": "심해 16inch Mk.VIII 연장포 개",
+      "sc": "深海16inch Mk.VIII连装炮改",
+      "tc": "深海16inch Mk.VIII連裝砲改"
+    },
+    "1593": {
+      "ja": "高速深海魚雷 mod.3",
+      "en": "High-speed Abyssal Torpedo mod.3",
+      "ko": "고속심해어뢰 mod.3",
+      "sc": "高速深海鱼雷 mod.3",
+      "tc": "高速深海魚雷 mod.3"
+    },
+    "1594": {
+      "ja": "深海空要塞(偵察型)",
+      "en": "Abyssal Sky Fortress (Reconnaissance Model)",
+      "ko": "심해 공중 요새 (정찰형)",
+      "sc": "深海空要塞(侦察型)",
+      "tc": "深海空要塞(偵察型)"
+    },
+    "1595": {
+      "ja": "深海空要塞Ace(偵察型)",
+      "en": "Abyssal Sky Fortress Ace (Reconnaissance Model)",
+      "ko": "심해 공중 요새 Ace (정찰형)",
+      "sc": "深海空要塞Ace(侦察型)",
+      "tc": "深海空要塞Ace(偵察型)"
+    },
+    "1596": {
+      "ja": "深海6inch三連装新型速射砲",
+      "en": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+      "ko": "심해 6inch 3연장 신형속사포",
+      "sc": "深海6inch三连装新型速射炮",
+      "tc": "深海6inch三連裝新型速射砲"
+    },
+    "1597": {
+      "ja": "深海空要塞(重爆型)",
+      "en": "Abyssal Sky Fortress (Heavy Bomber Model)",
+      "ko": "심해 공중 요새 (중폭형)",
+      "sc": "深海空要塞(重爆型)",
+      "tc": "深海空要塞(重爆型)"
+    },
+    "1598": {
+      "ja": "深海空要塞Ace(重爆型)",
+      "en": "Abyssal Sky Fortress Ace (Heavy Bomber Model)",
+      "ko": "심해 공중 요새 Ace (중폭형)",
+      "sc": "深海空要塞Ace(重爆型)",
+      "tc": "深海空要塞Ace(重爆型)"
+    },
+    "1599": {
+      "ja": "深海4.7inch砲 Mk.XII",
+      "en": "Abyssal 4.7inch Gun Mk.XII",
+      "ko": "심해 4.7inch포 Mk.XII",
+      "sc": "深海4.7inch炮 Mk.XII改",
+      "tc": "深海4.7inch砲 Mk.XII改"
+    },
+    "1600": {
+      "ja": "深海8inch連装速射砲",
+      "en": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+      "ko": "심해 8inch 연장속사포",
+      "sc": "深海8inch连装速射炮",
+      "tc": "深海8inch連裝速射砲"
+    },
+    "1601": {
+      "ja": "深海8inch三連装砲 Mk.9",
+      "en": "Abyssal 8inch Triple Gun Mount Mk.9",
+      "ko": "심해 8inch 3연장포 Mk.9",
+      "sc": "深海8inch连装速射炮 Mk.9",
+      "tc": "深海8inch連裝速射砲 Mk.9"
+    },
+    "1602": {
+      "ja": "深海5inch連装両用砲(集中配備)",
+      "en": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+      "ko": "심해 5inch 연장양용포 (집중배치)",
+      "sc": "深海5inch连装两用炮(集中配备)",
+      "tc": "深海5inch連裝兩用砲(集中配備)"
+    },
+    "1603": {
+      "ja": "深海対空レーダーMark.III+FCS",
+      "en": "Abyssal Air Radar Mark.III + FCS",
+      "ko": "심해 대공 레이더 Mark.III + FCS",
+      "sc": "水上雷达 Mark.III+FCS",
+      "tc": "水上雷達 Mark.III+FCS"
+    },
+    "1604": {
+      "ja": "深海5inch連装砲A型",
+      "en": "Abyssal 5inch Twin Gun Mount Model A",
+      "ko": "심해 5inch 연장포 A형",
+      "sc": "深海5inch连装炮A型",
+      "tc": "深海5inch連裝砲A型"
+    },
+    "1605": {
+      "ja": "深海潜水艦搭載電子兵装",
+      "en": "Abyssal Submarine Electronic Armament",
+      "ko": "심해 잠수함탑재 전자병장",
+      "sc": "深海潜艇搭载电子兵装",
+      "tc": "深海潛艇搭載電子兵裝"
+    },
+    "1606": {
+      "ja": "深海5inch単装高角砲改二",
+      "en": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+      "ko": "심해 5inch 단장고각포 개2",
+      "sc": "深海5inch单装高角炮改二",
+      "tc": "深海5inch單裝高角砲改二"
+    },
+    "1607": {
+      "ja": "深海5inch連装高角砲改二",
+      "en": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+      "ko": "심해 5inch 연장고각포 개2",
+      "sc": "深海5inch连装高角炮改二",
+      "tc": "深海5inch連裝高角砲改二"
+    },
+    "1608": {
+      "ja": "深海夜間航空作戦装備",
+      "en": "Abyssal Night Aviation Operation Equipment",
+      "ko": "심해 야간항공작전장비",
+      "sc": "深海夜间航空作战装备",
+      "tc": "深海夜間航空作戰裝備"
+    },
+    "1609": {
+      "ja": "深海16inch三連装砲 Mk6",
+      "en": "Abyssal 16inch Triple Gun Mount Mk.6",
+      "ko": "심해 16inch 삼연장포 Mk.6",
+      "sc": "深海16inch三连装炮 Mk.6",
+      "tc": "深海16inch三連裝砲 Mk.6"
+    },
+    "1610": {
+      "ja": "深海カモメ水偵",
+      "en": "Abyssal Seagull Reconnaissance Seaplane",
+      "ko": "심해 갈매기 수상정찰기",
+      "sc": "深海海鸥水侦",
+      "tc": "深海海鷗水偵"
+    },
+    "1611": {
+      "ja": "深海海猫水偵",
+      "en": "Abyssal Seamew Reconnaissance Seaplane",
+      "ko": "심해 괭이갈매기 수상정찰기",
+      "sc": "深海黑尾鸥水侦",
+      "tc": "深海黑尾鷗水偵"
+    },
+    "1612": {
+      "ja": "深海6inch三連装主砲 Mk.16",
+      "en": "Abyssal 6inch Triple Main Gun Mount Mk.16",
+      "ko": "심해 6inch 삼연장주포 Mk.16",
+      "sc": "深海6inch三连装主炮 Mk.16",
+      "tc": "深海6inch三連裝主砲 Mk.16"
+    },
+    "1613": {
+      "ja": "地中海12inch/46 連装砲",
+      "en": "Mediterranean 12inch/46 Twin Gun Mount",
+      "ko": "지중해 12inch/46 연장포",
+      "sc": "地中海12inch/46 连装炮",
+      "tc": "地中海12inch/46 連裝砲"
+    },
+    "1614": {
+      "ja": "地中海12inch/46 三連装砲",
+      "en": "Mediterranean 12inch/46 Triple Gun Mount",
+      "ko": "지중해 12inch/46 삼연장포",
+      "sc": "地中海12inch/46 三连装炮",
+      "tc": "地中海12inch/46 三連裝砲"
+    },
+    "1615": {
+      "ja": "地中海12.6inch/44 連装砲",
+      "en": "Mediterranean 12.6inch/46 Twin Gun Mount",
+      "ko": "지중해 12.6inch/46 연장포",
+      "sc": "地中海12.6inch/44 连装炮",
+      "tc": "地中海12.6inch/44 連裝砲"
+    },
+    "1616": {
+      "ja": "地中海12.6inch/44 三連装砲",
+      "en": "Mediterranean 12.6inch/46 Triple Gun Mount",
+      "ko": "지중해 12.6inch/46 삼연장포",
+      "sc": "地中海12.6inch/44 三连装炮",
+      "tc": "地中海12.6inch/44 三連裝砲"
+    },
+    "1617": {
+      "ja": "夜猫深海艦戦II",
+      "en": "Abyssal Night Cat Fighter II",
+      "ko": "야간 고양이 심해 함전 II",
+      "sc": "夜猫深海舰战II",
+      "tc": "夜貓深海艦戰II"
+    },
+    "1618": {
+      "ja": "夜深海艦爆II",
+      "en": "Abyssal Night Dive Bomber II",
+      "ko": "야간 심해 함폭 II",
+      "sc": "夜深海舰爆II",
+      "tc": "夜深海艦爆II"
+    },
+    "1619": {
+      "ja": "夜復讐深海艦攻II",
+      "en": "Abyssal Night Revenge Torpedo Bomber II",
+      "ko": "야간 복수 심해 함공 II",
+      "sc": "夜复仇深海舰攻II",
+      "tc": "夜復仇深海艦攻II"
+    },
+    "1620": {
+      "ja": "深海戦爆複座鷹",
+      "en": "Abyssal Two-seat Fighter-bomber Hawk",
+      "ko": "심해 전폭 복좌 매",
+      "sc": "深海战弹双座鹰",
+      "tc": "深海戰彈雙座鷹"
+    },
+    "1621": {
+      "ja": "深海戦爆複座鷹改",
+      "en": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+      "ko": "심해 전폭 복좌 매 개",
+      "sc": "深海战弹双座鹰改",
+      "tc": "深海戰彈雙座鷹改"
+    },
+    "1622": {
+      "ja": "深海四連装(酸素)魚雷後期型",
+      "en": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model",
+      "ko": "심해 4연장 (산소) 어뢰 후기형",
+      "sc": "深海四连装(酸素)鱼雷后期型",
+      "tc": "深海四連裝(酸素)魚雷後期型"
+    },
+    "1623": {
+      "ja": "深海5inch連装砲D型"
+    },
+    "1624": {
+      "ja": "深海五連装(酸素)魚雷後期型"
+    },
+    "1625": {
+      "ja": "深海双発陸爆",
+      "en": "Abyssal Twin-engine Land-based Dive Bomber",
+      "ko": "심해 쌍발 육상 폭격기",
+      "sc": "深海双发陆爆",
+      "tc": "深海雙發陸爆"
+    },
+    "1626": {
+      "ja": "深海双発陸爆Ace",
+      "en": "Abyssal Twin-engine Land-based Dive Bomber Ace",
+      "ko": "심해 쌍발 육상 폭격기 Ace",
+      "sc": "深海双发陆爆Ace",
+      "tc": "深海雙發陸爆Ace"
+    },
+    "1627": {
+      "ja": "深海5inch連装砲C型",
+      "en": "Abyssal 5inch Twin Gun Mount Model C",
+      "ko": "심해 5inch 연장포 C형",
+      "sc": "深海5inch连装炮C型",
+      "tc": "深海5inch連裝砲C型"
+    },
+    "1630": {
+      "ja": "深海空超要塞",
+      "en": "Abyssal Sky Super Fortress",
+      "ko": "심해 공중 초 요새",
+      "sc": "深海空超要塞",
+      "tc": "深海空超要塞"
+    },
+    "1631": {
+      "ja": "深海空超要塞改"
+    },
+    "1632": {
+      "ja": "深海航空整備蟲",
+      "en": "Abyssal Aviation Maintenance Bugs",
+      "ko": "심해 항공정비 벌래",
+      "sc": "深海航空整备虫",
+      "tc": "深海航空整備蟲"
+    },
+    "1633": {
+      "ja": "深海航空整備蟲pro",
+      "en": "Abyssal Aviation Maintenance Bugs pro",
+      "ko": "심해 항공정비 벌래 pro",
+      "sc": "深海航空整备虫pro",
+      "tc": "深海航空整備蟲pro"
+    },
+    "1634": {
+      "ja": "深海艤装水上汎用襲撃機",
+      "en": "Abyssal Rigging Assault General Seaplane",
+      "ko": "심해 의장 수상 범용 습격기",
+      "sc": "深海舣装水上泛用袭撃机",
+      "tc": "深海艤裝水上泛用襲撃機"
+    },
+    "1635": {
+      "ja": "深海突破襲撃機",
+      "en": "Abyssal Assault Torpedo Bomber",
+      "ko": "심해 돌파 습격기",
+      "sc": "深海突破袭撃机",
+      "tc": "深海突破襲撃機"
+    },
+    "1636": {
+      "ja": "深海突破襲撃機Ace",
+      "en": "Abyssal Assault Torpedo Bomber Ace",
+      "ko": "심해 돌파 습격기 Ace",
+      "sc": "深海突破袭撃机Ace",
+      "tc": "深海突破襲撃機Ace"
+    },
+    "1637": {
+      "ja": "沿岸突撃半水中魚雷艇",
+      "en": "Costal Ambush Semi-submersible Torpedo Boat",
+      "ko": "연안 돌격 반수상 어뢰정",
+      "sc": "沿岸突撃半水中魚雷艇",
+      "tc": "沿岸突撃半水中魚雷艇"
+    },
+    "1638": {
+      "ja": "深海3inch単装高角砲+甲板機銃",
+      "en": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
+      "ko": "심해 5inch 단장고각포 + 갑판기총",
+      "sc": "深海3inch单装高角炮+甲板机枪",
+      "tc": "深海3inch單裝高角砲+甲板機槍"
+    },
+    "1639": {
+      "ja": "深海水中探信儀 & 深海調整電探",
+      "en": "Abyssal Active Sonar & Abyssal Adjusted Radar",
+      "ko": "심해수중탐신의 & 심해조정전탐",
+      "sc": "深海水中探信仪 & 深海调整电探",
+      "tc": "深海水中探信儀 & 深海調整電探"
+    },
+    "1640": {
+      "ja": "深海観測阻塞気球",
+      "en": "Abyssal Observation Barrage Balloon",
+      "ko": "심해관측조색기구",
+      "sc": "深海観测阻塞気球",
+      "tc": "深海観測阻塞気球"
+    },
+    "1641": {
+      "ja": "深海標準14inch/45 連装砲",
+      "en": "Abyssal Standard 14inch/45 Twin Gun Mount",
+      "ko": "심해 표준 14inch/45 연장포",
+      "sc": "深海标准14inch/45 连装炮",
+      "tc": "深海標準14inch/45 連裝炮"
+    },
+    "1642": {
+      "ja": "深海標準14inch/45 三連装砲",
+      "en": "Abyssal Standard 14inch/45 Triple Gun Mount",
+      "ko": "심해 표준 14inch/45 삼연장포",
+      "sc": "深海标准14inch/45 三连装炮",
+      "tc": "深海標準14inch/45 三連裝炮"
+    },
+    "1643": {
+      "ja": "深海3.7cm FlaK",
+      "en": "Abyssal 3.7cm FlaK",
+      "ko": "심해 3.7cm FlaK",
+      "sc": "深海3.7cm FlaK",
+      "tc": "深海3.7cm FlaK"
+    },
+    "1644": {
+      "ja": "深海5inch単装砲 Mk.30+GFCS",
+      "en": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+      "ko": "심해 5inch 단장포 Mk.30 + GFCS",
+      "sc": "深海5inch单装炮 Mk.30+GFCS",
+      "tc": "深海5inch單裝砲 Mk.30+GFCS"
+    },
+    "1645": {
+      "ja": "深海533mm 5連装魚雷+深海SG",
+      "en": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+      "ko": "심해 533mm 5연장 어뢰 + 심해SG",
+      "sc": "深海533mm 五连装鱼雷+深海SG",
+      "tc": "深海533mm 五連裝魚雷+深海SG"
+    },
+    "1646": {
+      "ja": "深海Hedgehog Mk.10",
+      "en": "Abyssal Hedgehog Mk.10",
+      "ko": "심해 헤지호그 Mk.10",
+      "sc": "深海刺猬炮 Mk.10",
+      "tc": "深海刺蝟砲 Mk.10"
+    },
+    "1647": {
+      "ja": "GFCS+深海5inch連装砲 Mk.32",
+      "en": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+      "ko": "GFCS + 심해 5인치 연장포 Mk.32",
+      "sc": "GFCS+深海5inch连装炮 Mk.32",
+      "tc": "GFCS+深海5inch連裝砲 Mk.32"
+    },
+    "1648": {
+      "ja": "深海対戦回転翼海鴎",
+      "en": "Abyssal Combat Autogyro Seagull",
+      "ko": "심해 대전 회전익 갈매기",
+      "sc": "深海対戦回転翼海鴎",
+      "tc": "深海対戦回転翼海鴎"
+    }
+  }
+}
