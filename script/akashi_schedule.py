@@ -36,6 +36,9 @@ class Item:
                 } for item in req],
                 "resource": self.resource_reformat(resource, req_item),
             }
+            assert len([item["day"] for item in improve["req"]]) > 0
+            for item in improve["req"]:
+                assert len(item["day"]) == 7
             if upgrade:
                 improve["upgrade"] = {"id": upgrade[0], "lv": upgrade[1]}
 
