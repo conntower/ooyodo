@@ -12,6 +12,7 @@ if __name__ == '__main__':
 
     l10n = Localization(data_version)
     l10n.update_item_l10n()
+    l10n.update_useitem_in_improve_l10n()
 
     akashi_schedule.update_schedule(data_version)
 

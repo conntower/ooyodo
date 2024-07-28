@@ -12,6 +12,34 @@ class Localization:
         self.version = version
         self.kcanotify_data_path = os.path.join(ROOT_PATH, 'repo', 'kcanotify-gamedata', 'files')
 
+    def update_useitem_in_improve_l10n(self):
+        kcanotify_data_path = os.path.join(self.kcanotify_data_path, 'akashi_reqitems.json')
+        file_path = os.path.join(ROOT_PATH, 'data', 'useitem_in_improve_l10n.json')
+
+        with open(kcanotify_data_path, 'r') as f:
+            req_items = json.load(f)
+
+        res = {}
+
+        for item in req_items:
+            if item['id'] > 0:
+                res[item['useitem_id']] = {
+                    'ja': item['name']['jp'],
+                    'en': item['name']['en'],
+                    'ko': item['name']['ko'],
+                    'sc': item['name']['scn'],
+                    'tc': item['name']['tcn']
+                }
+
+        self.check_l10n(res)
+
+        with open(file_path, 'w') as f:
+            data = {
+                "data_version": str(self.version),
+                "data": res
+            }
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
     def update_item_l10n(self):
         data_path = "slotitem/all.json"
         items = slot_item.load_slot_item_list(self.req_kcdata_json(data_path))

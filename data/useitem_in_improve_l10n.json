@@ -1,0 +1,61 @@
+{
+  "data_version": "2024072807",
+  "data": {
+    "71": {
+      "ja": "ネ式エンジン",
+      "en": "Ne Type Engine",
+      "ko": "네식엔진",
+      "sc": "Ne式喷射发动机",
+      "tc": "Ne式噴射發動機"
+    },
+    "75": {
+      "ja": "新型砲熕兵装資材",
+      "en": "New Model Gun Mount Improvement Material",
+      "ko": "신형포공병장자재",
+      "sc": "新型火炮兵装资材",
+      "tc": "新型火砲兵裝資材"
+    },
+    "70": {
+      "ja": "熟練搭乗員",
+      "en": "Skilled Crew Member",
+      "ko": "숙련탑승원",
+      "sc": "熟练搭乘员",
+      "tc": "熟練搭乘員"
+    },
+    "77": {
+      "ja": "新型航空兵装資材",
+      "en": "New Model Aerial Armament Material",
+      "ko": "신형항공병장자재",
+      "sc": "新型航空兵装资材",
+      "tc": "新型航空兵裝資材"
+    },
+    "78": {
+      "ja": "戦闘詳報",
+      "en": "Action Report",
+      "ko": "전투상보",
+      "sc": "战斗详报",
+      "tc": "戰鬥詳報"
+    },
+    "92": {
+      "ja": "新型噴進装備開発資材",
+      "en": "New Model Rocket Development Material",
+      "ko": "신형분진장비개발자재",
+      "sc": "新型喷进装备开发资",
+      "tc": "新型噴進裝備開發資"
+    },
+    "94": {
+      "ja": "新型兵装資材",
+      "en": "New Model Armament Material",
+      "ko": "신형병장자재",
+      "sc": "新型兵装资材",
+      "tc": "新型兵裝資材"
+    },
+    "57": {
+      "ja": "勲章",
+      "en": "Medal",
+      "ko": "훈장",
+      "sc": "勋章",
+      "tc": "勳章"
+    }
+  }
+}
