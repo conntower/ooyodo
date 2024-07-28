@@ -1,5 +1,5 @@
 {
-  "data_version": "2024072712",
+  "data_version": "2024072807",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -3712,39 +3712,39 @@
       "tc": "10cm連裝高角砲改+高射裝置改"
     },
     "534": {
-      "ja": "強化型深海缶",
-      "en": "Enhanced Abyssal Boiler",
-      "ko": "강화형 심해보일러",
-      "sc": "強化型深海缶",
-      "tc": "強化型深海罐"
+      "ja": "13.8cm連装砲",
+      "en": "13.8cm Twin Gun Mount",
+      "ko": "13.8cm 연장포",
+      "sc": "13.8cm连装炮",
+      "tc": "13.8cm連裝砲"
     },
     "535": {
-      "ja": "対空散弾",
-      "en": "Anti-Air Dispersal Shell",
-      "ko": "대공산탄",
-      "sc": "对空散弹",
-      "tc": "對空散彈"
+      "ja": "13.8cm連装砲改",
+      "en": "13.8cm Twin Gun Mount Kai",
+      "ko": "13.8cm 연장포 개",
+      "sc": "13.8cm连装炮改",
+      "tc": "13.8cm連裝砲改"
     },
     "536": {
-      "ja": "劣化徹甲弾",
-      "en": "Deterioration Armor Piercing Shell",
-      "ko": "열화철갑탄",
-      "sc": "劣化穿甲弹",
-      "tc": "劣化徹甲彈"
+      "ja": "15.2cm三連装主砲",
+      "en": "15.2cm Triple Main Gun Mount",
+      "ko": "15.2cm 삼연장주포",
+      "sc": "15.2cm三连装主炮",
+      "tc": "15.2cm三連裝主砲"
     },
     "537": {
-      "ja": "12.7mm機銃",
-      "en": "12.7mm Machine Gun",
-      "ko": "12.7mm 기총",
-      "sc": "12.7mm机枪",
-      "tc": "12.7mm機槍"
+      "ja": "15.2cm三連装主砲改",
+      "en": "15.2cm Triple Main Gun Mount Kai",
+      "ko": "15.2cm 삼연장주포 개",
+      "sc": "15.2cm三连装主炮改",
+      "tc": "15.2cm三連裝主砲改"
     },
     "538": {
-      "ja": "20mm機銃",
-      "en": "20mm Autocannon",
-      "ko": "20mm 기총",
-      "sc": "20mm机枪",
-      "tc": "20mm機槍"
+      "ja": "Loire 130M改(熟練)",
+      "en": "Loire 130M Kai (Skilled)",
+      "ko": "Loire 130M 개 (숙련)",
+      "sc": "Loire 130M改(熟练)",
+      "tc": "Loire 130M改(熟練)"
     },
     "539": {
       "ja": "40mm二連装機関砲",
@@ -5404,6 +5404,13 @@
       "ko": "심해 대전 회전익 갈매기",
       "sc": "深海対戦回転翼海鴎",
       "tc": "深海対戦回転翼海鴎"
+    },
+    "1649": {
+      "ja": "15.2cm深海三連装砲",
+      "en": "15.2cm Abyssal Triple Gun Mount",
+      "ko": "15.2cm 심해 삼연장포",
+      "sc": "15.2cm深海三连装炮",
+      "tc": "15.2cm深海三連裝砲"
     }
   }
 }
