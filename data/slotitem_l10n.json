@@ -1,5 +1,5 @@
 {
-  "data_version": "2024072807",
+  "data_version": "2024080913",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -5304,28 +5304,28 @@
       "ja": "深海艤装水上汎用襲撃機",
       "en": "Abyssal Rigging Assault General Seaplane",
       "ko": "심해 의장 수상 범용 습격기",
-      "sc": "深海舣装水上泛用袭撃机",
+      "sc": "深海舣装水上泛用袭击机",
       "tc": "深海艤裝水上泛用襲撃機"
     },
     "1635": {
       "ja": "深海突破襲撃機",
       "en": "Abyssal Assault Torpedo Bomber",
       "ko": "심해 돌파 습격기",
-      "sc": "深海突破袭撃机",
+      "sc": "深海突破袭击机",
       "tc": "深海突破襲撃機"
     },
     "1636": {
       "ja": "深海突破襲撃機Ace",
       "en": "Abyssal Assault Torpedo Bomber Ace",
       "ko": "심해 돌파 습격기 Ace",
-      "sc": "深海突破袭撃机Ace",
+      "sc": "深海突破袭击机Ace",
       "tc": "深海突破襲撃機Ace"
     },
     "1637": {
       "ja": "沿岸突撃半水中魚雷艇",
       "en": "Costal Ambush Semi-submersible Torpedo Boat",
       "ko": "연안 돌격 반수상 어뢰정",
-      "sc": "沿岸突撃半水中魚雷艇",
+      "sc": "沿岸突击半水中魚雷艇",
       "tc": "沿岸突撃半水中魚雷艇"
     },
     "1638": {
