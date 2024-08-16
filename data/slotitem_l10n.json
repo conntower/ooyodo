@@ -1,5 +1,5 @@
 {
-  "data_version": "2024080913",
+  "data_version": "2024081614",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -3747,53 +3747,53 @@
       "tc": "Loire 130M改(熟練)"
     },
     "539": {
-      "ja": "40mm二連装機関砲",
-      "en": "40mm Twin Autocannon Mount",
-      "ko": "40mm 이연장기관포",
-      "sc": "40mm二连装机关炮",
-      "tc": "40mm二連裝機砲"
+      "ja": "SOC Seagull 後期型(熟練)",
+      "en": "SOC Seagull Late Model (Skilled)",
+      "ko": "SOC Seagull 후기형 (숙련)",
+      "sc": "SOC Seagull 后期型(熟练)",
+      "tc": "SOC Seagull 後期型(熟練)"
     },
     "540": {
-      "ja": "40mm四連装機関砲",
-      "en": "40mm Quadruple Autocannon Mount",
-      "ko": "40mm 사연장기관포",
-      "sc": "40mm四连装机关炮",
-      "tc": "40mm四連裝機砲"
+      "ja": "零式水上偵察機11型甲改二",
+      "en": "Type 0 Reconnaissance Seaplane Model 11A Kai 2",
+      "ko": "영식 수상정찰기 11형 갑 개2",
+      "sc": "零式水上侦察机11型甲改二(夜侦)",
+      "tc": "零式水上偵察機11型甲改二"
     },
     "541": {
-      "ja": "深海烏賊魚雷",
-      "en": "Abyssal Cuttlefish Torpedo",
-      "ko": "심해 오징어 어뢰",
-      "sc": "深海乌贼鱼雷",
-      "tc": "深海烏賊魚雷"
+      "ja": "SBD(Yellow Wings)",
+      "en": "SBD(Yellow Wings)",
+      "ko": "SBD(Yellow Wings)",
+      "sc": "SBD(Yellow Wings)",
+      "tc": "SBD(Yellow Wings)"
     },
     "542": {
-      "ja": "深海爆雷投射機",
-      "en": "Abyssal Depth Charge Projector",
-      "ko": "심해폭뢰투사기",
-      "sc": "深海爆雷投射机",
-      "tc": "深海爆雷投射機"
+      "ja": "TBD(Yellow Wings)",
+      "en": "TBD(Yellow Wings)",
+      "ko": "TBD(Yellow Wings)",
+      "sc": "TBD(Yellow Wings)",
+      "tc": "TBD(Yellow Wings)"
     },
     "543": {
-      "ja": "深海ソナー",
-      "en": "Abyssal Sonar",
-      "ko": "심해소나",
-      "sc": "深海声纳",
-      "tc": "深海聲納"
+      "ja": "SBD VS-2(偵察飛行隊)",
+      "en": "SBD VS-2(Reconnaissance Squadron)",
+      "ko": "SBD VS-2(정찰비행대)",
+      "sc": "SBD VS-2(侦察飞行队)",
+      "tc": "SBD VS-2(偵察飛行隊)"
     },
     "544": {
-      "ja": "深海爆雷投射機 Mk.II",
-      "en": "Abyssal Depth Charge Projector Mk.II",
-      "ko": "심해폭뢰투사기 Mk.II",
-      "sc": "深海爆雷投射机 Mk.II",
-      "tc": "深海爆雷投射機 Mk.II"
+      "ja": "SBD VB-2(爆撃飛行隊)",
+      "en": "SBD VS-2(Bomb Squadron)",
+      "ko": "SBD VB-2(폭격비행대)",
+      "sc": "SBD VB-2(爆击飞行队)",
+      "tc": "SBD VB-2(爆擊飛行隊)"
     },
     "545": {
-      "ja": "深海ソナー Mk.II",
-      "en": "Abyssal Sonar Mk.II",
-      "ko": "심해소나 Mk.II",
-      "sc": "深海声纳 Mk.II",
-      "tc": "深海聲納 Mk.II"
+      "ja": "天山一二型甲改二(村田隊/電探装備)",
+      "en": "Tenzan Model 12A Kai 2 (Murata Squadron/Radar Equipment)",
+      "ko": "텐잔 12형 갑 개2 (무라타대/전탐장비)",
+      "sc": "天山一二型甲改二(村田队/电探装备)",
+      "tc": "天山一二型甲改二(村田隊/電探裝備)"
     },
     "546": {
       "ja": "飛び魚艦爆",
@@ -5411,6 +5411,27 @@
       "ko": "15.2cm 심해 삼연장포",
       "sc": "15.2cm深海三连装炮",
       "tc": "15.2cm深海三連裝砲"
+    },
+    "1650": {
+      "ja": "深海野牛艦戦 Mk.II",
+      "en": "Abyssal Buffalo Fighter Mk.II",
+      "ko": "심해 들소 함전 Mk.II",
+      "sc": "深海野牛舰战 Mk.II",
+      "tc": "深海野牛艦戰 Mk.II"
+    },
+    "1651": {
+      "ja": "深海不屈艦爆 Mk.II",
+      "en": "Abyssal Dauntless Bomber Mk.II",
+      "ko": "심해 불굴 함폭 Mk.II",
+      "sc": "深海不屈舰爆 Mk.II",
+      "tc": "深海不屈艦爆 Mk.II"
+    },
+    "1652": {
+      "ja": "深海打撃艦攻 Mk.II",
+      "en": "Abyssal Devastator Torpedo Bomber Mk.II",
+      "ko": "심해 타격 함공 Mk.II",
+      "sc": "深海打击舰攻 Mk.II",
+      "tc": "深海打撃艦攻 Mk.II"
     }
   }
 }
