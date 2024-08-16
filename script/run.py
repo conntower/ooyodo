@@ -5,6 +5,7 @@ from datetime import datetime
 from script import ROOT_PATH
 from script import akashi_schedule
 from script.l10n import Localization
+from script.shiptag import ShipTagManager
 
 if __name__ == '__main__':
     data_version = datetime.strftime(datetime.utcnow(), '%Y%m%d%H')
@@ -15,6 +16,9 @@ if __name__ == '__main__':
     l10n.update_useitem_in_improve_l10n()
 
     akashi_schedule.update_schedule(data_version)
+
+    ship_tag = ShipTagManager(data_version)
+    ship_tag.update_tags()
 
     data_version_path = os.path.join(ROOT_PATH, 'data', 'version.json')
 

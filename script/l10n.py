@@ -44,19 +44,34 @@ class Localization:
         data_path = "slotitem/all.json"
         items = slot_item.load_slot_item_list(self.req_kcdata_json(data_path))
 
-        result = {item.id: {"ja": item.name} for item in items}
+        self.save_item_l10n_with_id(items)
+        # self.save_item_l10n_without_id(items)
 
+    def save_item_l10n_without_id(self, items):
+        result = {item.name: {} for item in items}
         translations = self.load_kcanotify_l10n()
+        for k, v in result.items():
+            for lang, translation in translations.items():
+                if k in translation:
+                    result[k][lang] = translation[k]
+        self.check_l10n(result, ['en', 'ko', 'sc', 'tc'])
+        print(f'{len(result)} translations, {len(items)} items')
+        with open(os.path.join(ROOT_PATH, 'data', 'slotitem_l10n_without_id.json'), 'w') as f:
+            data = {
+                "data_version": str(self.version),
+                "data": result
+            }
+            json.dump(data, f, indent=2, ensure_ascii=False)
 
+    def save_item_l10n_with_id(self, items):
+        result = {item.id: {"ja": item.name} for item in items}
+        translations = self.load_kcanotify_l10n()
         for k, v in result.items():
             for lang, translation in translations.items():
                 if v["ja"] in translation:
                     result[k][lang] = translation[v["ja"]]
-
         self.check_l10n(result)
-
         print(f'{len(result)} translations, {len(items)} items')
-
         with open(os.path.join(ROOT_PATH, 'data', 'slotitem_l10n.json'), 'w') as f:
             data = {
                 "data_version": str(self.version),
@@ -79,10 +94,12 @@ class Localization:
         return translations
 
     @staticmethod
-    def check_l10n(data):
+    def check_l10n(data, lang_code=None):
+        if lang_code is None:
+            lang_code = ['ja', 'en', 'ko', 'sc', 'tc']
         for item in data.values():
             try:
-                assert all(k in item for k in ['ja', 'en', 'ko', 'sc', 'tc'])
+                assert all(k in item for k in lang_code)
             except AssertionError:
                 print(item)
                 raise
@@ -90,5 +107,5 @@ class Localization:
     @staticmethod
     def req_kcdata_json(path):
         from kancolle.data import KC_DATA_URL
-        ship_class_url = KC_DATA_URL + path
-        return requests.get(ship_class_url).json()
+        url = KC_DATA_URL + path
+        return requests.get(url).json()
