@@ -30,7 +30,7 @@ class ShipTagManager:
                 "sc": fleetname["zh-CN"][index],
                 "tc": fleetname["zh-TW"][index]
             }
-            self.tags[index] = ShipTag(color, name)
+            self.tags[index + 1] = ShipTag(color, name)
 
     def load_tags(self):
         with open(os.path.join(ROOT_PATH, 'repo', 'poi', 'shiptag.json'), 'r') as f:
