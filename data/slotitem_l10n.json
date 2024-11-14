@@ -1,5 +1,5 @@
 {
-  "data_version": "2024101415",
+  "data_version": "2024111412",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -990,7 +990,7 @@
     },
     "142": {
       "ja": "15m二重測距儀+21号電探改二",
-      "en": "15m Duplex Rangefinder + Type 21 Air Radar Kai Ni",
+      "en": "15m Duplex Rangefinder + Type 21 Air Radar Kai 2",
       "ko": "15m 이중측거의 + 21호 전탐 개2",
       "sc": "15m二重测距仪+21号电探改二",
       "tc": "15m二重測距儀+21號電探改二"
@@ -1914,7 +1914,7 @@
     },
     "274": {
       "ja": "12cm30連装噴進砲改二",
-      "en": "12cm 30-tube Rocket Launcher Kai Ni",
+      "en": "12cm 30-tube Rocket Launcher Kai 2",
       "ko": "12cm 30연장분진포 개2",
       "sc": "12cm30连装喷进炮改二",
       "tc": "12cm30連裝噴進砲改二"
@@ -2026,7 +2026,7 @@
     },
     "290": {
       "ja": "41cm三連装砲改二",
-      "en": "41cm Triple Gun Mount Kai Ni",
+      "en": "41cm Triple Gun Mount Kai 2",
       "ko": "41cm 삼연장포 개2",
       "sc": "41cm三连装炮改二",
       "tc": "41cm三連裝砲改二"
@@ -2131,14 +2131,14 @@
     },
     "305": {
       "ja": "Ju87C改二(KMX搭載機)",
-      "en": "Ju 87C Kai Ni (w/ KMX)",
+      "en": "Ju 87C Kai 2 (w/ KMX)",
       "ko": "Ju 87C 개2 (KMX탑재기)",
       "sc": "Ju87C改二(KMX搭载机)",
       "tc": "Ju87C改二(KMX搭載機)"
     },
     "306": {
       "ja": "Ju87C改二(KMX搭載機/熟練)",
-      "en": "Ju 87C Kai Ni (w/ KMX, Skilled)",
+      "en": "Ju 87C Kai 2 (w/ KMX, Skilled)",
       "ko": "Ju 87C 개2 (KMX탑재기/숙련)",
       "sc": "Ju87C改二(KMX搭载机/熟练)",
       "tc": "Ju87C改二(KMX搭載機/熟練)"
@@ -2222,7 +2222,7 @@
     },
     "318": {
       "ja": "41cm連装砲改二",
-      "en": "41cm Twin Gun Mount Kai Ni",
+      "en": "41cm Twin Gun Mount Kai 2",
       "ko": "41cm 연장포 개2",
       "sc": "41cm连装炮改二",
       "tc": "41cm連裝砲改二"
@@ -2243,14 +2243,14 @@
     },
     "322": {
       "ja": "瑞雲改二(六三四空)",
-      "en": "Zuiun Kai Ni (634 Air Group)",
+      "en": "Zuiun Kai 2 (634 Air Group)",
       "ko": "즈이운 개2 (634공)",
       "sc": "瑞云改二(六三四空)",
       "tc": "瑞雲改二(六三四空)"
     },
     "323": {
       "ja": "瑞雲改二(六三四空/熟練)",
-      "en": "Zuiun Kai Ni (634 Air Group / Skilled)",
+      "en": "Zuiun Kai 2 (634 Air Group / Skilled)",
       "ko": "즈이운 개2 (634공/숙련)",
       "sc": "瑞云改二(六三四空/熟练)",
       "tc": "瑞雲改二(六三四空/熟練)"
@@ -2264,7 +2264,7 @@
     },
     "325": {
       "ja": "オ号観測機改二",
-      "en": "O Type Observation Autogyro Kai Ni",
+      "en": "O Type Observation Autogyro Kai 2",
       "ko": "오호 관측기 개2",
       "sc": "O号观测机改二",
       "tc": "O號觀測機改二"
@@ -2292,7 +2292,7 @@
     },
     "329": {
       "ja": "35.6cm連装砲改二",
-      "en": "35.6cm Twin Gun Mount Kai Ni",
+      "en": "35.6cm Twin Gun Mount Kai 2",
       "ko": "35.6cm 연장포 개2",
       "sc": "35.6cm连装炮改二",
       "tc": "35.6cm連裝砲改二"
@@ -2341,28 +2341,28 @@
     },
     "336": {
       "ja": "烈風改二",
-      "en": "Reppuu Kai Ni",
+      "en": "Reppuu Kai 2",
       "ko": "렛푸 개2",
       "sc": "烈风改二",
       "tc": "烈風改二"
     },
     "337": {
       "ja": "烈風改二(一航戦/熟練)",
-      "en": "Reppuu Kai Ni (1st Car Div / Skilled)",
+      "en": "Reppuu Kai 2 (1st Car Div / Skilled)",
       "ko": "렛푸 개2 (1항전/숙련)",
       "sc": "烈风改二(一航战/熟练)",
       "tc": "烈風改二(一航戰/熟練)"
     },
     "338": {
       "ja": "烈風改二戊型",
-      "en": "Reppuu Kai Ni E",
+      "en": "Reppuu Kai 2 E",
       "ko": "렛푸 개2 무형",
       "sc": "烈风改二戊型",
       "tc": "烈風改二戊型"
     },
     "339": {
       "ja": "烈風改二戊型(一航戦/熟練)",
-      "en": "Reppuu Kai Ni E (1st Car Div / Skilled)",
+      "en": "Reppuu Kai 2 E (1st Car Div / Skilled)",
       "ko": "렛푸 개2 무형 (1항전/숙련)",
       "sc": "烈风改二戊型(一航战/熟练)",
       "tc": "烈風改二戊型(一航戰/熟練)"
@@ -3202,7 +3202,7 @@
     },
     "460": {
       "ja": "15m二重測距儀改+21号電探改二+熟練射撃指揮所",
-      "en": "15m Duplex Rangefinder Kai + Type 21 Air Radar Kai Ni + Skilled Fire Direction Center",
+      "en": "15m Duplex Rangefinder Kai + Type 21 Air Radar Kai 2 + Skilled Fire Direction Center",
       "ko": "15m 이중측거의 개+21호 전탐 개2+숙련사격 지휘소",
       "sc": "15m二重测距仪改+21号电探改二+熟练射击指挥所",
       "tc": "15m二重測距儀改+21號電探改二+熟練射擊指揮所"
@@ -3216,7 +3216,7 @@
     },
     "463": {
       "ja": "15.5cm三連装副砲改二",
-      "en": "15.5cm Triple Secondary Gun Mount Kai Ni",
+      "en": "15.5cm Triple Secondary Gun Mount Kai 2",
       "ko": "15.5cm 삼연장부포 개2",
       "sc": "15.5cm三连装副炮改二",
       "tc": "15.5cm三連裝副砲改二"
@@ -3356,7 +3356,7 @@
     },
     "483": {
       "ja": "三式弾改二",
-      "en": "Type 3 Shell Kai Ni",
+      "en": "Type 3 Shell Kai 2",
       "ko": "삼식탄 개2",
       "sc": "三式弹改二",
       "tc": "三式彈改二"
@@ -3370,7 +3370,7 @@
     },
     "485": {
       "ja": "強風改二",
-      "en": "Kyoufuu Kai Ni",
+      "en": "Kyoufuu Kai 2",
       "ko": "쿄후 개2",
       "sc": "強风改二",
       "tc": "強風改二"
@@ -3391,7 +3391,7 @@
     },
     "488": {
       "ja": "二式爆雷改二",
-      "en": "Type 2 Depth Charge Kai Ni",
+      "en": "Type 2 Depth Charge Kai 2",
       "ko": "2식 폭뢰 개2",
       "sc": "二式爆雷改二",
       "tc": "二式爆雷改二"
@@ -4077,14 +4077,14 @@
     },
     "586": {
       "ja": "深海攻撃哨戒鷹改二",
-      "en": "Abyssal Patrolling Attack Hawk Kai Ni",
+      "en": "Abyssal Patrolling Attack Hawk Kai 2",
       "ko": "심해 공격 초계 매 개2",
       "sc": "深海攻击警戒鹰改二",
       "tc": "深海攻擊警戒鷹改二"
     },
     "587": {
       "ja": "深海16inch三連装砲改二",
-      "en": "Abyssal 16inch Triple Gun Mount Kai Ni",
+      "en": "Abyssal 16inch Triple Gun Mount Kai 2",
       "ko": "심해 16inch 3연장포 개2",
       "sc": "深海16inch三连装炮改二",
       "tc": "深海16inch三連裝砲改二"
@@ -4217,14 +4217,14 @@
     },
     "606": {
       "ja": "深海5inch単装高角砲改二",
-      "en": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+      "en": "Abyssal 5inch Single High-angle Gun Mount Kai 2",
       "ko": "심해 5inch 단장고각포 개2",
       "sc": "深海5inch单装高角炮改二",
       "tc": "深海5inch單裝高角砲改二"
     },
     "607": {
       "ja": "深海5inch連装高角砲改二",
-      "en": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+      "en": "Abyssal 5inch Twin High-angle Gun Mount Kai 2",
       "ko": "심해 5inch 연장고각포 개2",
       "sc": "深海5inch连装高角炮改二",
       "tc": "深海5inch連裝高角砲改二"
@@ -4980,14 +4980,14 @@
     },
     "1586": {
       "ja": "深海攻撃哨戒鷹改二",
-      "en": "Abyssal Patrolling Attack Hawk Kai Ni",
+      "en": "Abyssal Patrolling Attack Hawk Kai 2",
       "ko": "심해 공격 초계 매 개2",
       "sc": "深海攻击警戒鹰改二",
       "tc": "深海攻擊警戒鷹改二"
     },
     "1587": {
       "ja": "深海16inch三連装砲改二",
-      "en": "Abyssal 16inch Triple Gun Mount Kai Ni",
+      "en": "Abyssal 16inch Triple Gun Mount Kai 2",
       "ko": "심해 16inch 3연장포 개2",
       "sc": "深海16inch三连装炮改二",
       "tc": "深海16inch三連裝砲改二"
@@ -5120,14 +5120,14 @@
     },
     "1606": {
       "ja": "深海5inch単装高角砲改二",
-      "en": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+      "en": "Abyssal 5inch Single High-angle Gun Mount Kai 2",
       "ko": "심해 5inch 단장고각포 개2",
       "sc": "深海5inch单装高角炮改二",
       "tc": "深海5inch單裝高角砲改二"
     },
     "1607": {
       "ja": "深海5inch連装高角砲改二",
-      "en": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+      "en": "Abyssal 5inch Twin High-angle Gun Mount Kai 2",
       "ko": "심해 5inch 연장고각포 개2",
       "sc": "深海5inch连装高角炮改二",
       "tc": "深海5inch連裝高角砲改二"
