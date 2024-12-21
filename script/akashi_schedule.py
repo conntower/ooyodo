@@ -29,6 +29,9 @@ class Item:
             resource = i['resource']
             req_item = i.get('require_item', None)
 
+            if not req:
+                continue
+
             improve = {
                 "req": [{
                     "ship": item[1] if isinstance(item[1], list) else [],
