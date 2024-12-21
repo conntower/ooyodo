@@ -1,4 +1,5 @@
 import json
+import logging
 import os
 
 import requests
@@ -6,6 +7,7 @@ from kancolle.models import slot_item
 
 from script import ROOT_PATH
 
+logger = logging.getLogger(__name__)
 
 class Localization:
     def __init__(self, version):
@@ -55,7 +57,7 @@ class Localization:
                 if k in translation:
                     result[k][lang] = translation[k]
         self.check_l10n(result, ['en', 'ko', 'sc', 'tc'])
-        print(f'{len(result)} translations, {len(items)} items')
+        logger.info(f'{len(result)} translations, {len(items)} items')
         with open(os.path.join(ROOT_PATH, 'data', 'slotitem_l10n_without_id.json'), 'w') as f:
             data = {
                 "data_version": str(self.version),
@@ -71,7 +73,7 @@ class Localization:
                 if v["ja"] in translation:
                     result[k][lang] = translation[v["ja"]]
         self.check_l10n(result)
-        print(f'{len(result)} translations, {len(items)} items')
+        logger.info(f'{len(result)} translations, {len(items)} items')
         with open(os.path.join(ROOT_PATH, 'data', 'slotitem_l10n.json'), 'w') as f:
             data = {
                 "data_version": str(self.version),
@@ -101,7 +103,7 @@ class Localization:
             try:
                 assert all(k in item for k in lang_code)
             except AssertionError:
-                print(item)
+                logger.error(f" {lang_code} not found in {item}")
                 raise
 
     @staticmethod

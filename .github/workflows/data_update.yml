@@ -30,6 +30,7 @@ jobs:
 
       - name: Run script
         run: |
+          export LOG_LEVEL=INFO
           poetry run python -m script.run
 
       - name: Commit changes

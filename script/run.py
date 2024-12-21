@@ -1,15 +1,22 @@
 import json
+import logging
 import os
 from datetime import datetime
 
 from script import ROOT_PATH
 from script import akashi_schedule
+from script import setup_logging
 from script.l10n import Localization
 from script.shiptag import ShipTagManager
 
 if __name__ == '__main__':
+    log_level = os.environ.get('LOG_LEVEL', 'INFO')
+    setup_logging(level=getattr(logging, log_level))
+    logger = logging.getLogger(__name__)
+
     data_version = datetime.strftime(datetime.utcnow(), '%Y%m%d%H')
-    print(data_version)
+    logger.info(f"Data version: {data_version}")
+    logger.info("Starting data update process")
 
     l10n = Localization(data_version)
     l10n.update_item_l10n()
@@ -29,4 +36,4 @@ if __name__ == '__main__':
 
         f.write(json.dumps(version_json))
 
-    print('finish')
+    logger.info('Finished processing')

@@ -3,6 +3,8 @@ import os.path
 
 from script import *
 
+logger = logging.getLogger(__name__)
+
 
 class Item:
     def __init__(self, id, improve_data, use_item_map):
@@ -30,6 +32,7 @@ class Item:
             req_item = i.get('require_item', None)
 
             if not req:
+                logger.warning(f"empty req for id: {self.id}")
                 continue
 
             improve = {
@@ -83,7 +86,7 @@ def update_schedule(data_version):
     for k, v in data_map.items():
         improve_list.append(Item(k, v, item_map).__dict__())
 
-    print(f'{len(improve_list)} items')
+    logger.info(f'{len(improve_list)} items loaded')
 
     with open(os.path.join(data_path, 'akashi_schedule.json'), 'w') as f:
         data = {

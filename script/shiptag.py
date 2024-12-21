@@ -1,15 +1,19 @@
 import json
+import logging
 import os
 
 import requests
 
 from script import ROOT_PATH
 
+logger = logging.getLogger(__name__)
+
 
 class ShipTag:
     def __init__(self, color, name):
         self.color = color
         self.name = name
+
 
 class ShipTagManager:
     def __init__(self, data_version):
@@ -55,4 +59,4 @@ class ShipTagManager:
         file_path = os.path.join(ROOT_PATH, 'data', 'event_ship_tags.json')
         with open(file_path, 'w') as f:
             json.dump(data, f, indent=2, ensure_ascii=False, default=lambda o: o.__dict__)
-        print(f'finish update tags, {len(self.tags)} tags')
+        logger.info(f'finish update tags, {len(self.tags)} tags')
