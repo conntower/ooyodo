@@ -19,6 +19,7 @@ if __name__ == '__main__':
     logger.info("Starting data update process")
 
     l10n = Localization(data_version)
+    l10n.update_equipment_type_l10n()
     l10n.update_item_l10n()
     l10n.update_useitem_in_improve_l10n()
 

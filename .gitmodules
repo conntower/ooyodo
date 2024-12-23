@@ -1,3 +1,6 @@
 [submodule "repo/kcanotify-gamedata"]
 	path = repo/kcanotify-gamedata
 	url = git@github.com:andychucs/kcanotify-gamedata.git
+[submodule "repo/kc3-translations"]
+	path = repo/kc3-translations
+	url = git@github.com:andychucs/kc3-translations.git
