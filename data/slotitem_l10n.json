@@ -1,5 +1,5 @@
 {
-  "data_version": "2024122311",
+  "data_version": "2024122914",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -3824,25 +3824,25 @@
       "tc": "三式指揮聯絡機改二"
     },
     "550": {
-      "ja": "5inch連装両用莢砲",
-      "en": "5inch Twin Dual Purpose Gun Mount",
-      "ko": "5inch연장양용협포",
-      "sc": "5inch连装两用荚炮",
-      "tc": "5inch連裝兩用彈莢砲"
+      "ja": "試製 明星(増加試作機)",
+      "en": "Prototype Myoujou (Additional Prototype)",
+      "ko": "시제 묘조 (증가시작기)",
+      "sc": "试制 明星(増加试作机)",
+      "tc": "試製 明星(増加試作機)"
     },
     "551": {
-      "ja": "20inch連装砲",
-      "en": "20inch Twin Gun Mount",
-      "ko": "20inch연장포",
-      "sc": "20inch连装炮",
-      "tc": "20inch連裝砲"
+      "ja": "明星改",
+      "en": "Myoujou Kai",
+      "ko": "묘조 개",
+      "sc": "明星改",
+      "tc": "明星改"
     },
     "552": {
-      "ja": "15inch要塞砲",
-      "en": "15inch Coastal Artillery",
-      "ko": "15inch요새포",
-      "sc": "15inch要塞炮",
-      "tc": "15inch要塞砲"
+      "ja": "九九式練爆二二型改(夜間装備実験機)",
+      "en": "Type 99 Training Bomber Model 22 Kai (Experimental Night Equipment Aircraft)",
+      "ko": "99식 연폭 22형 개 (야간장비실험기)",
+      "sc": "九九式练爆二二型改(夜间装备実験机)",
+      "tc": "九九式練爆二二型改(夜間裝備実験機)"
     },
     "553": {
       "ja": "4inch連装両用砲+CIC",

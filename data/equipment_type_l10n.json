@@ -1,5 +1,5 @@
 {
-  "data_version": "2024122311",
+  "data_version": "2024122914",
   "data": {
     "1": {
       "ja": "小口径主砲",
@@ -38,7 +38,7 @@
     },
     "6": {
       "ja": "艦上戦闘機",
-      "en": "Fighter Aircraft",
+      "en": "Fighter",
       "ko": "함상전투기",
       "sc": "舰上战斗机",
       "tc": "艦載戰鬥機"
@@ -59,7 +59,7 @@
     },
     "9": {
       "ja": "艦上偵察機",
-      "en": "Recon Aircraft",
+      "en": "Carrier Recon",
       "ko": "함상정찰기",
       "sc": "舰上侦察机",
       "tc": "艦載偵察機"
@@ -325,14 +325,14 @@
     },
     "47": {
       "ja": "陸上攻撃機",
-      "en": "LB Attack Aircraft",
+      "en": "LB Attacker",
       "ko": "육상공격기",
       "sc": "陆上攻击机",
       "tc": "陸上攻擊機"
     },
     "48": {
       "ja": "局地戦闘機",
-      "en": "Interceptor/LB Fighter",
+      "en": "LB Interceptor/Fighter",
       "ko": "국지전투기",
       "sc": "局地战斗机",
       "tc": "攔截機/陸上戰鬥機"
@@ -416,7 +416,7 @@
     },
     "94": {
       "ja": "艦上偵察機（II）",
-      "en": "Recon Aircraft (2)",
+      "en": "Carrier Recon (2)",
       "ko": "함상정찰기 (II)",
       "sc": "舰上侦察机(II)",
       "tc": "艦載偵察機(II)"
