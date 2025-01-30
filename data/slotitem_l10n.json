@@ -1,5 +1,5 @@
 {
-  "data_version": "2025011714",
+  "data_version": "2025013011",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -3845,11 +3845,11 @@
       "tc": "九九式練爆二二型改(夜間裝備実験機)"
     },
     "553": {
-      "ja": "4inch連装両用砲+CIC",
-      "en": "4inch Twin Dual Purpose Gun Mount + CIC",
-      "ko": "4inch연장양용포+CIC",
-      "sc": "4inch连装两用炮+CIC",
-      "tc": "4inch連裝兩用砲+CIC"
+      "ja": "10cm連装高角砲改",
+      "en": "10cm Twin High-angle Gun Mount Kai",
+      "ko": "10cm 연장고각포 개",
+      "sc": "10cm连装高角炮改",
+      "tc": "10cm連裝高角砲改"
     },
     "554": {
       "ja": "深海水上攻撃機",
