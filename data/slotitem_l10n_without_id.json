@@ -1,5 +1,5 @@
 {
-  "data_version": "2025013011",
+  "data_version": "2025030812",
   "data": {
     "12cm単装砲": {
       "en": "12cm Single Gun Mount",
@@ -2331,7 +2331,7 @@
     },
     "16inch三連装砲 Mk.6+GFCS": {
       "en": "16inch Triple Gun Mount Mk.6 + GFCS",
-      "ko": "16inch 3연장포 Mk.6 + GFCS",
+      "ko": "16inch 삼연장포 Mk.6 + GFCS",
       "sc": "16inch三连装炮 Mk.6+GFCS",
       "tc": "16inch三連裝砲 Mk.6+GFCS"
     },
@@ -3301,23 +3301,23 @@
       "sc": "10cm连装高角炮改",
       "tc": "10cm連裝高角砲改"
     },
-    "深海水上攻撃機": {
-      "en": "Abyssal Attack Seaplane",
-      "ko": "심해 수상공격기",
-      "sc": "深海水上攻击机",
-      "tc": "深海水上攻擊機"
+    "九七式艦攻改(北東海軍航空隊)": {
+      "en": "Type 97 Torpedo Bomber Kai (Hokutou Naval Aviation)",
+      "ko": "97식 함상공격기 개 (호쿠토 해군항공대)",
+      "sc": "九七式舰攻改(北东海军航空队)",
+      "tc": "九七式艦攻改(北東海軍航空隊)"
     },
-    "深海水上攻撃機改": {
-      "en": "Abyssal Attack Seaplane Kai",
-      "ko": "심해 수상공격기 개",
-      "sc": "深海水上攻击机改",
-      "tc": "深海水上攻擊機改"
+    "18cm/57 三連装主砲": {
+      "en": "18cm/57 Triple Main Gun Mount",
+      "ko": "18cm/57 삼연장주포",
+      "sc": "18cm/57 三连装主炮",
+      "tc": "18cm/57 三連裝主砲"
     },
-    "深海猫艦戦改": {
-      "en": "Abyssal Cat Fighter Kai",
-      "ko": "심해 고양이 함상전투기 개",
-      "sc": "深海猫舰战改",
-      "tc": "深海貓艦戰改"
+    "10cm/56 単装高角砲(集中配備)": {
+      "en": "10cm/56 Single High-angle Gun Mount (Concentrated Deployment)",
+      "ko": "10cm/56 단장고각포 (집중배치)",
+      "sc": "10cm/56 单装高角炮(集中配备)",
+      "tc": "10cm/56 單裝高角砲(集中配備)"
     },
     "深海地獄艦爆改": {
       "en": "Abyssal Hell Dive Bomber Kai",
@@ -3447,7 +3447,7 @@
     },
     "深海15inch連装砲後期型": {
       "en": "Abyssal 15inch Twin Gun Mount Late Model",
-      "ko": "심해 15inch 연장포 후기형",
+      "ko": "Abyssal 15inch Twin Gun Mount Late Model",
       "sc": "深海15inch连装炮后期型",
       "tc": "深海15inch連裝砲後期型"
     },
@@ -3471,7 +3471,7 @@
     },
     "夜深海艦爆": {
       "en": "Abyssal Night Dive Bomber",
-      "ko": "야간 심해 함폭",
+      "ko": "Abyssal Night Dive Bomber",
       "sc": "夜深海舰爆",
       "tc": "夜深海艦爆"
     },
@@ -3489,7 +3489,7 @@
     },
     "深海16inch三連装砲改": {
       "en": "Abyssal 16inch Triple Gun Mount Kai",
-      "ko": "심해 16inch 3연장포 개",
+      "ko": "심해 16inch 삼연장포 개",
       "sc": "深海16inch三连装炮改",
       "tc": "深海16inch三連裝砲改"
     },
@@ -3501,7 +3501,7 @@
     },
     "深海16inch三連装砲改二": {
       "en": "Abyssal 16inch Triple Gun Mount Kai 2",
-      "ko": "심해 16inch 3연장포 개2",
+      "ko": "Abyssal 16inch Triple Gun Mount Kai 2",
       "sc": "深海16inch三连装炮改二",
       "tc": "深海16inch三連裝砲改二"
     },
@@ -3585,7 +3585,7 @@
     },
     "深海8inch三連装砲 Mk.9": {
       "en": "Abyssal 8inch Triple Gun Mount Mk.9",
-      "ko": "심해 8inch 3연장포 Mk.9",
+      "ko": "심해 8inch 삼연장포 Mk.9",
       "sc": "深海8inch连装速射炮 Mk.9",
       "tc": "深海8inch連裝速射砲 Mk.9"
     },
@@ -4045,6 +4045,24 @@
       "sc": "4inch连装两用炮+CIC",
       "tc": "4inch連裝兩用砲+CIC"
     },
+    "深海水上攻撃機": {
+      "en": "Abyssal Attack Seaplane",
+      "ko": "심해 수상공격기",
+      "sc": "深海水上攻击机",
+      "tc": "深海水上攻擊機"
+    },
+    "深海水上攻撃機改": {
+      "en": "Abyssal Attack Seaplane Kai",
+      "ko": "심해 수상공격기 개",
+      "sc": "深海水上攻击机改",
+      "tc": "深海水上攻擊機改"
+    },
+    "深海猫艦戦改": {
+      "en": "Abyssal Cat Fighter Kai",
+      "ko": "심해 고양이 함상전투기 개",
+      "sc": "深海猫舰战改",
+      "tc": "深海貓艦戰改"
+    },
     "深海航空整備蟲": {
       "en": "Abyssal Aviation Maintenance Bugs",
       "ko": "심해 항공정비 벌래",
@@ -4170,6 +4188,18 @@
       "ko": "심해 타격 함공 Mk.II",
       "sc": "深海打击舰攻 Mk.II",
       "tc": "深海打撃艦攻 Mk.II"
+    },
+    "深海5inch連装砲 Mk.30+GFCS": {
+      "en": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
+      "ko": "심해 5inch 연장포 Mk.30 + GFCS",
+      "sc": "深海5inch连装炮 Mk.30+GFCS",
+      "tc": "深海5inch連裝砲 Mk.30+GFCS"
+    },
+    "深海18cm三連装砲+深海SG": {
+      "en": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+      "ko": "심해 18cm 삼연장포 + 심해 SG",
+      "sc": "深海18cm三连装炮+深海SG",
+      "tc": "深海18cm三連裝炮+深海SG"
     }
   }
 }
