@@ -1,5 +1,5 @@
 {
-  "data_version": "2025030812",
+  "data_version": "2025040301",
   "data": {
     "小口径主砲": {
       "en": "Small Cal. Main Gun",
@@ -321,7 +321,7 @@
     },
     "水上艦装備": {
       "en": "Surface Equipment",
-      "ko": "?",
+      "ko": "수상함 장비",
       "sc": "水上舰装备",
       "tc": "水面艦裝備"
     },
