@@ -1,5 +1,5 @@
 {
-  "data_version": "2025030812",
+  "data_version": "2025040301",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -3873,18 +3873,18 @@
       "tc": "10cm/56 單裝高角砲(集中配備)"
     },
     "557": {
-      "ja": "深海地獄艦爆改",
-      "en": "Abyssal Hell Dive Bomber Kai",
-      "ko": "심해 지옥 함상폭격기 개",
-      "sc": "深海地狱舰爆改",
-      "tc": "深海地獄艦爆改"
+      "ja": "零式艦戦62型改(夜間爆戦)",
+      "en": "Type 0 Fighter Model 62 Kai (Night Fighter-bomber)",
+      "ko": "영식 함상전투기 62형 개 (야간폭전)",
+      "sc": "零式舰战62型改(夜间爆战)",
+      "tc": "零式艦戰62型改(夜間爆戰)"
     },
     "558": {
-      "ja": "深海復讐艦攻改",
-      "en": "Abyssal Revenge Torpedo Bomber Kai",
-      "ko": "심해 복수 함상공격기 개",
-      "sc": "深海复仇舰攻改",
-      "tc": "深海復仇艦攻改"
+      "ja": "零式艦戦62型改(熟練/夜間爆戦)",
+      "en": "Type 0 Fighter Model 62 Kai (Skilled / Night Fighter-bomber)",
+      "ko": "영식 함상전투기 62형 개 (숙련/야간폭전)",
+      "sc": "零式舰战62型改(熟练/夜间爆战)",
+      "tc": "零式艦戰62型改(熟練/夜間爆戰)"
     },
     "559": {
       "ja": "深海FCS+CIC",
@@ -4022,7 +4022,7 @@
     "578": {
       "ja": "深海15inch連装砲後期型",
       "en": "Abyssal 15inch Twin Gun Mount Late Model",
-      "ko": "Abyssal 15inch Twin Gun Mount Late Model",
+      "ko": "심해 15inch 연장포 후기형",
       "sc": "深海15inch连装炮后期型",
       "tc": "深海15inch連裝砲後期型"
     },
@@ -4050,7 +4050,7 @@
     "582": {
       "ja": "夜深海艦爆",
       "en": "Abyssal Night Dive Bomber",
-      "ko": "Abyssal Night Dive Bomber",
+      "ko": "야간 심해 함폭",
       "sc": "夜深海舰爆",
       "tc": "夜深海艦爆"
     },
@@ -4085,7 +4085,7 @@
     "587": {
       "ja": "深海16inch三連装砲改二",
       "en": "Abyssal 16inch Triple Gun Mount Kai 2",
-      "ko": "Abyssal 16inch Triple Gun Mount Kai 2",
+      "ko": "심해 16inch 삼연장포 개2",
       "sc": "深海16inch三连装炮改二",
       "tc": "深海16inch三連裝砲改二"
     },
@@ -4925,7 +4925,7 @@
     "1578": {
       "ja": "深海15inch連装砲後期型",
       "en": "Abyssal 15inch Twin Gun Mount Late Model",
-      "ko": "Abyssal 15inch Twin Gun Mount Late Model",
+      "ko": "심해 15inch 연장포 후기형",
       "sc": "深海15inch连装炮后期型",
       "tc": "深海15inch連裝砲後期型"
     },
@@ -4953,7 +4953,7 @@
     "1582": {
       "ja": "夜深海艦爆",
       "en": "Abyssal Night Dive Bomber",
-      "ko": "Abyssal Night Dive Bomber",
+      "ko": "야간 심해 함폭",
       "sc": "夜深海舰爆",
       "tc": "夜深海艦爆"
     },
@@ -4988,7 +4988,7 @@
     "1587": {
       "ja": "深海16inch三連装砲改二",
       "en": "Abyssal 16inch Triple Gun Mount Kai 2",
-      "ko": "Abyssal 16inch Triple Gun Mount Kai 2",
+      "ko": "심해 16inch 삼연장포 개2",
       "sc": "深海16inch三连装炮改二",
       "tc": "深海16inch三連裝砲改二"
     },
