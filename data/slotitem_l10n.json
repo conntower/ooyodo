@@ -1,5 +1,5 @@
 {
-  "data_version": "2025040301",
+  "data_version": "2025110912",
   "data": {
     "1": {
       "ja": "12cm単装砲",
@@ -3887,32 +3887,32 @@
       "tc": "零式艦戰62型改(熟練/夜間爆戰)"
     },
     "559": {
-      "ja": "深海FCS+CIC",
-      "en": "Abyssal FCS + CIC",
-      "ko": "심해FCS+CIC",
-      "sc": "深海FCS+CIC",
-      "tc": "深海FCS+CIC"
+      "ja": "Ju87 D-4(Fliegerass)",
+      "en": "Ju87 D-4(Fliegerass)",
+      "ko": "Ju87 D-4(Fliegerass)",
+      "sc": "Ju87 D-4(Fliegerass)",
+      "tc": "Ju87 D-4(Fliegerass)"
     },
     "560": {
-      "ja": "深海探照灯",
-      "en": "Abyssal Searchlight",
-      "ko": "심해 탐조등",
-      "sc": "深海探照灯",
-      "tc": "深海探照燈"
+      "ja": "Bf109 T-3(G)",
+      "en": "Bf109 T-3(G)",
+      "ko": "Bf109 T-3(G)",
+      "sc": "Bf109 T-3(G)",
+      "tc": "Bf109 T-3(G)"
     },
     "561": {
-      "ja": "深海解放陸爆",
-      "en": "Abyssal Liberation Land-based Dive Bomber",
-      "ko": "심해 해방 육상폭격기",
-      "sc": "深海解放陆爆",
-      "tc": "深海解放陸爆"
+      "ja": "Ho229",
+      "en": "Ho229",
+      "ko": "Ho229",
+      "sc": "Ho229",
+      "tc": "Ho229"
     },
     "562": {
-      "ja": "深海解放陸爆Ace",
-      "en": "Abyssal Liberation Land-based Dive Bomber Ace",
-      "ko": "심해 해방 육상폭격기 Ace",
-      "sc": "深海解放陆爆Ace",
-      "tc": "深海解放陸爆Ace"
+      "ja": "Do 217 E-5+TV誘導型 Hs293D",
+      "en": "Do 217 E-5 + TV-guided Hs293D",
+      "ko": "Do 217 E-5 + TV 유도탄 Hs 293 D",
+      "sc": "Do 217 E-5+TV诱导型 Hs293D",
+      "tc": "Do 217 E-5+TV誘導型 Hs293D"
     },
     "563": {
       "ja": "8inch長射程連装砲",
@@ -3922,32 +3922,32 @@
       "tc": "8inch長射程速射砲"
     },
     "564": {
-      "ja": "深海水上偵察観測機",
-      "en": "Abyssal Reconnaissance Observation Seaplane",
-      "ko": "심해수상정찰관측기",
-      "sc": "深海水上侦查观测机",
-      "tc": "深海水上偵察觀測機"
+      "ja": "21cm単装主砲",
+      "en": "21cm Single Gun Mount",
+      "ko": "21cm 단장주포",
+      "sc": "21cm单装主炮",
+      "tc": "21cm単裝主砲"
     },
     "565": {
-      "ja": "5inch沿岸設置砲",
-      "en": "5inch Coastal Gun",
-      "ko": "5inch연안설치포",
-      "sc": "5inch沿岸设置炮",
-      "tc": "5inch沿岸設置砲"
+      "ja": "15cm単装副砲",
+      "en": "15cm Single Secondary Gun Mount",
+      "ko": "15cm 단장부포",
+      "sc": "15cm单装副炮",
+      "tc": "15cm単装副砲"
     },
     "566": {
-      "ja": "深海猫艦戦(爆装)",
-      "en": "Abyssal Cat Fighter (Bombing)",
-      "ko": "심해 고양이 함상전투기(폭장)",
-      "sc": "深海猫舰战(爆装)",
-      "tc": "深海貓艦戰(爆裝)"
+      "ja": "10.2cm三連装副砲",
+      "en": "10.2cm Triple Secondary Gun Mount",
+      "ko": "10.2cm 삼연장부포",
+      "sc": "10.2cm三连装副炮",
+      "tc": "10.2cm三連裝副砲"
     },
     "567": {
-      "ja": "沿岸設置レーダー",
-      "en": "Coastal Radar",
-      "ko": "연안설치레이더",
-      "sc": "沿岸设置雷达",
-      "tc": "沿岸設置雷達"
+      "ja": "Sea Gladiator",
+      "en": "Sea Gladiator",
+      "ko": "시 글래디에이터",
+      "sc": "Sea Gladiator",
+      "tc": "Sea Gladiator"
     },
     "568": {
       "ja": "16inch三連装砲",
@@ -5446,6 +5446,27 @@
       "ko": "심해 18cm 삼연장포 + 심해 SG",
       "sc": "深海18cm三连装炮+深海SG",
       "tc": "深海18cm三連裝炮+深海SG"
+    },
+    "1655": {
+      "ja": "深海8.25inch単装主砲",
+      "en": "Abyssal 8.25inch Single Gun Mount",
+      "ko": "심해 8.25inch 단장주포",
+      "sc": "深海8.25inch单装主炮",
+      "tc": "深海8.25inch単裝主砲"
+    },
+    "1656": {
+      "ja": "深海6inch副砲群",
+      "en": "Abyssal 6inch Secondary Gun Mount Battery",
+      "ko": "심해 6inch 부포군",
+      "sc": "深海6inch副炮群",
+      "tc": "深海6inch副砲群"
+    },
+    "1657": {
+      "ja": "深海4inch三連装副砲",
+      "en": "Abyssal 4inch Triple Secondary Gun Mount",
+      "ko": "심해 4inch 삼연장부포",
+      "sc": "深海4inch三连装副炮",
+      "tc": "深海4inch10.2cm三連裝副砲"
     }
   }
 }

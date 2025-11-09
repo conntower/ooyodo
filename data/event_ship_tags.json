@@ -1,94 +1,58 @@
 {
-  "data_version": "2025040301",
+  "data_version": "2025110912",
   "data": {
     "1": {
-      "color": "0xffeabe4d",
+      "color": "0xffd1d1d1",
       "name": {
-        "ja": "第百四戦隊",
-        "en": "104th Squadron",
-        "sc": "第百四战队",
-        "tc": "第百四戰隊"
+        "ja": "改R4計画艦隊",
+        "en": "Plan R4 Kai Fleet",
+        "sc": "改R4计划舰队",
+        "tc": "改R4計畫艦隊"
       }
     },
     "2": {
-      "color": "0xffabed67",
+      "color": "0xffd2c34d",
       "name": {
-        "ja": "第一艦隊",
-        "en": "1st Fleet",
-        "sc": "第一舰队",
-        "tc": "第一艦隊"
+        "ja": "ナルヴィク先遣隊",
+        "en": "Narvik Advance Force",
+        "sc": "纳尔维克先遣队",
+        "tc": "納爾維克先遣隊"
       }
     },
     "3": {
-      "color": "0xffbfa2fe",
+      "color": "0xffa1cd87",
       "name": {
-        "ja": "第五艦隊",
-        "en": "5th Fleet",
-        "sc": "第五舰队",
-        "tc": "第五艦隊"
+        "ja": "ナルヴィク防衛主隊",
+        "en": "Narvik Main Defense Force",
+        "sc": "纳尔维克防卫主队",
+        "tc": "納爾維克防衛主隊"
       }
     },
     "4": {
-      "color": "0xff1bd069",
+      "color": "0xffcbb6f6",
       "name": {
-        "ja": "連合艦隊",
-        "en": "Combined Fleet",
-        "sc": "联合舰队",
-        "tc": "聯合艦隊"
+        "ja": "ナルヴィク駐留艦隊",
+        "en": "Narvik Garrison Fleet",
+        "sc": "纳尔维克驻留舰队",
+        "tc": "納爾維克駐留艦隊"
       }
     },
     "5": {
-      "color": "0xff4ab5e3",
+      "color": "0xff49bfc7",
       "name": {
-        "ja": "南西方面部隊",
-        "en": "Southwestern Area Unit",
-        "sc": "南西方面部队",
-        "tc": "南西方面部隊"
+        "ja": "イギリス本国艦隊",
+        "en": "British Home Fleet",
+        "sc": "英国本国舰队",
+        "tc": "英國本國艦隊"
       }
     },
     "6": {
-      "color": "0xfffde558",
+      "color": "0xfff59e2b",
       "name": {
-        "ja": "礼号作戦部隊",
-        "en": "Operation Rei-Go Unit",
-        "sc": "礼号作战部队",
-        "tc": "禮號作戰部隊"
-      }
-    },
-    "7": {
-      "color": "0xffb8b8b8",
-      "name": {
-        "ja": "キャビア増援部隊",
-        "en": "Cavite Reinforcement Unit",
-        "sc": "甲米地增援部队",
-        "tc": "甲米地增援部隊"
-      }
-    },
-    "8": {
-      "color": "0xfffdbadb",
-      "name": {
-        "ja": "第三十一戦隊",
-        "en": "31st Squadron",
-        "sc": "第三十一舰队",
-        "tc": "第三十一艦隊"
-      }
-    },
-    "9": {
-      "color": "0xffec9151",
-      "name": {
-        "ja": "第四航空戦隊",
-        "en": "4th Carrier Division",
-        "sc": "第四航空战队",
-        "tc": "第四航空戰隊"
-      }
-    },
-    "10": {
-      "color": "0xffff484e",
-      "name": {
-        "ja": "第二遊撃部隊",
-        "en": "2nd Strike Force",
-        "sc": "第二游击部队",
-        "tc": "第二遊擊部隊"
+        "ja": "イギリス機動部隊",
+        "en": "British Carrier Task Force",
+        "sc": "英国机动部队",
+        "tc": "英國機動部隊"
       }
     }
   }
